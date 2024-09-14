@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" "group-title="General",RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-logo="https://i.imgur.com/k06WvYl.png" "group-title="General",RTRS Plus
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png",RTS 1
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png",RTS 2
+http://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+
+#EXTINF:-1 group-title="DAY" tvg-country="HR" tvg-id="RTL2.hr" tvg-logo="https://i.imgur.com/rzB6Z6u.png",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-country="HR" tvg-id="RTLKockica.hr" tvg-logo="https://i.imgur.com/C7H5bJs.png",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="https://i.imgur.com/QORHrXu.png" "group-title="General",RTCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="https://i.imgur.com/WECmUKH.png" "group-title="General",RTCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" "group-title="General",RTCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="DAY" tvg-country="ME" tvg-id="TVCGMNE.me" tvg-logo="https://i.imgur.com/pf8VEwf.png",CG MNE
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-logo="https://i.imgur.com/DUBvfWb.png" "group-title="General",BN TV
+https://rtvbn.tv:8080/live/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-logo="https://i.imgur.com/7rK00VE.png" group-title="News",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+
+#EXTINF:-1 tvg-id="Pink.rs" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="General",Pink
+https://live.rednet.rs/providus/pink1.m3u8
+
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/LIUtEgD.png" group-title="General",RTV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Music",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-logo="https://i.imgur.com/9SD40uH.png" group-title="Sports",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.rs" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music",Top TV
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music",Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-logo="https://i.imgur.com/cpN7NrL.png" "group-title="General",Red TV
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+
+#EXTINF:-1 tvg-id="BelleAmie.rs" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="General",TV Belle Amie
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-logo="https://i.imgur.com/qZV3JW5.png" group-title="Music",TV Duga Plus
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="https://i.imgur.com/XzAYOFK.png" group-title="General",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png",Sehara Online
+http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SlavonskaTV.hr",Slavonska
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png",Slon Extra
+http://31.47.0.130:8082/
+
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-logo="https://studiob.rs/wp-content/themes/studiob/img/logo.png",Studio B
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-logo="https://i.imgur.com/8ugnFa3.png" group-title="General",TV Pi Kanal
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 tvg-id="TVNova.hr" tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ba" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="General",Super TV Media
+https://mirtv.club/live/mirtv/index.m3u8
+
+#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="General",Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-logo="https://i.imgur.com/6FNL8Iv.png" group-title="General",RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="General",Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+
+#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="Community" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Drama" group-title="General" tvg-name="Drama" tvg-logo="https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png" ,Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f706cc01-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2019c96f-7534-4d2e-8f33-a66cbcbb4a86&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Drama+" group-title="General" tvg-name="Drama+" tvg-logo="https://images.pluto.tv/channels/5ddbf866b1862a0009a0648e/colorLogoPNG.png" ,Drama+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7074130-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a03985d8-3f02-4664-a21a-11a6e2b83c17&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="ServusTV" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV
+https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+
+#EXTINF:-1 tvg-name="3sat.de" tvg-id="3sat.de" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/1920px-3sat_2019.svg.png",3Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR" tvg-id="WDR.de" group-title="General" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+
+#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" group-title="General" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="Ö3-VisualRadio" tvg-id="oe3.at" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Ö3-VisualRadio
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
+
+#EXTINF:-1 tvg-name="SWR3-VisualRadio" tvg-id="swr3.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png",SWR3-VisualRadio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+
+#EXTINF:-1 tvg-name="DASDING-VisualRadio" tvg-id="Dasding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING-VisualRadio
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+
+#EXTINF:-1 tvg-name="DELUXE LOUNGE RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png",DELUXE LOUNGE RADIO
+https://audiostreams.deluxemusic.tv/lounge/mp3-192
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png",DELUXE MUSIC RADIO
+https://audiostreams.deluxemusic.tv/music/mp3-192
