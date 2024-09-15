@@ -1,1 +1,1 @@
-televizor ist ein Projekt, bei dem eine m3u Datei als Liste für IPTV Programme erstellt wurde.
+televizor ist ein Projekt, bei dem eine m3u Datei als Liste für IPTV Programme erstellt wurde. Derzeit befindet sich das Projekt in einer Testphase. Somit wird laufend etwas an der Datei verändert, gelöscht, hinzugefügt, erweitert oder verändert.
