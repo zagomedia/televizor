@@ -57,19 +57,19 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
-#EXTINF:-1 tvg-country="Rock&Roll" tvg-logo="https://imgur.com/sy1BDNK" group-title="Music",Rock&Roll
+#EXTINF:-1 tvg-country="Rock&Roll" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="TIKTAK" tvg-logo="https://imgur.com/9dz8MsD" group-title="Music",TIKTAK
+#EXTINF:-1 tvg-country="TIKTAK" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",TIKTAK
 https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="ZZ TV" tvg-logo="https://imgur.com/9dz8MsD" group-title="Music",ZZ TV
+#EXTINF:-1 tvg-country="ZZ TV" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="WORLD WIDE MUZZIK" tvg-logo="https://imgur.com/tEzppGC" group-title="Music",WORLD WIDE MUZZIK
+#EXTINF:-1 tvg-country="WORLD WIDE MUZZIK" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",WORLD WIDE MUZZIK
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
-#EXTINF:-1 tvg-country="SENSE" tvg-logo="https://imgur.com/9dz8MsD" group-title="Music",SENSE
+#EXTINF:-1 tvg-country="SENSE" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",SENSE
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music",Radio Lola
@@ -87,7 +87,7 @@ https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png",Sehara Online
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-logo="https://imgur.com/WpPhWXe",Slavonska
+#EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-logo="https://i.imgur.com/WpPhWXe.png",Slavonska
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
 #EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png",Slon Extra
