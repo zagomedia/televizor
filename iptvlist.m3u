@@ -57,6 +57,21 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
+#EXTINF:-1 tvg-country="Rock&Roll" tvg-logo="https://imgur.com/sy1BDNK" group-title="Music",Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="TIKTAK" tvg-logo="https://imgur.com/9dz8MsD" group-title="Music",TIKTAK
+https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="ZZ TV" tvg-logo="https://imgur.com/9dz8MsD" group-title="Music",ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="WORLD WIDE MUZZIK" tvg-logo="https://imgur.com/tEzppGC" group-title="Music",WORLD WIDE MUZZIK
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SENSE" tvg-logo="https://imgur.com/9dz8MsD" group-title="Music",SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music",Radio Lola
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 
@@ -65,9 +80,6 @@ https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 
 #EXTINF:-1 tvg-id="BelleAmie.rs" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="General",TV Belle Amie
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-logo="https://i.imgur.com/qZV3JW5.png" group-title="Music",TV Duga Plus
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="https://i.imgur.com/XzAYOFK.png" group-title="General",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
