@@ -75,7 +75,7 @@ https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png",Sehara Online
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SlavonskaTV.hr",Slavonska
+#EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-logo="https://imgur.com/WpPhWXe",Slavonska
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
 #EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png",Slon Extra
