@@ -1,0 +1,63 @@
+IPTV is a system or technology that uses IP and Internet protocols to transmit multimedia content in streaming. It is usually used to broadcast television over broadband networks.
+Not to be confused with Internet TV or Internet TV. Both technologies use the same or almost the same protocols, but the content delivery method differs. While on Internet TV the contents are usually offered freely and are not geolocated and the contents are normally accessible with an internet browser, on IPTV the contents are offered only to registered or subscription users and are usually geolocated. It is almost the same difference that there can be between cable TV or pay TV and public or broadcast TV. This system is lately used to offer live TV (or almost), almost always illegally, to users who do not have a subscription to a pay TV service.
+
+
+M3U is a plain text file format (can be opened with the same Windows Notepad) used to createPlaylists or Play Lists . M3U is the acronym for MPEG Version 3.0 URL . Initially it was only supported by the Winamp player , but over time it has become a standard for creating play lists and is supported by almost all players on the market.
+It was originally created to create music playlists, but is currently a type of file used to create IPTV playlists.
+
+
+The objective of this article is that we learn how the m3u lists for IPTV are structured and we ourselves can create from scratch or modify ready-made lists to better suit our tastes and / or needs. As we always recommend in Addictive Knowledge, it is much more satisfying to know how things are and how things are done than to wait for others with their personal whims to tell us how they should be.
+
+
+STRUCTURE OF AN M3U FILE
+The structure of an m3u file must contain a series of specific labels distributed over three lines.
+The structure is as follows:
+# EXTM3U
+#EXTINF: (duration), (attributes), (channel title)
+URL
+
+
+# EXTM3U
+Mandatory label and must go to the beginning of the document. It is only written once in the entire document and indicates to players that this is an Extended M3U list. It is Extended because it includes additional attributes that are not present in a basic M3U list.
+
+
+#EXTINF:
+Indicates where the additional metadata of each streaming begins. One line must be used for each stream included in the list. For example, if we list 5 TV channels, we will have to create 5 lines #EXTINF:
+
+
+(duration)
+Indicates the duration in seconds of the referenced multimedia file. Two parameters are used in IPTV lists. either 0 or -1. Both parameters have the same function, they indicate that the streaming duration is not fixed and cannot be determined. Some players interpret it slightly differently, parameter 0 refers to a cached broadcast, and therefore the broadcast can be summarized, that is, pause and continue at the same point where it left off. Parameter -1 indicates that it is a live broadcast and cannot be summarized.
+
+
+Examples:
+
+
+#EXTINF: 523 indicates that it is a stored file that has a duration of 523 seconds
+#EXTINF: 0 indicates that it is a live broadcast from a cache that allows to summarize the playback
+#EXTINF: -1indicates that it is a live broadcast and does not allow summarizing.
+
+
+After the duration parameter, a blank space must be placed
+Example: #EXTINF: -1, Channel name
+
+
+(attributes)
+They are a series of optional tags that add metadata that can be read by the players. Not all players are capable of interpreting all attributes.
+A blank space must be left between the attributes.
+There are several attribute tags, but the most used in IPTV lists are the following:
+
+
+tvg-id = ”ID EPG”
+Indicates the EPG or programming guide ID or identifier. EPG (Electronic Program Guide) is similar to teletext, it offers the hourly programming of the different TV channels. In digital TV broadcasts, apart from video and audio data, additional data can also be sent with the programming of that channel. In IPTV this is not possible and these guides are usually offered in XML format that must be downloaded and used locally, or downloaded from a URL. The following image is an example of part of an XML configured to be used as an EPG Guide:
+
+
+
+
+cache.php
+
+
+
+Not all players are EPG compatible. Some players that are compatible are RosadínTV, ProgDVB on PC or IPTV Pro on Android, which allow you to load EPG sources.
+
+
+If we specify the ID of each channel listed in the EPG, the player will display the information of that channel. The way this information is displayed differs for each player.
