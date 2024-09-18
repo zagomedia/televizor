@@ -57,22 +57,37 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Jeka.rs" tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="Music",JEKA
+https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" "group-title="General",MUZZIK MIX
+https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Moba.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",MOBA
+https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Electro.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ELECTRO
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Flashback.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",FLASHBACK
 https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="Rock&Roll" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
+#EXTINF:-1 tvg-country="Rock&Roll.rs" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="TIKTAK" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",TIKTAK
+#EXTINF:-1 tvg-country="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",TIKTAK
 https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="ZZ TV" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
+#EXTINF:-1 tvg-country="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="WORLD WIDE MUZZIK" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",WORLD WIDE MUZZIK
+#EXTINF:-1 tvg-country="Popstar.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",POP STAR
+https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",WORLD WIDE MUZZIK
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 #EXTINF:-1 tvg-country="SENSE" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",SENSE
