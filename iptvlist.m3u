@@ -138,17 +138,11 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
-#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="Community" tvg-logo="https://i.imgur.com/HWxNBWV.png",Okto
+#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/HWxNBWV.png" group-title="Community",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/nsbzvmcf/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://i.imgur.com/7H5y1bL.png",ServusTV
+#EXTINF:-1 tvg-name="ServusTV" tvg-name="ServusTV" tvg-id="ServusTV.at" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/7H5y1bL.png" group-title="Community",ServusTV
 https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
 
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-
-#EXTINF:-1 tvg-name="3sat.de" tvg-id="3sat.de" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/1920px-3sat_2019.svg.png",3Sat
+#EXTINF:-1 tvg-name="3sat.de" tvg-name="3sat" tvg-id="3sat.de" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/cXLS8Cz.png" group-title="General",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
