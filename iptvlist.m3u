@@ -138,14 +138,20 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
-#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/HWxNBWV.png" group-title="Community",Okto
+#EXTINF:-1 tvg-id="OKTO.at" tvg-name="Okto" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/HWxNBWV.png" group-title="Community",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/nsbzvmcf/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV" tvg-name="ServusTV" tvg-id="ServusTV.at" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/7H5y1bL.png" group-title="Community",ServusTV
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/7H5y1bL.png" group-title="Community",ServusTV
 https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
 
-#EXTINF:-1 tvg-name="3sat.de" tvg-name="3sat" tvg-id="3sat.de" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/cXLS8Cz.png" group-title="General",3Sat
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/cXLS8Cz.png" group-title="General",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
-#EXTINF:-1 tvg-name="Welt der Wunder" tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" tvg-logo="https://i.imgur.com/bNbUmzb.png" group-title="Community",Welt der Wunder
+#EXTINF:-1 tvg-id="WeltderWunder.de" tvg-name="Welt der Wunder" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bNbUmzb.png" group-title="Community",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/B66h5XH.png" group-title="News",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Clb6f1x.png" group-title="News",WELT
+https://welt.personalstream.tv/v1/master.m3u8
