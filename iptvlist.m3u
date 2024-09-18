@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png" "group-title="General",RTRS
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-logo="https://i.imgur.com/2Sgs5gM.png" tvg-group="General",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-logo="https://i.imgur.com/k06WvYl.png" "group-title="General",RTRS Plus
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-logo="https://i.imgur.com/k06WvYl.png" tvg-group="General",RTRS Plus
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 
 #EXTINF:-1 group-title="DAY" tvg-country="RS" tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png",RTS 1
