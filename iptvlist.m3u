@@ -141,7 +141,7 @@ https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="Community" tvg-logo="https://i.imgur.com/HWxNBWV.png",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/nsbzvmcf/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV
+#EXTINF:-1 tvg-name="ServusTV" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://i.imgur.com/7H5y1bL.png",ServusTV
 https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
 
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
