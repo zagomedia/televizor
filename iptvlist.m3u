@@ -54,22 +54,22 @@ http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 #EXTINF:-1 tvg-country="Rock&Roll.rs" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Moba.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",MOBA
+#EXTINF:-1 tvg-id="Moba.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Moba
 https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="Popstar.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",POP STAR
+#EXTINF:-1 tvg-country="Popstar.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",Pop Star
 https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Jeka.rs" tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="Music",JEKA
+#EXTINF:-1 tvg-id="Jeka.rs" tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="Music",Jeka
 https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
+#EXTINF:-1 tvg-country="ZZTV.hr" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
 
 #EXTINF:-1 tvg-country="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",WORLD WIDE MUZZIK
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
-#EXTINF:-1 tvg-country="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",TikTak
+#EXTINF:-1 tvg-country="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Tik Tak
 https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Muzzik.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",MUZZIK
