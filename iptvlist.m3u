@@ -57,6 +57,12 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Electro.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ELECTRO
+https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Flashback.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
+
 #EXTINF:-1 tvg-country="Rock&Roll" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 
