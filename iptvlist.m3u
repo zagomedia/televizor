@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="RTRSTV.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTRSTVneu.ba" tvg-logo="https://i.imgur.com/2Sgs5gM.png",RTRSneu
+https://live3.cdn-canlitv.com/rtrs.m3u8
+
 #EXTINF:-1 tvg-id="RTRSplus.ba" tvg-logo="https://i.imgur.com/k06WvYl.png",RTRS Plus
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 
