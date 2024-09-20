@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="N1.rs" tvg-country="RS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 RS
-https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="N1.ba" tvg-country="BA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 BIH
-https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="N1.hr" tvg-country="HR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 HR
-https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General",RTRS Plus
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="N1.rs" tvg-country="RS" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 RS
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="N1.ba" tvg-country="BA" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 BIH
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="N1.hr" tvg-country="HR" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 HR
+https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General",RTS 1
 http://webtvstream.bhtelecom.ba/rts1.m3u8
