@@ -17,3 +17,6 @@ http://webtvstream.bhtelecom.ba/rts1.m3u8
 
 #EXTINF:-1 tvg-id="RTS1svet.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General",RTS Svet
 https://webtvstream.bhtelecom.ba/hls7/rts_svet_1200.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralplus1.de" tvg-name="Comedy Central+1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/ifp4Lhk.png" group-title="General",Comedy Central+1
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
