@@ -147,9 +147,6 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralplus1.de" tvg-name="Comedy Central+1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/ifp4Lhk.png" group-title="General",Comedy Central+1
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-
 #EXTINF:-1 tvg-id="OKTO.at" tvg-name="Okto" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/HWxNBWV.png" group-title="Community",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/nsbzvmcf/720/chunklist.m3u8
 
@@ -194,3 +191,24 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rockland.de" tvg-name="Rockland TV" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/t9YNxhn.png" group-title="Music",Rockland TV
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/pjlWwuk.png" group-title="Music",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/oiVsTAb.png" group-title="Music",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicRock.de" tvg-name="DELUXE MUSIC ROCK" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/s4LaQnJ.png" group-title="Music",DELUXE MUSIC ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicFlashback.de" tvg-name="DELUXE MUSIC FLASHBACK" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/MLNplwI.png" group-title="Music",DELUXE MUSIC FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicDance.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC DANCE" tvg-logo="https://i.imgur.com/Vmqzt3F.png" group-title="Music",DELUXE MUSIC DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/gmOqPwm.png" group-title="Music",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/nsL8lmH.png" group-title="Music",Deutsches Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
