@@ -147,6 +147,9 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentralplus1.de" tvg-name="Comedy Central+1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/ifp4Lhk.png" group-title="General",Comedy Central+1
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+
 #EXTINF:-1 tvg-id="OKTO.at" tvg-name="Okto" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/HWxNBWV.png" group-title="Community",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/nsbzvmcf/720/chunklist.m3u8
 
@@ -170,3 +173,24 @@ https://welt.personalstream.tv/v1/master.m3u8
 
 #EXTINF:-1 tvg-id="W24.at" tvg-name="W24 TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/0MxbymF.png" group-title="General",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/zWhq7TN.png" group-title="General",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-id="Bild.de" tvg-name="Bild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/DivBCKl.png" group-title="Dokumentationen",Bild
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xFjmeH3.png" group-title="Sport",Auto Bild TV
+https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+
+#EXTINF:-1 tvg-id="Redbulltv.at" tvg-name="Red Bull TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/XbDqZMX.png" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bLucGVW.png" group-title="General",ANIXE HD
+https://wow.anixa.tv/live/anixehd2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/G8x4CXH.png" group-title="Dokumentationen",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rockland.de" tvg-name="Rockland TV" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/t9YNxhn.png" group-title="Music",Rockland TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
