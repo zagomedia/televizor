@@ -1,5 +1,17 @@
+p {
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+}
+
 h1 {
     font-family: Arial;
     font-size: 24px;
     color: #1e90ff;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 24px;
+    color: orange;
 }
