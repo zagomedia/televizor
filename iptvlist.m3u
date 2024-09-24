@@ -42,7 +42,7 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/uLVXrvU.png" group-title="General",RTCG 3
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="General",CG MNE
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/ma723l0.png" group-title="General",CG MNE
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/YeD4xkO.png" group-title="News",Euronews Serbia
