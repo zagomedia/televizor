@@ -132,9 +132,6 @@ http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/WpPhWXe.png",Slavonska
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
-#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/AohYgH1.png",Slon Extra
-http://31.47.0.130:8082/
-
 #EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B" tvg-country="RS" tvg-language="SRP" tvg-logo="https://studiob.rs/wp-content/themes/studiob/img/logo.png",Studio B
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 
