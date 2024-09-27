@@ -111,7 +111,7 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9SD40uH.png" group-title="Sports",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TDIradiotelevizija.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music",TDI Radio Televizija
+#EXTINF:-1 tvg-id="TDIradio.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DcPnkfq.png" group-title="Music",TDI Radio
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
 
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music",Radio Lola
