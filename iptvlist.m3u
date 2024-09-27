@@ -9,6 +9,9 @@ http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/Si8ltlY.png" group-title="General",RTRS Plus
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/poW2MyA.png" group-title="Entertainment",RTV City Ub
+http://109.72.57.12/hls/tvcityub.m3u8
+
 #EXTINF:-1 tvg-id="N1.rs" tvg-country="RS" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 
