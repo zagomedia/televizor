@@ -16,6 +16,9 @@ http://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS1svet.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General",RTS Svet
 https://webtvstream.bhtelecom.ba/hls7/rts_svet_1200.m3u8
 
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/AohYgH1.png",Slon Extra
+http://31.47.0.130:8082/
+
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/FqYUe9Z.png" group-title="General",Nickelodeon
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 
