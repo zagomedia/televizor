@@ -45,7 +45,7 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/ma723l0.png" group-title="General",CG MNE
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/CVh4ttO.png" group-title="News",Euronews Serbia
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Lcquwjs.png" group-title="News",Euronews Serbia
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/CTKECGv.png" group-title="News",Al Jazeera Balkans
