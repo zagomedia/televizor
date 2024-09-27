@@ -24,10 +24,10 @@ http://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="General",RTS 2
 http://webtvstream.bhtelecom.ba/rts2.m3u8
 
-#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/fTcJRT8.jpeg",RTL
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/BV4ZH6G.png",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/rzB6Z6u.png",RTL 2
+#EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/BV4ZH6G.png",RTL 2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/C7H5bJs.png",RTL Kockica
