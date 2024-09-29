@@ -150,7 +150,7 @@ https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTVHB.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/6FNL8Iv.png" group-title="General",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrendTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="General",Trend TV
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZmYok69.png" group-title="General",Trend TV
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General",Libertas TV
