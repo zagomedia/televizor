@@ -12,13 +12,13 @@ http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/poW2MyA.png" group-title="Entertainment",RTV City Ub
 http://109.72.57.12/hls/tvcityub.m3u8
 
-#EXTINF:-1 tvg-id="N1.rs" tvg-country="RS" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 RS
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
 
-#EXTINF:-1 tvg-id="N1.ba" tvg-country="BA" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 BIH
+#EXTINF:-1 tvg-id="N1.ba" tvg-name="N1 BiH" tvg-country="BA" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
 
-#EXTINF:-1 tvg-id="N1.hr" tvg-country="HR" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 HR
+#EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 HR" tvg-country="HR" tvg-logo="https://i.imgur.com/l5Fg5Qg.png" group-title="News",N1 HR
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
 
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General",RTS 1
@@ -69,40 +69,40 @@ https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Rock&Roll.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
+#EXTINF:-1 tvg-id="Rock&Roll.rs" tvg-name="Rock&Roll" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Moba.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/BpmEgnl.png" group-title="Music",Moba
+#EXTINF:-1 tvg-id="Moba.rs" tvg-name="Moba" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/BpmEgnl.png" group-title="Music",Moba
 https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Popstar.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",Pop Star
+#EXTINF:-1 tvg-id="Popstar.rs" tvg-name="Pop Star" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",Pop Star
 https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Jeka.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="Music",Jeka
+#EXTINF:-1 tvg-id="Jeka.rs" tvg-name="Jeka" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="Music",Jeka
 https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ZZTV.hr" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
+#EXTINF:-1 tvg-id="ZZTV.hr" tvg-name="ZZ TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",WORLD WIDE MUZZIK
+#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-name="WORLD WIDE MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",WORLD WIDE MUZZIK
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tiktak.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Tik Tak
+#EXTINF:-1 tvg-id="Tiktak.rs" tvg-name="Tik Tak" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/lRRWWOS.png" group-title="Music",Tik Tak
 https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Muzzik.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",MUZZIK
+#EXTINF:-1 tvg-id="Muzzik.rs" tvg-name="MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/lRRWWOS.png" group-title="Music",MUZZIK
 https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Sense.rs" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Sense
+#EXTINF:-1 tvg-id="Sense.rs" tvg-name="Sense" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/murANTq.png" group-title="Music",Sense
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/w0bdD1g.png" group-title="Music",MUZZIK MIX
+#EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-name="Muzzik Mix" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/w0bdD1g.png" group-title="Music",MUZZIK MIX
 https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Flashback.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Flashback
+#EXTINF:-1 tvg-id="Flashback.rs" tvg-name="Flashback" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/murANTq.png" group-title="Music",Flashback
 https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Electro.rs" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ELECTRO
+#EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ELECTRO
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Music",CMC TV
