@@ -72,7 +72,7 @@ http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Rock&Roll.rs" tvg-name="Rock&Roll" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Moba.rs" tvg-name="Moba" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/BpmEgnl.png" group-title="Music",Moba
+#EXTINF:-1 tvg-id="Moba.rs" tvg-name="Moba" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/8ZguMiv.png" group-title="Music",Moba
 https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Popstar.rs" tvg-name="Pop Star" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",Pop Star
