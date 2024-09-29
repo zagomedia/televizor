@@ -180,9 +180,6 @@ https://welt.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="W24.at" tvg-name="W24 TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/0MxbymF.png" group-title="General",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/zWhq7TN.png" group-title="General",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master.m3u8
-
 #EXTINF:-1 tvg-id="Bild.de" tvg-name="Bild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/DivBCKl.png" group-title="Dokumentationen",Bild
 https://bild.personalstream.tv/v1/master.m3u8
 
