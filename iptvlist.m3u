@@ -117,7 +117,7 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-997
 #EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music",Radio Lola
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 
-#EXTINF:-1 tvg-id="RedTV.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/cpN7NrL.png" "group-title="General",Red TV
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="General",Red TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 
 #EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="TV Belle Amie" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="General",TV Belle Amie
@@ -126,34 +126,34 @@ http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XzAYOFK.png" group-title="General",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSehara.si" tvg-logo="https://i.imgur.com/189FW4H.png",Sehara Online
+#EXTINF:-1 tvg-id="TVSehara.si" tvg-name="Sehara Online" tvg-logo="https://i.imgur.com/189FW4H.png",Sehara Online
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ww0rJ5A.png",Slavonska
+#EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-name="Slavonska" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ww0rJ5A.png" group-title="General",Slavonska
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
-#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1GRYciF.png",Studio B
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jJx21My.png" group-title="General",Studio B
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/cxPc3ad.png" group-title="General",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
-#EXTINF:-1 tvg-id="TVNova.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment",TV Nova
+#EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 
-#EXTINF:-1 tvg-id="SuperTV.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="General",Super TV Media
+#EXTINF:-1 tvg-id="SuperTV.ba" tvg-name="Super TV Media" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="General",Super TV Media
 https://mirtv.club/live/mirtv/index.m3u8
 
-#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="Entertainment",Televizija M
+#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-name="Televizija M" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="Entertainment",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="RTVHB.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/6FNL8Iv.png" group-title="General",RTV Herceg-Bosne
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/6FNL8Iv.png" group-title="General",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrendTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZmYok69.png" group-title="General",Trend TV
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZmYok69.png" group-title="General",Trend TV
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/I1iyyVX.png" group-title="General",Libertas TV
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/I1iyyVX.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
 #EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/aOblDGu.png" group-title="Music",Kronehit TV
