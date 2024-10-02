@@ -10,8 +10,8 @@ https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General",RTS 1
 http://webtvstream.bhtelecom.ba/rts1.m3u8
 
-#EXTINF:-1 tvg-id="RTS1svet.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General",RTS Svet
-https://webtvstream.bhtelecom.ba/hls7/rts_svet_1200.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="General",RTS 2
+http://webtvstream.bhtelecom.ba/rts2.m3u8
 
 #EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/AohYgH1.png",Slon Extra
 http://31.47.0.130:8082/
