@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Radio Republike Srpske" group-title="General" radio="true" tvg-logo="https://i.imgur.com/yUQVBbY.png",FM4
+#EXTINF:-1 tvg-name="Radio Republike Srpske" group-title="General" radio="true" tvg-logo="https://i.imgur.com/yUQVBbY.png",Radio Republike Srpske
 https://radio.rtrs.tv/radio/live/chunklist_w1957911470.m3u8
 
 #EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
