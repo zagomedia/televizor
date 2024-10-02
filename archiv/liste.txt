@@ -1,1 +1,41 @@
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General",RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General",RTRS Plus
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplusneu.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General",RTRS Plus Neu
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General",RTS 1
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="General",RTS 2
+http://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/AohYgH1.png",Slon Extra
+http://31.47.0.130:8082/
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/FqYUe9Z.png" group-title="General",Nickelodeon
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/pjlWwuk.png" group-title="Music",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/oiVsTAb.png" group-title="Music",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicRock.de" tvg-name="DELUXE MUSIC ROCK" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/s4LaQnJ.png" group-title="Music",DELUXE MUSIC ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicFlashback.de" tvg-name="DELUXE MUSIC FLASHBACK" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/MLNplwI.png" group-title="Music",DELUXE MUSIC FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicDance.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC DANCE" tvg-logo="https://i.imgur.com/Vmqzt3F.png" group-title="Music",DELUXE MUSIC DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/gmOqPwm.png" group-title="Music",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/nsL8lmH.png" group-title="Music",Deutsches Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
