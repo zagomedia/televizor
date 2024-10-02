@@ -42,13 +42,13 @@ https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/C7H5bJs.png",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/JBDSany.png" group-title="General",RTCG 1
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/XzgOy89.png" group-title="General",RTCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/tZu2s1a.png" group-title="General",RTCG 2
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/4gcSvBE.png" group-title="General",RTCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/ksDDzzt.png" group-title="General",RTCG 3
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/XnkyMvJ.png" group-title="General",RTCG 3
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/ma723l0.png" group-title="General",CG MNE
