@@ -195,6 +195,39 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 
+#EXTINF:-1 radio="true" group-title="RS",TDI Classics 80' 90'
+http://streaming.tdiradio.com:8000/classics.mp3
+
+#EXTINF:-1 radio="true" group-title="RS",TDI House
+http://streaming.tdiradio.com:8000/house.mp3
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio
+http://streaming.tdiradio.com:8000/tdiradio
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Bez Reklama
+http://streaming.tdiradio.com:8000/tdiradiobezreklama
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Chill Out
+http://streaming.tdiradio.com:8000/chillout
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Classics
+http://streaming.tdiradio.com:8000/classics
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Domacica
+http://streaming.tdiradio.com:8000/domacica
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Love
+http://streaming.tdiradio.com:8000/love
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Pop RnB Hits
+http://streaming.tdiradio.com:8000/poprnbhits
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Top 40
+http://streaming.tdiradio.com:8000/top40
+
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Yu Dance
+http://streaming.tdiradio.com:8000/yudance
+
 #EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/KjtBLo7.png" group-title="BiH",Radio BN
 http://stream.rtvbn.com:8522/.mp3
 
