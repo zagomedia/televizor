@@ -527,8 +527,7 @@ http://stream.radiojar.com/4qawu2xta2zuv.mp3
 http://onair.superfm.rs/superfm.mp3
 #EXTINF:-1,Svetski Radio
 http://comet.shoutca.st:8929/*.mp3
-#EXTINF:-1,Szabadkai Magyar Rádió
-http://breddstream.unrealhosting.hu:4110/
+
 #EXTINF:-1,TDI Classics 80' 90'
 http://streaming.tdiradio.com:8000/classics.mp3
 #EXTINF:-1,TDI House
@@ -551,6 +550,8 @@ http://streaming.tdiradio.com:8000/poprnbhits
 http://streaming.tdiradio.com:8000/top40
 #EXTINF:-1,TDI Radio - Yu Dance
 http://streaming.tdiradio.com:8000/yudance
+
+
 #EXTINF:-1,Top FM Radio 106.8 Belgrade
 http://live64.topfm.rs:8000/
 #EXTINF:-1,UnderGRAND Radio
