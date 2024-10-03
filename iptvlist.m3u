@@ -195,8 +195,11 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/KjtBLo7.png" group-title="BiH" ,Radio BN
+#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/KjtBLo7.png" group-title="BiH",Radio BN
 http://stream.rtvbn.com:8522/.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiorepublikesrpske" tvg-name="Radio Republike Srpske" tvg-logo="https://i.imgur.com/PMyruJH.png" group-title="BiH",Radio Republike Srpske
+https://radio.rtrs.tv/radio/live/chunklist_w1957911470.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="radiooe3" tvg-name="Hitradio Ö3" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
 https://orf-live.ors-shoutcast.at/oe3-q2a
@@ -212,6 +215,3 @@ https://orf-live.ors-shoutcast.at/fm4-q2a
 
 #EXTINF:-1 radio="true" tvg-id="liferadio" tvg-name="Life Radio" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
 https://stream.liferadio.at/liferadio/mp3-192
-
-#EXTINF:-1 radio="true" tvg-id="radiorepublikesrpske" tvg-name="Radio Republike Srpske" group-title="Republika Srpska" tvg-logo="https://i.imgur.com/PMyruJH.png",Radio Republike Srpske
-https://radio.rtrs.tv/radio/live/chunklist_w1957911470.m3u8
