@@ -195,6 +195,9 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 
+#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" group-title="BiH" ,Radio BN
+http://stream.rtvbn.com:8522/.mp3
+
 #EXTINF:-1 radio="true" tvg-id="radiooe3" tvg-name="Hitradio Ö3" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
 https://orf-live.ors-shoutcast.at/oe3-q2a
 
