@@ -198,6 +198,9 @@ https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/KjtBLo7.png" group-title="BiH",Radio BN
 http://stream.rtvbn.com:8522/.mp3
 
+#EXTINF:-1 radio="true" tvg-id="okradio" tvg-name="OK Radio" tvg-logo="https://i.imgur.com/d2UO6Oj.png" group-title="RS",OK Radio
+https://sslstream.okradio.net/?type=http\u0026nocache=8804
+
 #EXTINF:-1 radio="true" tvg-id="radiorepublikesrpske" tvg-name="Radio Republike Srpske" tvg-logo="https://i.imgur.com/PMyruJH.png" group-title="BiH",Radio Republike Srpske
 https://radio.rtrs.tv/radio/live/chunklist_w1957911470.m3u8
 
