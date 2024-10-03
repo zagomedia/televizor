@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iFaqct6.png" group-title="General",RTS 1
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/nhiF92Y.png" group-title="General",RTS 2
+http://webtvstream.bhtelecom.ba/rts2.m3u8
