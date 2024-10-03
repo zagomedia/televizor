@@ -195,8 +195,8 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 
-#EXTINF:-1 radio="true" group-title="RS",TDI Classics 80' 90'
-http://streaming.tdiradio.com:8000/classics.mp3
+#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Classics
+http://streaming.tdiradio.com:8000/classics
 
 #EXTINF:-1 radio="true" group-title="RS",TDI House
 http://streaming.tdiradio.com:8000/house.mp3
@@ -209,9 +209,6 @@ http://streaming.tdiradio.com:8000/tdiradiobezreklama
 
 #EXTINF:-1 radio="true" group-title="RS",TDI Radio - Chill Out
 http://streaming.tdiradio.com:8000/chillout
-
-#EXTINF:-1 radio="true" group-title="RS",TDI Radio - Classics
-http://streaming.tdiradio.com:8000/classics
 
 #EXTINF:-1 radio="true" group-title="RS",TDI Radio - Domacica
 http://streaming.tdiradio.com:8000/domacica
