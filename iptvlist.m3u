@@ -195,8 +195,8 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 
-#EXTINF:-1  radio="true" tvg-id="radiorepublikesrpske" tvg-name="Radio Republike Srpske" group-title="General"tvg-logo="https://i.imgur.com/yUQVBbY.png",Radio Republike Srpske
+#EXTINF:-1 radio="true" tvg-id="radiorepublikesrpske" tvg-name="Radio Republike Srpske" group-title="General"tvg-logo="https://i.imgur.com/yUQVBbY.png",Radio Republike Srpske
 https://radio.rtrs.tv/radio/live/chunklist_w1957911470.m3u8
 
-#EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
+#EXTINF:-1 radio="true" tvg-name="FM4" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
 https://orf-live.ors-shoutcast.at/fm4-q2a
