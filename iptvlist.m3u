@@ -87,7 +87,7 @@ https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Muzzik.rs" tvg-name="MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",MUZZIK
 https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Sense.rs" tvg-name="Sense" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",Sense
+#EXTINF:-1 tvg-id="Sense.rs" tvg-name="Sense" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/W0RJilv.png" group-title="Music",Sense
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-name="Muzzik Mix" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wEgj06b.png" group-title="Music",MUZZIK MIX
