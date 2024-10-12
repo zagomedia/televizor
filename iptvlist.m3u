@@ -99,7 +99,7 @@ https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LTxyGog.png" group-title="Music",ELECTRO
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/90cBYrl.png" group-title="Music",CMC TV
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/BcRZeuv.png" group-title="Sports",SOS Kanal Plus
