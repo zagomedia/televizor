@@ -210,25 +210,25 @@ http://streaming.tdiradio.com:8000/house.mp3
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiobezreklama" tvg-name="TDI Radio bez reklama" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio - Bez Reklama
+#EXTINF:-1 radio="true" tvg-id="tdiradiobezreklama" tvg-name="TDI Radio bez reklama" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio bez reklama
 http://streaming.tdiradio.com:8000/tdiradiobezreklama
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiochillout" tvg-name="TDI Radio Chill Out" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio - Chill Out
+#EXTINF:-1 radio="true" tvg-id="tdiradiochillout" tvg-name="TDI Radio Chill Out" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Chill Out
 http://streaming.tdiradio.com:8000/chillout
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiodomacica" tvg-name="TDI Radio Domacica" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio - Domacica
+#EXTINF:-1 radio="true" tvg-id="tdiradiodomacica" tvg-name="TDI Radio Domacica" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Domacica
 http://streaming.tdiradio.com:8000/domacica
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiolove" tvg-name="TDI Radio Love" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio - Love
+#EXTINF:-1 radio="true" tvg-id="tdiradiolove" tvg-name="TDI Radio Love" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Love
 http://streaming.tdiradio.com:8000/love
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiopoprnbhits" tvg-name="TDI Radio Pop RnB Hits" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio - Pop RnB Hits
+#EXTINF:-1 radio="true" tvg-id="tdiradiopoprnbhits" tvg-name="TDI Radio Pop RnB Hits" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Pop RnB Hits
 http://streaming.tdiradio.com:8000/poprnbhits
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiotop40" tvg-name="TDI Radio Top 40" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio - Top 40
+#EXTINF:-1 radio="true" tvg-id="tdiradiotop40" tvg-name="TDI Radio Top 40" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Top 40
 http://streaming.tdiradio.com:8000/top40
 
-#EXTINF:-1 radio="true" tvg-id="tdiradioyudance" tvg-name="TDI Radio Yu Dance" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio - Yu Dance
+#EXTINF:-1 radio="true" tvg-id="tdiradioyudance" tvg-name="TDI Radio Yu Dance" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Yu Dance
 http://streaming.tdiradio.com:8000/yudance
 
 #EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/KjtBLo7.png" group-title="BiH",Radio BN
