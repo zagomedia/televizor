@@ -1,0 +1,256 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
+https://rtvbn.tv:8080/live/index.m3u8
+
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/PghajzH.png" group-title="General",RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/wB2P0S3.png" group-title="General",RTRS Plus
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9KIQmOE.png" group-title="Entertainment",RTV City Ub
+http://109.72.57.12/hls/tvcityub.m3u8
+
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
+
+#EXTINF:-1 tvg-id="N1.ba" tvg-name="N1 BiH" tvg-country="BA" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 BiH
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
+
+#EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 HR" tvg-country="HR" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 HR
+https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
+
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/tQDYjfS.png" group-title="General",RTV 1
+http://212.200.230.50:1935/RTV/rtv1/chunklist_w53839759.m3u8
+
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/YkKxdgO.png" group-title="General",RTV 2
+http://212.200.230.50:1935/RTV/rtv2/chunklist_w867194608.m3u8
+
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/5RdPcQ3.png" group-title="Entertainment",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/a7nBbBq.png" group-title="Entertainment",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/3586BJn.png" group-title="Entertainment",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/gnKC37w.png" group-title="General",RTCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/Edeq2HD.png" group-title="General",RTCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/EPLADFg.png" group-title="General",RTCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/E584ffJ.png" group-title="General",CG MNE
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/smhVgxX.png" group-title="News",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/h7kwiC7.png" group-title="News",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1uy65ei.png" group-title="Entertainment",Pink
+https://live.rednet.rs/providus/pink1.m3u8
+
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-name="RTV AS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zyuIgzL.png" group-title="General",RTV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
+http://74.208.199.212:8081/TopTV/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Rock&Roll.rs" tvg-name="Rock&Roll" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/hVeC5aW.png" group-title="Music",Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Moba.rs" tvg-name="Moba" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/plIMSEj.png" group-title="Music",Moba
+https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Popstar.rs" tvg-name="Pop Star" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DipjEUe.png" group-title="Music",Pop Star
+https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Jeka.rs" tvg-name="Jeka" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OqvIB2x.png" group-title="Music",Jeka
+https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ZZTV.hr" tvg-name="ZZ TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/rQ8f1KP.png" group-title="Music",ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-name="WORLD WIDE MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Hr0b9Sk.png" group-title="Music",WORLD WIDE MUZZIK
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tiktak.rs" tvg-name="Tik Tak" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/v5V6YA9.png" group-title="Music",Tik Tak
+https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik.rs" tvg-name="MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Sense.rs" tvg-name="Sense" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/W0RJilv.png" group-title="Music",Sense
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-name="Muzzik Mix" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wEgj06b.png" group-title="Music",MUZZIK MIX
+https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Flashback.rs" tvg-name="Flashback" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OJ6Bs8s.png" group-title="Music",Flashback
+https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LTxyGog.png" group-title="Music",ELECTRO
+https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/BcRZeuv.png" group-title="Sports",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TDIradio.rs" tvg-name="TDI Radio" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="Music",TDI Radio
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
+
+#EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/s2nYXyD.png" group-title="Music",Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/KQu3sVC.png" group-title="General",Red TV
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+
+#EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="TV Belle Amie" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/gQJQ5fk.png" group-title="General",TV Belle Amie
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/3bvOt20.png" group-title="General",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+
+#EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-name="Slavonska" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/soOU1s1.png" group-title="General",Slavonska
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wKvuOcr.png" group-title="General",Studio B
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/4qOQwjs.png" group-title="General",TV Pi Kanal
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/re0Ha7C.png" group-title="Entertainment",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ba" tvg-name="Super TV Media" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/itKMJhs.png" group-title="General",Super TV Media
+https://mirtv.club/live/mirtv/index.m3u8
+
+#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-name="Televizija M" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/DLYslWy.png" group-title="Entertainment",Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/uy5qiIg.png" group-title="General",RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Lvpa4kZ.png" group-title="General",Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/MRpGnpa.png" group-title="General",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+
+#EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="Rockland.de" tvg-name="Rockland TV" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/ktbha45.png" group-title="Music",Rockland TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/gDgMPT7.png" group-title="Music",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicDance.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC DANCE" tvg-logo="https://i.imgur.com/zAmluM4.png" group-title="Music",DELUXE MUSIC DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/EKB3Rr7.png" group-title="Music",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="OKTO.at" tvg-name="Okto" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/azwM82Q.png" group-title="Community",Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/pfvrwpj4/360/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ct32esa.png" group-title="Community",ServusTV
+https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/B82f5Xd.png" group-title="General",3Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LqJeBHR.png" group-title="General",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-id="WeltderWunder.de" tvg-name="Welt der Wunder" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/X82LPvP.png" group-title="Community",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/QutMUnk.png" group-title="Dokumentationen",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qGPpN2y.png" group-title="News",WELT
+https://welt.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/duVEstf.png" group-title="News",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Pf2K7vV.png" group-title="General",ANIXE HD
+https://wow.anixa.tv/live/anixehd2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="W24.at" tvg-name="W24 TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/4j26Grp.png" group-title="General",W24 TV
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redbulltv.at" tvg-name="Red Bull TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/sTZc4Dd.png" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="Bild.de" tvg-name="Bild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LvsDQhG.png" group-title="Dokumentationen",Bild
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
+https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="tdiradioclassics" tvg-name="TDI Radio Classics" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Classics
+http://streaming.tdiradio.com:8000/classics
+
+#EXTINF:-1 radio="true" tvg-id="tdihouse" tvg-name="TDI House" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI House
+http://streaming.tdiradio.com:8000/house.mp3
+
+#EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
+http://streaming.tdiradio.com:8000/tdiradio
+
+#EXTINF:-1 radio="true" tvg-id="tdiradiobezreklama" tvg-name="TDI Radio bez reklama" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio bez reklama
+http://streaming.tdiradio.com:8000/tdiradiobezreklama
+
+#EXTINF:-1 radio="true" tvg-id="tdiradiochillout" tvg-name="TDI Radio Chill Out" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Chill Out
+http://streaming.tdiradio.com:8000/chillout
+
+#EXTINF:-1 radio="true" tvg-id="tdiradiodomacica" tvg-name="TDI Radio Domacica" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Domacica
+http://streaming.tdiradio.com:8000/domacica
+
+#EXTINF:-1 radio="true" tvg-id="tdiradiolove" tvg-name="TDI Radio Love" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Love
+http://streaming.tdiradio.com:8000/love
+
+#EXTINF:-1 radio="true" tvg-id="tdiradiopoprnbhits" tvg-name="TDI Radio Pop RnB Hits" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Pop RnB Hits
+http://streaming.tdiradio.com:8000/poprnbhits
+
+#EXTINF:-1 radio="true" tvg-id="tdiradiotop40" tvg-name="TDI Radio Top 40" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Top 40
+http://streaming.tdiradio.com:8000/top40
+
+#EXTINF:-1 radio="true" tvg-id="tdiradioyudance" tvg-name="TDI Radio Yu Dance" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Yu Dance
+http://streaming.tdiradio.com:8000/yudance
+
+#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/KjtBLo7.png" group-title="BiH",Radio BN
+http://stream.rtvbn.com:8522/.mp3
+
+#EXTINF:-1 radio="true" tvg-id="okradio" tvg-name="OK Radio" tvg-logo="https://i.imgur.com/d2UO6Oj.png" group-title="RS",OK Radio
+https://sslstream.okradio.net/?type=http\u0026nocache=8804
+
+#EXTINF:-1 radio="true" tvg-id="radiorepublikesrpske" tvg-name="Radio Republike Srpske" tvg-logo="https://i.imgur.com/PMyruJH.png" group-title="BiH",Radio Republike Srpske
+https://radio.rtrs.tv/radio/live/chunklist_w1957911470.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiooe3" tvg-name="Hitradio Ö3" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
+https://orf-live.ors-shoutcast.at/oe3-q2a
+
+#EXTINF:-1 radio="true" tvg-id="radiokronehit" tvg-name="KRONEHIT" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
+https://secureonair.krone.at/kronehit-hp.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiokronehitdance" tvg-name="KRONEHIT Dance" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
+https://secureonair.krone.at/kronehit23.mp3
+
+#EXTINF:-1 radio="true" tvg-id="fm4" tvg-name="FM4" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
+https://orf-live.ors-shoutcast.at/fm4-q2a
+
+#EXTINF:-1 radio="true" tvg-id="liferadio" tvg-name="Life Radio" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
+https://stream.liferadio.at/liferadio/mp3-192
