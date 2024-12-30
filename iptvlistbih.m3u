@@ -162,29 +162,11 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/EKB3Rr7.png" group-title="Music",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1 tvg-id="OKTO.at" tvg-name="Okto" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/azwM82Q.png" group-title="Community",Okto
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/pfvrwpj4/360/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ct32esa.png" group-title="Community",ServusTV
-https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/B82f5Xd.png" group-title="General",3Sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LqJeBHR.png" group-title="General",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master.m3u8
-
 #EXTINF:-1 tvg-id="WeltderWunder.de" tvg-name="Welt der Wunder" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/X82LPvP.png" group-title="Community",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/QutMUnk.png" group-title="Dokumentationen",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qGPpN2y.png" group-title="News",WELT
-https://welt.personalstream.tv/v1/master.m3u8
-
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/duVEstf.png" group-title="News",tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Pf2K7vV.png" group-title="General",ANIXE HD
 https://wow.anixa.tv/live/anixehd2/playlist.m3u8
