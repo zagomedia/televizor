@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iFaqct6.png" group-title="General",RTS 1
+http://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/nhiF92Y.png" group-title="General",RTS 2
+http://webtvstream.bhtelecom.ba/rts2.m3u8
+
 #EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/PghajzH.png" group-title="General",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
