@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iFaqct6.png" group-title="General",RTS 1
-http://webtvstream.bhtelecom.ba/rts1.m3u8
-
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/nhiF92Y.png" group-title="General",RTS 2
-http://webtvstream.bhtelecom.ba/rts2.m3u8
-
 #EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/PghajzH.png" group-title="General",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
@@ -200,12 +194,6 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redbulltv.at" tvg-name="Red Bull TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/sTZc4Dd.png" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="Bild.de" tvg-name="Bild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LvsDQhG.png" group-title="Dokumentationen",Bild
-https://bild.personalstream.tv/v1/master.m3u8
-
-#EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
-https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="tdiradioclassics" tvg-name="TDI Radio Classics" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio Classics
 http://streaming.tdiradio.com:8000/classics
