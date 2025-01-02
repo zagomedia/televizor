@@ -9,13 +9,16 @@ http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/wB2P0S3.png" group-title="General",RTRS Plus
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="General",HRT 1
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
 
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="General",HRT 2
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
 
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="General",HRT 3
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Culture;Documentary" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 
 #EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9KIQmOE.png" group-title="Entertainment",RTV City Ub
