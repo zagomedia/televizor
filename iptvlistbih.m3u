@@ -162,6 +162,12 @@ http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-id="VOX.de" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Undefined",VOX
 http://178.219.128.68:64888/VOX
 
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="General",RTL (DE)
+http://178.219.128.68:64888/RTL
+
+#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="General",RTL 2 (DE)
+http://178.219.128.68:64888/RTL2
+
 #EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
