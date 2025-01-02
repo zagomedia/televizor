@@ -112,7 +112,7 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-997
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 
 #EXTINF:-1 tvg-id="RedTV.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/KQu3sVC.png" group-title="General",Red TV
-https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+https://edge8.pink.rs/redtv/chunklist_w2102308099.m3u8
 
 #EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="TV Belle Amie" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/gQJQ5fk.png" group-title="General",TV Belle Amie
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
