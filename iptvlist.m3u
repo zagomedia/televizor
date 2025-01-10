@@ -55,9 +55,6 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/EPLADFg.png" group-title="General",RTCG 3
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/E584ffJ.png" group-title="General",CG MNE
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-
 #EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9KIQmOE.png" group-title="Entertainment",RTV City Ub
 http://109.72.57.12/hls/tvcityub.m3u8
 
