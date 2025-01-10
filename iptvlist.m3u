@@ -31,9 +31,6 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 
-#EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9KIQmOE.png" group-title="Entertainment",RTV City Ub
-http://109.72.57.12/hls/tvcityub.m3u8
-
 #EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/tQDYjfS.png" group-title="General",RTV 1
 http://212.200.230.50:1935/RTV/rtv1/chunklist_w53839759.m3u8
 
@@ -60,6 +57,9 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/E584ffJ.png" group-title="General",CG MNE
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9KIQmOE.png" group-title="Entertainment",RTV City Ub
+http://109.72.57.12/hls/tvcityub.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/smhVgxX.png" group-title="News",Euronews Serbia
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
