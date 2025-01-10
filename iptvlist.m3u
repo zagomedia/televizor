@@ -67,6 +67,9 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/h7kwiC7.png" group-title="News",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 
+#EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="BlicTV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment",Blic TV
+https://539745e629986.streamlock.net/blictv-secure/smil:blictv-secure.smil/chunklist_w1431961112_b3628000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1uy65ei.png" group-title="Entertainment",Pink
 https://live.rednet.rs/providus/pink1.m3u8
 
