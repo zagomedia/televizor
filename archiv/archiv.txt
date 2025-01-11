@@ -15,3 +15,31 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&
 
 #EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="CG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/E584ffJ.png" group-title="General",CG MNE
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General",RTRS Link 1
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General",RTRS Plus Link 1
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General",RTRS Link 2
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General",RTRS Plus Link 2
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Link 1 mit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus Link 1 mit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Link 2 mit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus Link 2 mit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
