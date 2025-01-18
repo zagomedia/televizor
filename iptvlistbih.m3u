@@ -179,17 +179,20 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/MRpGnpa.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="General",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Entertainment",ProSieben
 http://85.187.13.40:18000/ProSieben
 
-#EXTINF:-1 tvg-id="VOX.de" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Undefined",VOX
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Entertainment",VOX
 http://178.219.128.68:64888/VOX
 
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="General",RTL (DE)
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Entertainment",RTL (DE)
 http://178.219.128.68:64888/RTL
 
-#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="General",RTL 2 (DE)
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="Entertainment",RTL 2 (DE)
 http://178.219.128.68:64888/RTL2
+
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/5l6aMpx.png" group-title="Entertainment",Sat1
+http://178.219.128.68:64889/SAT1
 
 #EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
