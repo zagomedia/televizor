@@ -185,7 +185,7 @@ http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qo3fGyX.png" group-title="Entertainment",VOX
 http://178.219.128.68:64888/VOX
 
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Entertainment",RTL (DE)
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Nrl5ZFk.png" group-title="Entertainment",RTL (DE)
 http://178.219.128.68:64888/RTL
 
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="Entertainment",RTL 2 (DE)
