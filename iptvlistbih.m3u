@@ -179,7 +179,7 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/MRpGnpa.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Entertainment",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment",ProSieben
 http://85.187.13.40:18000/ProSieben
 
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qo3fGyX.png" group-title="Entertainment",VOX
