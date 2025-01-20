@@ -224,7 +224,7 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Redbulltv.at" tvg-name="Red Bull TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/sTZc4Dd.png" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Radio Gradiska
+#EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
 https://nl1.streamingpulse.com/ssl/RadioGradiska
 
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
