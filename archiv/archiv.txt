@@ -45,4 +45,7 @@ https://uzivo.rtrs.tv/tv/live/index.m3u8
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT.de" tvg-name="RT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xoxVfVE.png" grouptitle="General",RT
+https://nl1.streamingpulse.com/ssl/RadioGradiska
+
+#EXTINF:-1 tvg-id="RT.de" tvg-name="RT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xoxVfVE.png" grouptitle="General",RT
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
