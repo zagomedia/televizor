@@ -266,6 +266,9 @@ http://naxidigital-rock128.streaming.rs:8180/
 #EXTINF:-1 radio="true" tvg-id="NaxiLoveRadio" tvg-name="Naxi Love Radio" group-title="RS" tvg-logo="https://i.imgur.com/LLYf8y9.png",Naxi Love Radio
 http://naxidigital-love128.streaming.rs:8100/
 
+#EXTINF:-1 radio="true" tvg-id="NaxiDanceRadio" tvg-name="Naxi Dance Radio" group-title="RS" tvg-logo="https://i.imgur.com/22VHtKR.png",Naxi Dance Radio
+http://naxidigital-dance128.streaming.rs:8110/
+
 #EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Play Radio
 http://stream.b92.net:7999/radio-b92.mp3
 
