@@ -290,6 +290,9 @@ http://naxidigital-millennium128.streaming.rs:8340/
 #EXTINF:-1 radio="true" tvg-id="NaxiEX-YURockRadio" tvg-name="Naxi EX-YU Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/Ga5rdZo.png",Naxi EX-YU Rock Radio
 http://naxidigital-exyurock128.streaming.rs:8400/
 
+#EXTINF:-1 radio="true" tvg-id="NaxiLoungeRadio" tvg-name="Naxi Lounge Radio" group-title="RS" tvg-logo="https://i.imgur.com/KE4SRX0.png",Naxi Lounge Radio
+http://naxidigital-lounge128.streaming.rs:8250/
+
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
