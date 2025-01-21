@@ -4,6 +4,9 @@ http://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/nhiF92Y.png" group-title="General",RTS 2
 http://webtvstream.bhtelecom.ba/rts2.m3u8
 
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS Test 1
+https://n1-bg-ku-r1-2.umn.cdn.united.cloud/streami=5GAC1xdnS0BfEIc1g5KrcA&a=ik2UScAOBjbjAWzsKsahjqI0pJdx2vMnZomQwz5q14UQ7SVnnbaLDITvBxnNhKlsLiTwlYUvtxxFxtWfVwZURovOaG-ATJtg3EUyfjsf60dNWx7Et13rgLn4TSvfAIMxPTm3CwAvFF3aobpleilFcG5a_sjQxD5SovbafRObBSb4kzH7KkCZowWWVVMpDooaLZGNd5tbN1TTEd0tjBTcQW7QoWDgSYDcjUYg0IdVQVwGen3ZgpdbKPWYcA89xqyb&sp=n1info&u=n1info&session=275fbc4f-8fa0-585b-fdca-212965f6a88a&player=m3u8
+
 #EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
 
