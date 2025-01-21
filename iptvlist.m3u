@@ -228,6 +228,9 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="AUTOBILD.de" tvg-name="AutoBild" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport",Auto Bild TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 
+#EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
+https://nl1.streamingpulse.com/ssl/RadioGradiska
+
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
