@@ -236,6 +236,9 @@ http://51.254.61.148:11111
 #EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Play Radio
 http://stream.b92.net:7999/radio-b92.mp3
 
+#EXTINF:-1 radio="true" tvg-id="NaxiRadio" tvg-name="Naxi Radio" group-title="RS" tvg-logo="https://i.imgur.com/Kp9lf5u.png",Naxi Radio
+http://naxi128.streaming.rs:9150/
+
 #EXTINF:-1 radio="true" tvg-id="RadioBig1" tvg-name="Radio Big1" group-title="BiH" tvg-logo="https://i.imgur.com/iAJXvvp.png",Radio Big1
 http://big1.bigportal.ba:8100/big1
 
