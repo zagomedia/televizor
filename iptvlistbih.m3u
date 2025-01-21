@@ -296,6 +296,9 @@ http://naxidigital-lounge128.streaming.rs:8250/
 #EXTINF:-1 radio="true" tvg-id="Naxi90eRadio" tvg-name="Naxi 90e Radio" group-title="RS" tvg-logo="https://i.imgur.com/k5zrDSE.png",Naxi 90e Radio
 http://naxidigital-90s128.streaming.rs:8280/
 
+#EXTINF:-1 radio="true" tvg-id="NaxiLatinoRadio" tvg-name="Naxi Latino Radio" group-title="RS" tvg-logo="https://i.imgur.com/l89IZt4.png",Naxi Latino Radio
+http://naxidigital-latino128.streaming.rs:8230/
+
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
