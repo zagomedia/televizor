@@ -249,33 +249,6 @@ http://big3.bigportal.ba:8100/big3
 #EXTINF:-1 radio="true" tvg-id="RadioBig4" tvg-name="Radio Big4" group-title="BiH" tvg-logo="https://i.imgur.com/57lTtr8.png",Radio Big4
 http://domacica.bigportal.ba:8100/domacica
 
-#EXTINF:-1 radio="true" tvg-id="NaxiCafeRadio" tvg-name="Naxi Cafe Radio" group-title="RS" tvg-logo="https://i.imgur.com/9SpAZus.png",Naxi Cafe Radio
-http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="NaxiRockRadio" tvg-name="Naxi Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/EOlQZxU.png",Naxi Rock Radio
-http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="NaxiLoveRadio" tvg-name="Naxi Love Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Naxi Love Radio
-http://naxidigital-love128.streaming.rs:8100/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="NaxiDanceRadio" tvg-name="Naxi Dance Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Naxi Dance Radio
-http://naxidigital-dance128.streaming.rs:8110/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="NaxiHouseRadio" tvg-name="Naxi House Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Naxi House Radio
-http://naxidigital128.kbcnet.rs:8000/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="NaxiClubbingRadio" tvg-name="Naxi Clubbing Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Naxi Clubbing Radio
-http://naxidigital128.kbcnet.rs:8090/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="Naxi80eRadio" tvg-name="Naxi 80e Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Naxi 80e Radio
-http://naxidigital-80s128.streaming.rs:8040/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="NaxiEvergreenRadio" tvg-name="Naxi Evergreen Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Naxi Evergreen Radio
-http://naxidigital-evergreen128.streaming.rs:8010/;stream.nsv
-
-#EXTINF:-1 radio="true" tvg-id="NaxiBoemRadio" tvg-name="Naxi Boem Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Naxi Boem Radio
-http://109.206.96.18:8050/;stream.nsv
-
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
