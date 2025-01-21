@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS Test 1
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
+ 
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS Test 2
+https://n1-bg-ku-h3-1.umn.cdn.united.cloud/stream/playlist/hls/?session=ed91f49d-ede6-8eb5-a4e3-d722be51fc5e&stream=sp200&player=m3u8
+
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS Test 3
+https://n1-bg-ku-h3-1.umn.cdn.united.cloud/stream/fragment/ts/live/?session=ed91f49d-ede6-8eb5-a4e3-d722be51fc5e&offset=654470&pointeroffset=110&fragmentlength=4800
+
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
