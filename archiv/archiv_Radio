@@ -4,8 +4,8 @@ http://naxidigital-cafe128.streaming.rs:8020/
 #EXTINF:-1 radio="true" tvg-id="NaxiRockRadio" tvg-name="Naxi Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/EOlQZxU.png",Naxi Rock Radio
 http://naxidigital-rock128.streaming.rs:8180/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiLoveRadio" tvg-name="Naxi Love Radio" group-title="RS" tvg-logo="https://i.imgur.com/9SpAZus.png",Naxi Love Radio
-http://naxidigital-love128.streaming.rs:8100/;stream.nsv
+#EXTINF:-1 radio="true" tvg-id="NaxiLoveRadio" tvg-name="Naxi Love Radio" group-title="RS" tvg-logo="https://i.imgur.com/LLYf8y9.png",Naxi Love Radio
+http://naxidigital-love128.streaming.rs:8100/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiDanceRadio" tvg-name="Naxi Dance Radio" group-title="RS" tvg-logo="https://i.imgur.com/9SpAZus.png",Naxi Dance Radio
 http://naxidigital-dance128.streaming.rs:8110/;stream.nsv
