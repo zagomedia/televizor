@@ -273,6 +273,9 @@ http://naxidigital-dance128.streaming.rs:8110/
 #EXTINF:-1 radio="true" tvg-id="NaxiHouseRadio" tvg-name="Naxi House Radio" group-title="RS" tvg-logo="https://i.imgur.com/zN1ID48.png",Naxi House Radio
 http://naxidigital-house128.streaming.rs:8000/
 
+#EXTINF:-1 radio="true" tvg-id="NaxiClubbingRadio" tvg-name="Naxi Clubbing Radio" group-title="RS" tvg-logo="https://i.imgur.com/haRZ7RI.png",Naxi Clubbing Radio
+http://naxidigital-gold128.streaming.rs:8090/
+
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
