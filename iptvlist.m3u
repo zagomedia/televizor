@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS Test 1
-https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby
+https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=5GAC1xdnS0BfEIc1g5KrcA&a=ik2UScAOBjbjAWzsKsahjqI0pJdx2vMnZomQwz5q14UQ7SVnnbaLDITvBxnNhKlsLiTwlYUvtxxFxtWfVwZURovOaG-ATJtg3EUyfjsf60dNWx7Et13rgLn4TSvfAIMxPTm3CwAvFF3aobpleilFcG5a_sjQxD5SovbafRObBSb4kzH7KkCZowWWVVMpDooaLZGNd5tbN1TTEd0tjBTcQW7QoWDgSYDcjUYg0IdVQVwGen3ZgpdbKPWYcA89xqyb&sp=n1info&u=n1info&session=275fbc4f-8fa0-585b-fdca-212965f6a88a&player=m3u8
  
 #EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 RS" tvg-country="RS" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 RS Test 2
 https://n1-bg-ku-h3-1.umn.cdn.united.cloud/stream/playlist/hls/?session=ed91f49d-ede6-8eb5-a4e3-d722be51fc5e&stream=sp200&player=m3u8
