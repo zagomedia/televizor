@@ -1,5 +1,5 @@
 #EXTINF:-1 radio="true" tvg-id="NaxiCafeRadio" tvg-name="Naxi Cafe Radio" group-title="RS" tvg-logo="https://i.imgur.com/9SpAZus.png",Naxi Cafe Radio
-http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv
+http://naxidigital-cafe128.streaming.rs:8020/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiRockRadio" tvg-name="Naxi Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/EOlQZxU.png",Naxi Rock Radio
 http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
