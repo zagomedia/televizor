@@ -282,6 +282,9 @@ http://naxidigital-80s128.streaming.rs:8040/
 #EXTINF:-1 radio="true" tvg-id="NaxiEvergreenRadio" tvg-name="Naxi Evergreen Radio" group-title="RS" tvg-logo="https://i.imgur.com/OoyMYqN.png",Naxi Evergreen Radio
 http://naxidigital-evergreen128.streaming.rs:8010/
 
+#EXTINF:-1 radio="true" tvg-id="NaxiBoemRadio" tvg-name="Naxi Boem Radio" group-title="RS" tvg-logo="https://i.imgur.com/mgeGpYg.png",Naxi Boem Radio
+http://naxidigital-boem128.streaming.rs:8160/
+
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
