@@ -258,6 +258,9 @@ http://big3.bigportal.ba:8100/big3
 #EXTINF:-1 radio="true" tvg-id="RadioBig4" tvg-name="Radio Big4" group-title="BiH" tvg-logo="https://i.imgur.com/57lTtr8.png",Radio Big4
 http://domacica.bigportal.ba:8100/domacica
 
+#EXTINF:-1 radio="true" tvg-id="NaxiCafeRadio" tvg-name="Naxi Cafe Radio" group-title="RS" tvg-logo="https://i.imgur.com/9SpAZus.png",Naxi Cafe Radio
+http://naxidigital-cafe128.streaming.rs:8020/
+
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
