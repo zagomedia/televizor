@@ -194,6 +194,9 @@ https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment",ProSieben
 http://85.187.13.40:18000/ProSieben
 
+#EXTINF:-1 tvg-id="Kabeleins.de" tvg-name="Kabel Eins" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment",Kabel Eins
+https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qo3fGyX.png" group-title="Entertainment",VOX
 http://178.219.128.68:64888/VOX
 
