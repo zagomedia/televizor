@@ -224,6 +224,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/EKB3Rr7.png" group-title="Music",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
+#EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Community",Krone TV
+https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8
+
 #EXTINF:-1 tvg-id="WeltderWunder.de" tvg-name="Welt der Wunder" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/X82LPvP.png" group-title="Community",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
