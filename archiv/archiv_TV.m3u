@@ -61,3 +61,6 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="RT.de" tvg-name="RT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xoxVfVE.png" grouptitle="General",RT
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LqJeBHR.png" group-title="General",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
