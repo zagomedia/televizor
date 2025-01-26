@@ -289,28 +289,37 @@ http://naxidigital-slager128.streaming.rs:8370/
 http://naxidigital-70s128.streaming.rs:8380/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiGoldRadio" tvg-name="Naxi Gold Radio" group-title="RS" tvg-logo="",Naxi Gold Radio
+http://naxidigital-gold128.streaming.rs:8060/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiFunkRadio" tvg-name="Naxi Funk Radio" group-title="RS" tvg-logo="",Naxi Funk Radio
+http://naxidigital-funk128.streaming.rs:8360/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiReggaeRadio" tvg-name="Naxi Reggae Radio" group-title="RS" tvg-logo="",Naxi Reggae Radio
+http://naxidigital-reggae128.streaming.rs:8420/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiDiscoRadio" tvg-name="Naxi Disco Radio" group-title="RS" tvg-logo="",Naxi Disco Radio
+http://naxidigital-disco128.streaming.rs:8350/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiAdoreRadio" tvg-name="Naxi Adore Radio" group-title="RS" tvg-logo="",Naxi Adore Radio
+http://naxidigital-adore128.streaming.rs:8330/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiMillenniumRadio" tvg-name="Naxi Millennium Radio" group-title="RS" tvg-logo="https://i.imgur.com/mjtMNPj.png",Naxi Millennium Radio
 http://naxidigital-millennium128.streaming.rs:8340/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiBluesRockRadio" tvg-name="Naxi Blues Rock Radio" group-title="RS" tvg-logo="",Naxi Blues Rock Radio
+http://naxidigital-blues128.streaming.rs:8310/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiChillwaveRadio" tvg-name="Naxi Chillwave Radio" group-title="RS" tvg-logo="",Naxi Chillwave Radio
+http://naxidigital-chillwave128.streaming.rs:8320/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiClubbingRadio" tvg-name="Naxi Clubbing Radio" group-title="RS" tvg-logo="https://i.imgur.com/haRZ7RI.png",Naxi Clubbing Radio
 http://naxidigital-gold128.streaming.rs:8090/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiJazzRadio" tvg-name="Naxi Jazz Radio" group-title="RS" tvg-logo="",Naxi Jazz Radio
+http://naxidigital-jazz128.streaming.rs:8170/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiClassicRadio" tvg-name="Naxi Classic Radio" group-title="RS" tvg-logo="",Naxi Classic Radio
+http://naxidigital-classic128.streaming.rs:8030/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiInstrumentalRadio" tvg-name="Naxi Instrumental Radio" group-title="RS" tvg-logo="",Naxi Instrumental Radio
 
