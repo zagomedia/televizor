@@ -253,11 +253,13 @@ http://naxidigital-exyurock128.streaming.rs:8400/
 http://naxidigital-rock128.streaming.rs:8180/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiMixRadio" tvg-name="Naxi Mix Radio" group-title="RS" tvg-logo="",Naxi Mix Radio
+http://naxidigital-mix128.streaming.rs:8220/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiBoemRadio" tvg-name="Naxi Boem Radio" group-title="RS" tvg-logo="https://i.imgur.com/mgeGpYg.png",Naxi Boem Radio
 http://naxidigital-boem128.streaming.rs:8160/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiFreshRadio" tvg-name="Naxi Fresh Radio" group-title="RS" tvg-logo="",Naxi Fresh Radio
+http://naxidigital-fresh128.streaming.rs:8210/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiLatinoRadio" tvg-name="Naxi Latino Radio" group-title="RS" tvg-logo="https://i.imgur.com/l89IZt4.png",Naxi Latino Radio
 http://naxidigital-latino128.streaming.rs:8230/
@@ -272,8 +274,10 @@ http://naxidigital-house128.streaming.rs:8000/
 http://naxidigital-90s128.streaming.rs:8280/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiFitnessRadio" tvg-name="Naxi Fitness Radio" group-title="RS" tvg-logo="",Naxi Fitness Radio
+http://naxidigital-fitness128.streaming.rs:8290/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiEx-YuRadio" tvg-name="Naxi EX-YU Radio" group-title="RS" tvg-logo="",Naxi EX-YU Radio
+http://naxidigital-exyu128.streaming.rs:8240/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiChillRadio" tvg-name="Naxi Chill Radio" group-title="RS" tvg-logo="",Naxi Chill Radio
 
