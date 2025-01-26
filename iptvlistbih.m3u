@@ -113,6 +113,9 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal.m3u8
 
+#EXTINF:-1 tvg-id="K1info.rs" tvg-name="K1 Info" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/4jmzitN.png" group-title="News",K1 Info
+https://53a7ed211fc32.streamlock.net/minacordmedia-secure/k1studio/chunklist_w704128248.m3u8
+
 #EXTINF:-1 tvg-id="Informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News",Informer TV
 https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/3daa24e5b76c4bfe83a77e47b9001b51/24145_1933881_index_1.m3u8
 
