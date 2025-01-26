@@ -41,6 +41,10 @@ https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/BcRZeuv.png" group-title="Sports",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVK1.rs" tvg-name="TV K-1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/EiIRuFW.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV K-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/k1live/chunks.m3u8
+
 #EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-name="Slavonska" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/soOU1s1.png" group-title="General",Slavonska
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
@@ -112,10 +116,6 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BHRT" tvg-logo="https://i.imgur.com/Gg8NPvl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BHRT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal.m3u8
-
-#EXTINF:-1 tvg-id="K1info.rs" tvg-name="K1 Info" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/4jmzitN.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K1 Info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://539745e629986.streamlock.net/minacordmedia-secure/k1studio/chunklist_w415755463.m3u8
 
 #EXTINF:-1 tvg-id="Informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News",Informer TV
 https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/3daa24e5b76c4bfe83a77e47b9001b51/24145_1933881_index_1.m3u8
