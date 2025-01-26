@@ -333,7 +333,7 @@ http://stream.rtvbn.com:8522/.mp3
 #EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
 https://nl1.streamingpulse.com/ssl/RadioGradiska
 
-#EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/yQKkQEn.jpeg",Radio Kozara
+#EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
 http://51.254.61.148:11111
 
 #EXTINF:-1 radio="true" tvg-id="RadioNostalgija1052" tvg-name="Radio Nostalgija 105.2" group-title="RS" tvg-logo="https://i.imgur.com/OR4AXKN.png",Radio Nostalgija 105.2
@@ -342,12 +342,13 @@ http://nostalgie128.streaming.rs:9250/
 #EXTINF:-1 radio="true" tvg-id="TopFMBelgrade1068" tvg-name="Top FM Belgrade 106.8" group-title="RS" tvg-logo="https://i.imgur.com/XCmXo3A.png",Top FM Belgrade 106.8
 http://topfm128.streaming.rs:9280/
 
-#EXTINF:-1 radio="true" tvg-id="RadioTri" tvg-name="Radio Tri Beograd" group-title="RS" tvg-logo="",Radio Tri Beograd
+#EXTINF:-1 radio="true" tvg-id="RadioTri" tvg-name="Radio Tri Beograd" group-title="RS" tvg-logo="https://i.imgur.com/AX3Gw0l.png",Radio Tri Beograd
+http://radiotri-128.streaming.rs:9300/
 
 #EXTINF:-1 radio="true" tvg-id="okradio" tvg-name="OK Radio" tvg-logo="https://i.imgur.com/d2UO6Oj.png" group-title="RS",OK Radio
 https://sslstream.okradio.net/?type=http\u0026nocache=8804
 
-#EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/cyoDUPw.png",Play Radio
+#EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/mpgIRIM.png",Play Radio
 http://stream.b92.net:7999/radio-b92.mp3
 
 #EXTINF:-1 radio="true" tvg-id="RadioBig1" tvg-name="Radio Big1" group-title="BiH" tvg-logo="https://i.imgur.com/iAJXvvp.png",Radio Big1
