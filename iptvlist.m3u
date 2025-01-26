@@ -280,10 +280,13 @@ http://naxidigital-fitness128.streaming.rs:8290/
 http://naxidigital-exyu128.streaming.rs:8240/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiChillRadio" tvg-name="Naxi Chill Radio" group-title="RS" tvg-logo="",Naxi Chill Radio
+http://naxidigital-chill128.streaming.rs:8410/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiSlagerRadio" tvg-name="Naxi Slager Radio" group-title="RS" tvg-logo="",Naxi Slager Radio
+http://naxidigital-slager128.streaming.rs:8370/
 
 #EXTINF:-1 radio="true" tvg-id="Naxi70eRadio" tvg-name="Naxi 70e Radio" group-title="RS" tvg-logo="",Naxi 70e Radio
+http://naxidigital-70s128.streaming.rs:8380/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiGoldRadio" tvg-name="Naxi Gold Radio" group-title="RS" tvg-logo="",Naxi Gold Radio
 
