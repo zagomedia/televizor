@@ -1,5 +1,6 @@
 #EXTM3U
 
+#EXTM3U url-tvg="https://rtvbn.tv/epg-program.xml"
 #EXTINF:-1 tvg-id="BNTV.ba" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
