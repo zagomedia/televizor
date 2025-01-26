@@ -252,13 +252,13 @@ http://naxidigital-exyurock128.streaming.rs:8400/
 #EXTINF:-1 radio="true" tvg-id="NaxiRockRadio" tvg-name="Naxi Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/EOlQZxU.png",Naxi Rock Radio
 http://naxidigital-rock128.streaming.rs:8180/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiMixRadio" tvg-name="Naxi Mix Radio" group-title="RS" tvg-logo="",Naxi Mix Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiMixRadio" tvg-name="Naxi Mix Radio" group-title="RS" tvg-logo="https://i.imgur.com/A8vec1R.png",Naxi Mix Radio
 http://naxidigital-mix128.streaming.rs:8220/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiBoemRadio" tvg-name="Naxi Boem Radio" group-title="RS" tvg-logo="https://i.imgur.com/mgeGpYg.png",Naxi Boem Radio
 http://naxidigital-boem128.streaming.rs:8160/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiFreshRadio" tvg-name="Naxi Fresh Radio" group-title="RS" tvg-logo="",Naxi Fresh Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiFreshRadio" tvg-name="Naxi Fresh Radio" group-title="RS" tvg-logo="https://i.imgur.com/p3srWHs.png",Naxi Fresh Radio
 http://naxidigital-fresh128.streaming.rs:8210/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiLatinoRadio" tvg-name="Naxi Latino Radio" group-title="RS" tvg-logo="https://i.imgur.com/l89IZt4.png",Naxi Latino Radio
@@ -273,58 +273,58 @@ http://naxidigital-house128.streaming.rs:8000/
 #EXTINF:-1 radio="true" tvg-id="Naxi90eRadio" tvg-name="Naxi 90e Radio" group-title="RS" tvg-logo="https://i.imgur.com/k5zrDSE.png",Naxi 90e Radio
 http://naxidigital-90s128.streaming.rs:8280/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiFitnessRadio" tvg-name="Naxi Fitness Radio" group-title="RS" tvg-logo="",Naxi Fitness Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiFitnessRadio" tvg-name="Naxi Fitness Radio" group-title="RS" tvg-logo="https://i.imgur.com/uQ8Oy9k.png",Naxi Fitness Radio
 http://naxidigital-fitness128.streaming.rs:8290/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiEx-YuRadio" tvg-name="Naxi EX-YU Radio" group-title="RS" tvg-logo="",Naxi EX-YU Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiEx-YuRadio" tvg-name="Naxi EX-YU Radio" group-title="RS" tvg-logo="https://i.imgur.com/NF5ZfoL.png",Naxi EX-YU Radio
 http://naxidigital-exyu128.streaming.rs:8240/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiChillRadio" tvg-name="Naxi Chill Radio" group-title="RS" tvg-logo="",Naxi Chill Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiChillRadio" tvg-name="Naxi Chill Radio" group-title="RS" tvg-logo="https://i.imgur.com/fbbqRMn.png",Naxi Chill Radio
 http://naxidigital-chill128.streaming.rs:8410/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiSlagerRadio" tvg-name="Naxi Slager Radio" group-title="RS" tvg-logo="",Naxi Slager Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiSlagerRadio" tvg-name="Naxi Slager Radio" group-title="RS" tvg-logo="https://i.imgur.com/f5kDIRU.png",Naxi Slager Radio
 http://naxidigital-slager128.streaming.rs:8370/
 
-#EXTINF:-1 radio="true" tvg-id="Naxi70eRadio" tvg-name="Naxi 70e Radio" group-title="RS" tvg-logo="",Naxi 70e Radio
+#EXTINF:-1 radio="true" tvg-id="Naxi70eRadio" tvg-name="Naxi 70e Radio" group-title="RS" tvg-logo="https://i.imgur.com/FdCtvTY.png",Naxi 70e Radio
 http://naxidigital-70s128.streaming.rs:8380/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiGoldRadio" tvg-name="Naxi Gold Radio" group-title="RS" tvg-logo="",Naxi Gold Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiGoldRadio" tvg-name="Naxi Gold Radio" group-title="RS" tvg-logo="https://i.imgur.com/LqAfGIJ.png",Naxi Gold Radio
 http://naxidigital-gold128.streaming.rs:8060/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiFunkRadio" tvg-name="Naxi Funk Radio" group-title="RS" tvg-logo="",Naxi Funk Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiFunkRadio" tvg-name="Naxi Funk Radio" group-title="RS" tvg-logo="https://i.imgur.com/rq1ZCxw.png",Naxi Funk Radio
 http://naxidigital-funk128.streaming.rs:8360/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiReggaeRadio" tvg-name="Naxi Reggae Radio" group-title="RS" tvg-logo="",Naxi Reggae Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiReggaeRadio" tvg-name="Naxi Reggae Radio" group-title="RS" tvg-logo="https://i.imgur.com/v9RYyv3.png",Naxi Reggae Radio
 http://naxidigital-reggae128.streaming.rs:8420/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiDiscoRadio" tvg-name="Naxi Disco Radio" group-title="RS" tvg-logo="",Naxi Disco Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiDiscoRadio" tvg-name="Naxi Disco Radio" group-title="RS" tvg-logo="https://i.imgur.com/KDpuiAy.png",Naxi Disco Radio
 http://naxidigital-disco128.streaming.rs:8350/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiAdoreRadio" tvg-name="Naxi Adore Radio" group-title="RS" tvg-logo="",Naxi Adore Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiAdoreRadio" tvg-name="Naxi Adore Radio" group-title="RS" tvg-logo="https://i.imgur.com/gLwKIDj.png",Naxi Adore Radio
 http://naxidigital-adore128.streaming.rs:8330/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiMillenniumRadio" tvg-name="Naxi Millennium Radio" group-title="RS" tvg-logo="https://i.imgur.com/mjtMNPj.png",Naxi Millennium Radio
 http://naxidigital-millennium128.streaming.rs:8340/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiBluesRockRadio" tvg-name="Naxi Blues Rock Radio" group-title="RS" tvg-logo="",Naxi Blues Rock Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiBluesRockRadio" tvg-name="Naxi Blues Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/mObcFin.png",Naxi Blues Rock Radio
 http://naxidigital-blues128.streaming.rs:8310/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiChillwaveRadio" tvg-name="Naxi Chillwave Radio" group-title="RS" tvg-logo="",Naxi Chillwave Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiChillwaveRadio" tvg-name="Naxi Chillwave Radio" group-title="RS" tvg-logo="https://i.imgur.com/0jJIhCm.png",Naxi Chillwave Radio
 http://naxidigital-chillwave128.streaming.rs:8320/
 
 #EXTINF:-1 radio="true" tvg-id="NaxiClubbingRadio" tvg-name="Naxi Clubbing Radio" group-title="RS" tvg-logo="https://i.imgur.com/haRZ7RI.png",Naxi Clubbing Radio
 http://naxidigital-gold128.streaming.rs:8090/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiJazzRadio" tvg-name="Naxi Jazz Radio" group-title="RS" tvg-logo="",Naxi Jazz Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiJazzRadio" tvg-name="Naxi Jazz Radio" group-title="RS" tvg-logo="https://i.imgur.com/Rny4kvL.png",Naxi Jazz Radio
 http://naxidigital-jazz128.streaming.rs:8170/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiClassicRadio" tvg-name="Naxi Classic Radio" group-title="RS" tvg-logo="",Naxi Classic Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiClassicRadio" tvg-name="Naxi Classic Radio" group-title="RS" tvg-logo="https://i.imgur.com/AQWOqH0.png",Naxi Classic Radio
 http://naxidigital-classic128.streaming.rs:8030/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiInstrumentalRadio" tvg-name="Naxi Instrumental Radio" group-title="RS" tvg-logo="",Naxi Instrumental Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiInstrumentalRadio" tvg-name="Naxi Instrumental Radio" group-title="RS" tvg-logo="https://i.imgur.com/tIX5Spq.png",Naxi Instrumental Radio
 http://naxidigital-instrumental128.streaming.rs:8430/
 
-#EXTINF:-1 radio="true" tvg-id="NaxiRnBRadio" tvg-name="Naxi RnB Radio" group-title="RS" tvg-logo="",Naxi RnB Radio
+#EXTINF:-1 radio="true" tvg-id="NaxiRnBRadio" tvg-name="Naxi RnB Radio" group-title="RS" tvg-logo="https://i.imgur.com/7LxANzn.png",Naxi RnB Radio
 http://naxidigital-rnb128.streaming.rs:8120/
 
 #EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/tjtHrvd.png" group-title="BiH",Radio BN
