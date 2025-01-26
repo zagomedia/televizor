@@ -327,7 +327,7 @@ http://naxidigital-instrumental128.streaming.rs:8430/
 #EXTINF:-1 radio="true" tvg-id="NaxiRnBRadio" tvg-name="Naxi RnB Radio" group-title="RS" tvg-logo="",Naxi RnB Radio
 http://naxidigital-rnb128.streaming.rs:8120/
 
-#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/KjtBLo7.png" group-title="BiH",Radio BN
+#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/tjtHrvd.png" group-title="BiH",Radio BN
 http://stream.rtvbn.com:8522/.mp3
 
 #EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
@@ -351,16 +351,16 @@ https://sslstream.okradio.net/?type=http\u0026nocache=8804
 #EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/mpgIRIM.png",Play Radio
 http://stream.b92.net:7999/radio-b92.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioBig1" tvg-name="Radio Big1" group-title="BiH" tvg-logo="https://i.imgur.com/iAJXvvp.png",Radio Big1
+#EXTINF:-1 radio="true" tvg-id="RadioBig1" tvg-name="Radio Big1" group-title="BiH" tvg-logo="https://i.imgur.com/p6kAcVT.png",Radio Big1
 http://big1.bigportal.ba:8100/big1
 
-#EXTINF:-1 radio="true" tvg-id="RadioBig2" tvg-name="Radio Big2" group-title="BiH" tvg-logo="https://i.imgur.com/fqqcGAY.png",Radio Big2
+#EXTINF:-1 radio="true" tvg-id="RadioBig2" tvg-name="Radio Big2" group-title="BiH" tvg-logo="https://i.imgur.com/mdv57jo.png",Radio Big2
 http://big2.bigportal.ba:8100/big2
 
-#EXTINF:-1 radio="true" tvg-id="RadioBig3" tvg-name="Radio Big3" group-title="BiH" tvg-logo="https://i.imgur.com/jSJhhCk.png",Radio Big3
+#EXTINF:-1 radio="true" tvg-id="RadioBig3" tvg-name="Radio Big3" group-title="BiH" tvg-logo="https://i.imgur.com/8wkO8eg.png",Radio Big3
 http://big3.bigportal.ba:8100/big3
 
-#EXTINF:-1 radio="true" tvg-id="RadioBig4" tvg-name="Radio Big4" group-title="BiH" tvg-logo="https://i.imgur.com/57lTtr8.png",Radio Big4
+#EXTINF:-1 radio="true" tvg-id="RadioBig4" tvg-name="Radio Big4" group-title="BiH" tvg-logo="https://i.imgur.com/KnCbTd9.png",Radio Big4
 http://domacica.bigportal.ba:8100/domacica
 
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
