@@ -345,7 +345,7 @@ http://topfm128.streaming.rs:9280/
 #EXTINF:-1 radio="true" tvg-id="RadioTri" tvg-name="Radio Tri Beograd" group-title="RS" tvg-logo="https://i.imgur.com/AX3Gw0l.png",Radio Tri Beograd
 http://radiotri-128.streaming.rs:9300/
 
-#EXTINF:-1 radio="true" tvg-id="okradio" tvg-name="OK Radio" tvg-logo="https://i.imgur.com/d2UO6Oj.png" group-title="RS",OK Radio
+#EXTINF:-1 radio="true" tvg-id="okradio" tvg-name="OK Radio" tvg-logo="https://i.imgur.com/C0FhUtj.png" group-title="RS",OK Radio
 https://sslstream.okradio.net/?type=http\u0026nocache=8804
 
 #EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/mpgIRIM.png",Play Radio
