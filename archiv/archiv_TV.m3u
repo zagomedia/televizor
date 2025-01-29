@@ -73,3 +73,6 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LqJeBHR.png" group-title="General",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="Televizija Zapad" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/WSqWPQp.png" group-title="General",Televizija Zapad
+http://85.94.67.158/TVZAPAD/tracks-v1/index.fmp4.m3u8
