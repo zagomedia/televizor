@@ -356,6 +356,9 @@ https://nl1.streamingpulse.com/ssl/RadioGradiska
 #EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
 http://51.254.61.148:11111
 
+#EXTINF:-1 radio="true" tvg-id="coolradio" tvg-name="OK Radio" tvg-logo="https://i.imgur.com/eokVqtp.png" group-title="RS",Cool Radio
+http://live.coolradio.rs:80/cool192
+
 #EXTINF:-1 radio="true" tvg-id="RadioNostalgija1052" tvg-name="Radio Nostalgija 105.2" group-title="RS" tvg-logo="https://i.imgur.com/OR4AXKN.png",Radio Nostalgija 105.2
 http://nostalgie128.streaming.rs:9250/
 
