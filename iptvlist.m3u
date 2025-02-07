@@ -194,6 +194,10 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/l5wgEHH.png" group-title="Entertainment",Balkan Radio Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bravoTV.hr" tvg-name="bravo! TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/qC0s2Yo.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+
 #EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
