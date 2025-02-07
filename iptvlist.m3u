@@ -123,7 +123,7 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BHRT" tvg-logo="https://i.imgur.com/Gg8NPvl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BHRT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
+https://bhrtstream.bhtelecom.ba/hls13/bhrtportal.m3u8
 
 #EXTINF:-1 tvg-id="RTBalkan.rs" tvg-name="RT Balkan" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vpkQJZh.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Balkan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
