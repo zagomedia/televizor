@@ -194,6 +194,9 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/l5wgEHH.png" group-title="Entertainment",Balkan Radio Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/pk0iUuR.png" group-title="Entertainment",ATV
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment",ProSieben
 http://85.187.13.40:18000/ProSieben
 
