@@ -87,6 +87,9 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-id="RedTV.rs" tvg-name="Red TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/KQu3sVC.png" group-title="General",Red TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/smhVgxX.png" group-title="News",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="bravoKIDSTV.hr" tvg-name="bravo! KIDS TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/8AuGBeZ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
