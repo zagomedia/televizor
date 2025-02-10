@@ -69,6 +69,10 @@ https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ba" tvg-name="Super TV Media" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/itKMJhs.png" group-title="General",Super TV Media
 https://mirtv.club/live/mirtv/index.m3u8
 
+#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-name="RTV Zenica" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/XgiGnY8.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Zenica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://stream.rtvze.ba/live/123/123.m3u8
+
 #EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/uy5qiIg.png" group-title="General",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
