@@ -44,6 +44,10 @@ http://109.72.57.12/hls/tvcityub.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ktvuzivo.rs/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-id="RTKragujevac.rs" tvg-name="RT Kragujevac" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DHIDSLA.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Kragujevac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
+
 #EXTINF:-1 tvg-id="TVAS.rs" tvg-name="RTV AS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zyuIgzL.png" group-title="General",RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 
