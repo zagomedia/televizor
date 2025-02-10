@@ -136,6 +136,10 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News",Informer TV
 https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/3daa24e5b76c4bfe83a77e47b9001b51/24145_1933881_index_1.m3u8
 
+#EXTINF:-1 tvg-id="Newsmax Balkans.rs" tvg-name="Newsmax Balkans" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/l0qicBM.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Newsmax Balkans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/h7kwiC7.png" group-title="News",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 
