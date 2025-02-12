@@ -237,6 +237,9 @@ http://178.219.128.68:64888/RTL
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="Entertainment",RTL 2 (DE)
 http://178.219.128.68:64888/RTL2
 
+#EXTINF:-1 tvg-id="RTLSuper.de" tvg-name="RTLSuper" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bUG1iJV.png" group-title="Entertainment",Super RTL (DE)
+http://178.219.128.68:64888/SUPERTL
+
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/5l6aMpx.png" group-title="Entertainment",Sat1
 http://178.219.128.68:64889/SAT1
 
