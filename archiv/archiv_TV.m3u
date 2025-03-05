@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="Blic TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment",Blic TV
+https://539745e629986.streamlock.net/blictv-secure/smil:blictv-secure.smil/chunklist_w1431961112_b3628000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/5RdPcQ3.png" group-title="Entertainment",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 
