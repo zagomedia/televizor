@@ -310,7 +310,7 @@ https://s6.hopslan.com/sixx1/tracks-v1a1/mono.ts.m3u8?token=411153a4f5aa8da4dd2d
 
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/p7UWVkT.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
+https://s6.hopslan.com/disney/tracks-v1a1/mono.ts.m3u8?token=aa6dc25644a538654575d8bf864019894fd99107-be634783c62fae591d0698888dc6db12-1741225122-1741214322
 
 #EXTINF:-1 tvg-id="RT.de" tvg-name="RT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xoxVfVE.png" grouptitle="General",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
