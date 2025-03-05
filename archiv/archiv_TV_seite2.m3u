@@ -29,3 +29,9 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/nK7WEOM.png" group-title="Culture;Documentary" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
+
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/tQDYjfS.png" group-title="General",RTV 1
+http://212.200.230.50:1935/RTV/rtv1/chunklist_w53839759.m3u8
+
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/YkKxdgO.png" group-title="General",RTV 2
+http://212.200.230.50:1935/RTV/rtv2/chunklist_w867194608.m3u8
