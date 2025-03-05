@@ -288,9 +288,17 @@ http://178.219.128.68:64889/SAT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/tele5.m3u8
 
+#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/CzVMMpY.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://s6.hopslan.com/arte/tracks-v1a1/mono.ts.m3u8?token=7a4993b441c96db1beabb7c962c0ba8d67c3fd83-5b8d7580ecc9121f76ffb0c4b2c7bc55-1741223958-1741213158
+
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/vNJ7I0T.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/comedy.m3u8
+
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/0Bvgwuy.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://s6.hopslan.com/sixx1/tracks-v1a1/mono.ts.m3u8?token=411153a4f5aa8da4dd2d8c55b5de1d8b5aa50efc-bc8dc167fe256766855c1e0388835207-1741223768-1741212968
 
 #EXTINF:-1 tvg-id="RT.de" tvg-name="RT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xoxVfVE.png" grouptitle="General",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
