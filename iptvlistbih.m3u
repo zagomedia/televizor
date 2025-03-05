@@ -27,10 +27,6 @@ http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs" tvg-name="TV Hram" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/3bvOt20.png" group-title="General",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 
-#EXTINF:-1 tvg-id="TVK1.rs" tvg-name="TV K-1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/EiIRuFW.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV K-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/k1live/chunks.m3u8
-
 #EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wKvuOcr.png" group-title="General",Studio B
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 
