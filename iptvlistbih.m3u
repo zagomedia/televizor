@@ -191,10 +191,6 @@ https://strm.hdtvizlecanli.com/live/servus.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/zdf.m3u8
 
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/pLU4ARA.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDFinfo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://strm.hdtvizlecanli.com/live/zdfinfo.m3u8
-
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDFneo" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/QDVyDno.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDFneo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
@@ -248,10 +244,6 @@ https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/XlLrpdN.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tele 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/tele5.m3u8
-
-#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/CzVMMpY.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://s6.hopslan.com/arte/tracks-v1a1/mono.ts.m3u8?token=7a4993b441c96db1beabb7c962c0ba8d67c3fd83-5b8d7580ecc9121f76ffb0c4b2c7bc55-1741223958-1741213158
 
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/vNJ7I0T.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
