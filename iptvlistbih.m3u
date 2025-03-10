@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iFaqct6.png" group-title="General",RTS 1
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/roR8zP6ro5JU4nHrkEPwgpMAEySH4Oy7g3wy5hINjMLAH0-dD1b6t5hCdwrHq1U67cYl71VCa7oIhgHyaMMFK5sgKIVS4ptjwAX-82jd6bnTeDrjzQrQq3-fGULPl9aI3NgVZOF3acNjnCuxuA7lJMaWOiY6g4XbLQHkRlChOqI/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="Blic TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Blic TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://5bc45691ca49f.streamlock.net/blictv-secure/smil:blictv-secure.smil/chunklist_w823173200_b3628000_sleng.m3u8
