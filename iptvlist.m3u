@@ -211,9 +211,6 @@ https://welt.personalstream.tv/v1/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Pf2K7vV.png" group-title="General",ANIXE HD
-https://wow.anixa.tv/live/anixehd2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="W24.at" tvg-name="W24 TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/4j26Grp.png" group-title="General",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
