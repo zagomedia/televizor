@@ -6,6 +6,9 @@ https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/5RdPcQ3.png" group-title="Entertainment",RTL
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/p0SI7RPX6dvAq1VQLUSmlQbGY1mtaKCMXXLaDVx5dUGC5kWHdbyMAqFCWL21V1K-vpai5ajsbY571-awlNRekS0DGFix1jUuT_X7TbkqNNtoplD62ksifrgX-3R-bE9lHDHL1p-9R9KsoOMcSIv3sQR34ip9m00kLUyCONx4WoM/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/a7nBbBq.png" group-title="Entertainment",RTL 2
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/eWNtTOFGY1R0EXg5Y11jBDkUkmgTMt_aFg07Qt_Fcgiq5s1gQSyul2An0ArCdpoCh_j9c0Ep6_nWmVqYFT8eusi2zdKOcY3cx0wEoYpT-JvIwH5DsIPFfLKCG_m8N_IjozJoPgzZMfqR8AVsBFMAtGPk-ieGJVeEh_rbt_Cu7Fc/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="Blic TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Blic TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://5bc45691ca49f.streamlock.net/blictv-secure/smil:blictv-secure.smil/chunklist_w823173200_b3628000_sleng.m3u8
