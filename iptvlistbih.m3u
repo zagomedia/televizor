@@ -29,7 +29,7 @@ https://vpn.komtel.ba/hls/mylivestream.m3u8
 
 #EXTINF:-1 tvg-id="tok.ba" tvg-name="Tok TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/n1xRTyu.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
+https://elara.netcomm.rs/toktv/tracks-a1/index.fmp4.m3u8?token=toktv
 
 #EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-name="Televizija M" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/DLYslWy.png" group-title="Entertainment",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
