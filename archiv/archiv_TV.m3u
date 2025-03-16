@@ -53,7 +53,7 @@ https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Informer TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://65aa8689be25a.streamlock.net/informertv-secure/web/playlist.m3u8
+https://6069699a9e3f3.streamlock.net/informertv-secure/web/chunklist_w1882680961.m3u8
 
 #EXTINF:-1 tvg-id="bravoKIDSTV.hr" tvg-name="bravo! KIDS TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/8AuGBeZ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
