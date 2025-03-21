@@ -20,15 +20,19 @@ http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/Krcp3Wc.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/MglNlCPJRZ5or5iI764OCL9iOwaWVqJgf3IgDDseNGOU74f6LGd64RIBlDzbIMY6ZRQgXWk8EXYXIrXE1cMhUwW6WFk3HCqEBZkAUic7PrjqwGFpYOIUYHzMx14uk6O1-f0fQhF6sRqn7cxOmHbG_Smj1MJkI9K-B2YrAHCoLLI/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/4Z2MDwj.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/VNMOeU_F9uSoL-IiUoA5hGRFqD5wVovhU4zBTNpHu_ohjJ82ikEcKAVZoquKegnAzUuzSiOB_S7y_3AucrlPZq-D5nYDBRPDJ2ICU-MHu7pOrbL-ouMdcPegWZ4Lfo0SWD_Is122s9BxndQGORIOotQMZ8tMxQj2vSlQnSg7CkU/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/nK7WEOM.png" group-title="Culture;Documentary" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/rd4GkW51i6rHxCux92b0EetP1hkJtXHAGszGWgpGFFepBmfX-I2qt0t3Cpn57gbonLtSd3dCVvr7qmY3nQbH8lmG2Ahc0BPJ7zEGu54TLlKCWBtBY6EBddORfwqGMCCdiEf5J6Axr51jiblTIrreLEqk43PbPKRdTGEno6UkC8I/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-logo="" group-title="Culture;Documentary" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/PlhQeJKK-Rz5tfC7uDkxlkSnmzSf_HyN54Pl7VRnpUeeW8UWLM7B3SfcplkowoIZZSLkRevvxaph37KRNFFr4Czcg1WHuufA-umqzTVs6PayWrwl1GgrG_Wy3kPzAc2Z4gHfrME-NTNMujhSaXaGdj6Wa0qwhnJb6U7uZPrVlhM/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/tQDYjfS.png" group-title="General",RTV 1
 http://212.200.230.50:1935/RTV/rtv1/chunklist_w53839759.m3u8
