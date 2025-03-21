@@ -350,6 +350,9 @@ https://nl1.streamingpulse.com/ssl/RadioGradiska
 #EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
 http://51.254.61.148:11111
 
+#EXTINF:-1 radio="true" tvg-id="PakaoRadio" tvg-name="Pakao Radio" group-title="BiH" tvg-logo="https://i.imgur.com/iHvVu8o.png",Pakao Radio
+https://securestream.pakaoradio.net/live
+
 #EXTINF:-1 radio="true" tvg-id="PinkRadio" tvg-name="Pink Radio" group-title="RS" tvg-logo="https://i.imgur.com/GaXQ4NE.png",Pink Radio
 https://edge9.pink.rs/pinkstream
 
