@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/5RdPcQ3.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"",RTL (HR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/duxRjWdci288ILcrHc4B4GhPaLEvkLzPyOhmZ6LmWTglis__B-Zp14MJXC3VB9baIyQhKm_gmkBeHs-Ucnxw8TqUB-Q0z326jSpdBrYPynYZ9zZMPWo6kgjRjpWbcnaPvMfzpH7acaUOLVcxdBtToEY2eVg45KIViyYYVnbQUaA/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/a7nBbBq.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"",RTL 2 (HR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/w_WvMWT2FVEtdWMQwgl1X3sYmsF5aPTOme6fLl-C05cOp2tUM23AbKfE1ORnW6Mm9CcuVbLdkJt8Cd_u4IkFnMGrd7VLL7eMAF0celYgYShtM3tQ4UkI6ooIQBnU0oTx8jxfBNzSAb2gw3xdlViu9dBAD-1-8Zk_u3xHfMIMQqQ/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
@@ -234,10 +242,10 @@ https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qo3fGyX.png" group-title="Entertainment",VOX
 http://178.219.128.68:64888/VOX
 
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Nrl5ZFk.png" group-title="Entertainment",RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Nrl5ZFk.png" group-title="Entertainment",RTL (DE)
 http://178.219.128.68:64888/RTL
 
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="Entertainment",RTL 2
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="Entertainment",RTL 2 (DE)
 http://178.219.128.68:64888/RTL2
 
 #EXTINF:-1 tvg-id="RTLSuper.de" tvg-name="RTLSuper" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bUG1iJV.png" group-title="Entertainment",Super RTL
