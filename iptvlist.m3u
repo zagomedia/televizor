@@ -350,6 +350,21 @@ https://nl1.streamingpulse.com/ssl/RadioGradiska
 #EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
 http://51.254.61.148:11111
 
+#EXTINF:-1 radio="true" tvg-id="BobarRadio" tvg-name="Bobar Radio" tvg-logo="https://i.imgur.com/mhBsbmW.png" group-title="BiH",Bobar Radio
+http://live.radiobobar.com/
+
+#EXTINF:-1 radio="true" tvg-id="StudioB2" tvg-name="Studio B2" tvg-logo="https://i.imgur.com/orStyg9.png" group-title="BiH",Bobar Studio B2
+http://94.130.11.28:9000/stream/1/
+
+#EXTINF:-1 radio="true" tvg-id="NesRadio" tvg-name="Nes Radio" tvg-logo="https://i.imgur.com/xEydNYS.png" group-title="BiH",Nes Radio
+http://188.40.62.20:8070/
+
+#EXTINF:-1 radio="true" tvg-id="KrajiskiRadioDubica" tvg-name="Krajiski Radio Dubica" tvg-logo="https://i.imgur.com/Iq4HkZx.png" group-title="BiH",Krajiski Radio Dubica
+https://stream1.srvnetplus.com:18039
+
+#EXTINF:-1 radio="true" tvg-id="RadioRepublikeSrpske" tvg-name="Radio Republike Srpske" tvg-logo="https://i.imgur.com/wBihxEa.png" group-title="BiH",Radio Republike Srpske
+https://radio.rtrs.tv/radio/live/playlist.m3u8
+
 #EXTINF:-1 radio="true" tvg-id="PakaoRadio" tvg-name="Pakao Radio" group-title="BiH" tvg-logo="https://i.imgur.com/iHvVu8o.png",Pakao Radio
 https://securestream.pakaoradio.net/live
 
