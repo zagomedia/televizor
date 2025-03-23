@@ -406,6 +406,18 @@ https://stream.redradio.rs/
 #EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/mpgIRIM.png",Play Radio
 http://stream.b92.net:7999/radio-b92.mp3
 
+#EXTINF:-1 radio="true" tvg-id="radiobeograd1" tvg-name="Radio Beograd 1" tvg-logo="https://i.imgur.com/NLX3cRA.png" group-title="RS",Radio Beograd 1
+https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd2" tvg-name="Radio Beograd 2" tvg-logo="https://i.imgur.com/c3HIeL5.png" group-title="RS",Radio Beograd 2
+https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd2" tvg-name="Radio Beograd 2" tvg-logo="https://i.imgur.com/mLxAS77.png" group-title="RS",Radio Beograd 3
+https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd202" tvg-name="Radio Beograd 202" tvg-logo="https://i.imgur.com/INJJEt5.png" group-title="RS",Radio Beograd 202
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
+
 #EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S1
 https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8
 
