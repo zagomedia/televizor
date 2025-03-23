@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1" tvg-country="HR" tvg-language="HRV" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Z1
+#EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/mFGwWH2.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Z1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 
