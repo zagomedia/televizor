@@ -8,6 +8,10 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="kanal9novisad.rs" tvg-name="Kanal 9 Novi Sad" tvg-country="RS" tvg-language="SRP" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kanal 9 Novi Sad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://euw12-0.playlist.ttvnw.net/v1/playlist/Co4Grhu9dbO4g7wFBsN9f9w3oJ0KvyWvjB8z5Zhnbd5J4Usx2wO4MOoczh3XLG1W0GG2pNS_VcmhdYKQ3BsD-YdRYd0WHRXzdSjNQAf4rip8BKvTTTI4IWnrQwbTTwngqUa8OqQyGINsmytAEk3TVlCpzDXCI8_89M2xwn3QAbJcj985779QRJ_NkxygOAUcSYAbaaIHYpb68l06ugXpuGfP9DEN6h1doB7OYUIfm4Z4fw-VaGvQ1ifue-vJdP24kzCtsbe-Mwd5rWAPe8Yn8k-5pf_sHnxE85pdcJiNQJoCACAhqNxj24yjgD6CNVWU6jPRzezy0UpiS9ma8x1N5b-HkW3E5KZnMiTd4eMayGU8RbzO_OFKXPxZOhMNe_o8xDX1MRvYMCb0NPNVihPr43wb6UhJGP5Eozf7Ir-Q3sO_oF4Gqs1EFRe8ljpdZpAkOBRCovGt-0ZT3Uw9e5y3cJOsmdBG-pe6vgyC3dF3BH5DTHc8OUzA7xkFw3mw4bNvo56egknnTKeD11wGyPiOEGSvPE-QbrfUthtgFdCXVxq6yijuBGxUPJadlA-sND9PR2TOFMBKDSPUzaMl9EDhTm0xllK0hUM1WSHeq9Tn26a4vX1U9IFeEQgFn2OA9TqiJA4iTmFpx2EIsE58es3vz37vhS0tfnLXtiKR90r7m7cnekqcmKBFiAcpe_xMDz4y1zUul96FgY071hWZNTCDx9GjaaE7A7Y6bkl5EXViZgGqYWHuCb2jL9H1vHhPtNuZfqiMHqpIftAVljQZhRi8mrbMw3Nah0ea09EAMoVRt10QgB-psMC7y6lN0S8P_K34pfE_LlQnIk7B_WmqhRolrra_H8tamFoiOCvc1X5p2Akl3m2X9XaDz4blcwaULf3LDT0107Tj33v_Q0T0ADLxZByhXwY29VCnJ4GnFeNYB7jM5V07eQw1bEXI2NLk5qGRO_fu-2RRfTDEO8pODqUgLwcehhKeZaANpU59svU-3DXRYjcO_11LaJeIR-sUA2nV3jMdKE79bUGpqtAAusoFr8oaDNK67B3vozWWkQh8biABKglldS13ZXN0LTIw7ws.m3u8
+
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
