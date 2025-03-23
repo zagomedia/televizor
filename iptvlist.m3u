@@ -412,6 +412,9 @@ https://streaming.karolina.rs/radiolola.mp3
 #EXTINF:-1 radio="true" tvg-id="radiohitfmbeograd" tvg-name="Radio Hit FM Beograd" tvg-logo="https://i.imgur.com/8Vbl5Ma.png" group-title="RS",Radio Hit FM Beograd
 https://streaming.hitfm.rs/hit.mp3
 
+#EXTINF:-1 radio="true" tvg-id="radiojat" tvg-name="Radio JAT" tvg-logo="https://i.imgur.com/uab0pBd.png" group-title="RS",Radio JAT
+https://streaming.tdiradio.com/radiojat.mp3
+
 #EXTINF:-1 radio="true" tvg-id="radiobeograd1" tvg-name="Radio Beograd 1" tvg-logo="https://i.imgur.com/NLX3cRA.png" group-title="RS",Radio Beograd 1
 https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
 
