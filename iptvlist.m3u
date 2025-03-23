@@ -410,6 +410,18 @@ https://stream.redradio.rs/
 #EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/mpgIRIM.png",Play Radio
 http://stream.b92.net:7999/radio-b92.mp3
 
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S1
+https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S2
+https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S3
+https://539745e629986.streamlock.net/asmedia/pingvin/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S4
+https://65aa8689be25a.streamlock.net/asmedia/gradski/playlist.m3u8
+
 #EXTINF:-1 radio="true" tvg-id="RadioBig1" tvg-name="Radio Big1" group-title="BiH" tvg-logo="https://i.imgur.com/p6kAcVT.png",Radio Big1
 http://big1.bigportal.ba:8100/big1
 
