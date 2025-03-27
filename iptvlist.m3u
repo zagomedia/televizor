@@ -367,9 +367,6 @@ http://188.40.62.20:8070/
 #EXTINF:-1 radio="true" tvg-id="KrajiskiRadioDubica" tvg-name="Krajiski Radio Dubica" tvg-logo="https://i.imgur.com/Iq4HkZx.png" group-title="BiH",Krajiski Radio Dubica
 http://shnpdecct1.dihostnet.com:8039
 
-#EXTINF:-1 radio="true" tvg-id="RadioRepublikeSrpske" tvg-name="Radio Republike Srpske" tvg-logo="https://i.imgur.com/wBihxEa.png" group-title="BiH",Radio Republike Srpske
-https://radio.rtrs.tv/radio/live/playlist.m3u8
-
 #EXTINF:-1 radio="true" tvg-id="PakaoRadio" tvg-name="Pakao Radio" group-title="BiH" tvg-logo="https://i.imgur.com/iHvVu8o.png",Pakao Radio
 https://securestream.pakaoradio.net/live
 
