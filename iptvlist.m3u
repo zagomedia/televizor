@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-id="rtvpulsbrcko.ba" tvg-name="RTV Puls Brcko" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/mIgy8vx.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Puls Brcko
+#EXTINF:-1 tvg-id="rtvpulsbrcko.ba" tvg-name="RTV Puls Brcko" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BHa5vjf.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Puls Brcko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 
