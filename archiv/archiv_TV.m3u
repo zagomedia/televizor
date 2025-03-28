@@ -20,6 +20,10 @@ https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/eWNtTOFGY1R0EXg5Y1
 #EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/3586BJn.png" group-title="Entertainment",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="TV Zapad" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/WSqWPQp.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"",TV Zapad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iFaqct6.png" group-title="General",RTS 1
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/roR8zP6ro5JU4nHrkEPwgpMAEySH4Oy7g3wy5hINjMLAH0-dD1b6t5hCdwrHq1U67cYl71VCa7oIhgHyaMMFK5sgKIVS4ptjwAX-82jd6bnTeDrjzQrQq3-fGULPl9aI3NgVZOF3acNjnCuxuA7lJMaWOiY6g4XbLQHkRlChOqI/hls/index.m3u8
 
