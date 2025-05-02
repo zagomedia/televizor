@@ -253,7 +253,7 @@ https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 https://strm.hdtvizlecanli.com/live/nitro.m3u8
 
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/5l6aMpx.png" group-title="Entertainment",Sat.1
-http://178.219.128.68:64889/SAT1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
 
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat.1 Gold" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/aCYxBWU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1 Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
