@@ -101,6 +101,10 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal.m3u8
 
+#EXTINF:-1 tvg-id="Informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Informer TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?i=0Gt9NXzjErdCwjgaJOCJfA&a=p1gv1KX-K2uhYHOwJi_MlzqKRSYyfMYs3m6HUY9FK3zR1dNOZSLR-OQ48h6HWXnkOR2AVk7rhXOAjUsi1GUoDDLIN-CwL4KRF26Qpojg_TgHCqnL0doqSfEqhv_pLQhHECpMEhtlsGzLDiCwtM7rVDiLg258wXTpBwmh0GN23XUhvdarqLPxRl_iwGzitTwh&sp=novas&u=novas&session=1e502a2e-6328-4350-c09b-940dd54c2fc6&player=m3u8
+
 #EXTINF:-1 tvg-id="RTBalkan.rs" tvg-name="RT Balkan" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vpkQJZh.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Balkan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
