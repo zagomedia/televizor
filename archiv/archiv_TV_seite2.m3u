@@ -42,7 +42,7 @@ http://212.200.230.50:1935/RTV/rtv2/chunklist_w867194608.m3u8
 
 #EXTINF:-1 tvg-id="Informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Informer TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://5bc45691ca49f.streamlock.net/informertv-secure/web/chunklist_w27108739.m3u8
+https://best-str.umn.cdn.united.cloud/stream?i=0Gt9NXzjErdCwjgaJOCJfA&a=p1gv1KX-K2uhYHOwJi_MlzqKRSYyfMYs3m6HUY9FK3zR1dNOZSLR-OQ48h6HWXnkOR2AVk7rhXOAjUsi1GUoDDLIN-CwL4KRF26Qpojg_TgHCqnL0doqSfEqhv_pLQhHECpMEhtlsGzLDiCwtM7rVDiLg258wXTpBwmh0GN23XUhvdarqLPxRl_iwGzitTwh&sp=novas&u=novas&session=1e502a2e-6328-4350-c09b-940dd54c2fc6&player=m3u8
 
 #EXTINF:-1 tvg-id="tok.ba" tvg-name="Tok TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/n1xRTyu.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
