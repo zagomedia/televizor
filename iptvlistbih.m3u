@@ -281,6 +281,10 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/w4hjRV0.png" grouptitle="General",Euronews
 https://jmp2.uk/sam-DE2600003TR.m3u8
 
+#EXTINF:-1 tvg-id="n24.de" tvg-name="N24" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",N24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/n24.m3u8
+
 #EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
