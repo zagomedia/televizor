@@ -217,6 +217,10 @@ https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/ard1.m3u8
 
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
+
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/yiCaC2z.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ntv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/ntv.m3u8
