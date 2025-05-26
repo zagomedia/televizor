@@ -195,6 +195,10 @@ https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo
 #EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 HR" tvg-country="HR" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 HR
 https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
 
+#EXTINF:-1 tvg-id="starchannel.tv" tvg-name="STAR Channel" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/XHv8xaT.png" group-title="Entertainment",STAR Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
+
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 
