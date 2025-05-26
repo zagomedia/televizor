@@ -159,6 +159,10 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTVLCOPT:http-referrer=https://www.euronews.rs/tv-uzivo
 https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Informer TV
+#EXTVLCOPT:http-referrer=https://informer.rs/
+https://539745e629986.streamlock.net/informertv-secure/web/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Newsmax Balkans.rs" tvg-name="Newsmax Balkans" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/l0qicBM.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Newsmax Balkans
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8
