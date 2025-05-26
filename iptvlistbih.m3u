@@ -215,6 +215,10 @@ https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="NAT GEO Wild" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/siSUvTM.png" group-title="Entertainment",NAT GEO Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
+
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 
