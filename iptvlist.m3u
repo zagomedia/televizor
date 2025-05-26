@@ -151,6 +151,10 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/EPLADFg.png" group-title="General",RTCG 3
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MNE.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/8pTSXvZ.png" group-title="General",TVCG MNE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8
+
 #EXTINF:-1 tvg-id="BHRT" tvg-name="BHRT" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/Gg8NPvl.png" group-title="General",BHRT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
