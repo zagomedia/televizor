@@ -6,9 +6,6 @@ https://5bc45691ca49f.streamlock.net/blictv-secure/smil:blictv-secure.smil/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/k1live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS DE
-https://euronews-live-deu-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6567/bitok/e/26033/euronews-de.m3u8#
-
 #EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="Blic TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment",Blic TV
 https://5bc45691ca49f.streamlock.net/blictv-secure/smil:blictv-secure.smil/chunklist_w823173200_b3628000_sleng.m3u8
 
@@ -20,52 +17,6 @@ https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/eWNtTOFGY1R0EXg5Y1
 
 #EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/3586BJn.png" group-title="Entertainment",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iFaqct6.png" group-title="General",RTS 1
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/roR8zP6ro5JU4nHrkEPwgpMAEySH4Oy7g3wy5hINjMLAH0-dD1b6t5hCdwrHq1U67cYl71VCa7oIhgHyaMMFK5sgKIVS4ptjwAX-82jd6bnTeDrjzQrQq3-fGULPl9aI3NgVZOF3acNjnCuxuA7lJMaWOiY6g4XbLQHkRlChOqI/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/nhiF92Y.png" group-title="General",RTS 2
-http://webtvstream.bhtelecom.ba/rts2.m3u8
-
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General",RTRS Link 1
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="NarodnaTV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/xnFgCxd.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Narodna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge8.pink.rs/narodnatv/index.m3u8
-
-#EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1uy65ei.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge8.pink.rs/pinktv/index.m3u8
-
-#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General",RTRS Plus Link 1
-http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General",RTRS Link 2
-https://uzivo.rtrs.tv/tv/live/index.m3u8
-
-#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General",RTRS Plus Link 2
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Link 1 mit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus Link 1 mit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Link 2 mit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://uzivo.rtrs.tv/tv/live/index.m3u8
-
-#EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS Plus" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus Link 2 mit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Informer TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://6069699a9e3f3.streamlock.net/informertv-secure/web/chunklist_w1882680961.m3u8
 
 #EXTINF:-1 tvg-id="bravoKIDSTV.hr" tvg-name="bravo! KIDS TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/8AuGBeZ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
