@@ -15,6 +15,14 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://best-str.umn.cdn.united.cloud/stream?i=0Gt9NXzjErdCwjgaJOCJfA&a=p1gv1KX-K2uhYHOwJi_MlzqKRSYyfMYs3m6HUY9FK3zR1dNOZSLR-OQ48h6HWXnkOR2AVk7rhXOAjUsi1GUoDDLIN-CwL4KRF26Qpojg_TgHCqnL0doqSfEqhv_pLQhHECpMEhtlsGzLDiCwtM7rVDiLg258wXTpBwmh0GN23XUhvdarqLPxRl_iwGzitTwh&sp=novas&u=novas&session=1e502a2e-6328-4350-c09b-940dd54c2fc6&player=m3u8
 
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+
 #EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MZvnTav.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS Svet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
