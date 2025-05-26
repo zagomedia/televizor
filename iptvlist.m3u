@@ -36,6 +36,18 @@ https://edge8.pink.rs/redtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
 https://677c038a28f30.streamlock.net/minacordmedia-secure/k1studio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/Krcp3Wc.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/4Z2MDwj.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/nK7WEOM.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+
 #EXTINF:-1 tvg-id="Alternativa.ba" tvg-name="Alternativna Televizija" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/NmRWiqb.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Alternativna Televizija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vpn.komtel.ba/hls/mylivestream.m3u8
@@ -76,18 +88,6 @@ https://srv1.adriatelekom.com/TVAS/index.m3u8
 
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQCcO1S.png" group-title="Sports",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/Krcp3Wc.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/4Z2MDwj.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
-
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/nK7WEOM.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
 
 #EXTINF:-1 tvg-id="Z1" tvg-name="Z1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/mFGwWH2.png" group-title="General",Z1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
