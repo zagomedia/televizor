@@ -46,6 +46,10 @@ https://vpn.komtel.ba/hls/mylivestream.m3u8
 #EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-name="Televizija M" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/DLYslWy.png" group-title="Entertainment",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="tvzepce" tvg-name="TV Zepce" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/LTNaAmw.png" group-title="General",TV Zepce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ssh101.bozztv.com/ssh101/tvzepcehd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="TV Belle Amie" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/gQJQ5fk.png" group-title="General",TV Belle Amie
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 
