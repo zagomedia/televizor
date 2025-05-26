@@ -284,6 +284,10 @@ https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_250000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/rtl_de.m3u8
 
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/5l6aMpx.png" group-title="Entertainment",Sat.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webtvstream.bhtelecom.ba/sat1.m3u8
+
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ct32esa.png" group-title="Community",ServusTV
 https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
 
