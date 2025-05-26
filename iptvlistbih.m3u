@@ -199,6 +199,18 @@ https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=Faw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
 
+#EXTINF:-1 tvg-id="starmovies.tv" tvg-name="STAR Movies" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/F5Ikuik.png" group-title="Entertainment",STAR Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
+
+#EXTINF:-1 tvg-id="starcrime.tv" tvg-name="STAR Crime" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/OsYCEcj.png" group-title="Entertainment",STAR Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
+
+#EXTINF:-1 tvg-id="starlife.tv" tvg-name="STAR Life" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/g8a7pZE.png" group-title="Entertainment",STAR Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
+
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 
