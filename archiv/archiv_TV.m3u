@@ -33,3 +33,7 @@ https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE HD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Pf2K7vV.png" group-title="General",ANIXE HD
 https://wow.anixa.tv/live/anixehd2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvzepce" tvg-name="TV Zepce" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/LTNaAmw.png" group-title="General",TV Zepce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ssh101.bozztv.com/ssh101/tvzepcehd/playlist.m3u8
