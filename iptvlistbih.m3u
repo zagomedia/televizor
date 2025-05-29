@@ -112,6 +112,10 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.leveex.hr/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="diadora.hr" tvg-name="Diadora TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/bCtgVgT.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Diadora TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/4qOQwjs.png" group-title="General",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
