@@ -334,7 +334,7 @@ https://welt.personalstream.tv/v1/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="oe24.at" tvg-name="OE24" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OE24
+#EXTINF:-1 tvg-id="oe24.at" tvg-name="OE24" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/EWKIonB.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OE24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 
