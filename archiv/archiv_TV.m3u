@@ -37,3 +37,7 @@ https://wow.anixa.tv/live/anixehd2/playlist.m3u8
 #EXTINF:-1 tvg-id="tvzepce" tvg-name="TV Zepce" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/LTNaAmw.png" group-title="General",TV Zepce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ssh101.bozztv.com/ssh101/tvzepcehd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicDance.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC DANCE" tvg-logo="https://i.imgur.com/oOho7xo.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DELUXE MUSIC DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
