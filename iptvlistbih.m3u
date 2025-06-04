@@ -211,6 +211,10 @@ https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
 
+#EXTINF:-1 tvg-id="24kitchen.tv" tvg-name="24 Kitchen" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Rt0tb8f.png" group-title="Lifestyle",24 Kitchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://webtvstream.bhtelecom.ba/24_kitchen.m3u8
+
 #EXTINF:-1 tvg-id="nationalgeographic.tv" tvg-name="National Geographic" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/IhcfsOZ.png" group-title="Entertainment",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://webtvstream.bhtelecom.ba/national_geographic.m3u8
