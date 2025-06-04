@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-name="Baywatch" group-title="Action" tvg-logo="http://images.pluto.tv/channels/65819e62b228b70008570e9f/solidLogoPNG.png" tvg-id="",Baywatch
+#EXTINF:-1 tvg-id="baywatch" tvg-name="Baywatch" group-title="Action" tvg-logo="http://images.pluto.tv/channels/65819e62b228b70008570e9f/solidLogoPNG.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Baywatch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65819e62b228b70008570e9f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="Pink" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1O6LEcO.png" group-title="Entertainment",Pink Plus
