@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-id="toktv.ba" tvg-name="Tok TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/9kVyHir.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
+#EXTINF:-1 tvg-id="toktv.ba" tvg-name="Tok TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/n1xRTyu.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://elara.netcomm.rs/toktv/tracks-v1/index.fmp4.m3u8?token=toktv
 
