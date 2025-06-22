@@ -7,6 +7,10 @@ https://rtvbn.tv:8080/live/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 
+#EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/a7nBbBq.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL 2 (HR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
+
 #EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="Pink" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1O6LEcO.png" group-title="Entertainment",Pink Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/pink_plus.m3u8
