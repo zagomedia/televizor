@@ -124,7 +124,7 @@ https://live.leveex.hr/hls/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://diadoratv.stream/live/diadora/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/hvJbLCF.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Pirot Chunklist
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-name="TV Pirot" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/hvJbLCF.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Pirot
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1316212998.m3u8
 
