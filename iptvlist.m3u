@@ -240,8 +240,13 @@ https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 
-#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music",CMC TV
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",CMC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="Jugoton" tvg-name="Jugoton" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/NoDaRlq.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Jugoton TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.cmctv.hr:49998/jugoton/live.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
