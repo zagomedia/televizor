@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment",BN TV
 https://rtvbn.tv:8080/live/index.m3u8
 
+#EXTINF:-1 tvg-id="ORFSportplus.at" tvg-name="ORF Sport+" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ji28o4f.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF Sport+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL (HR)" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/5RdPcQ3.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (HR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
