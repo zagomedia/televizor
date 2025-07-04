@@ -242,83 +242,6 @@ https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 
-#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zhKxthr.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",IDJTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
-
-#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",CMC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-
-#EXTINF:-1 tvg-id="Jugoton" tvg-name="Jugoton" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/NoDaRlq.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Jugoton TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stream.cmctv.hr:49998/jugoton/live.m3u8
-
-#EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
-http://74.208.199.212:8081/TopTV/live/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Rock&Roll.rs" tvg-name="Rock&Roll" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/hVeC5aW.png" group-title="Music",Rock&Roll
-https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Moba.rs" tvg-name="Moba" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/plIMSEj.png" group-title="Music",Moba
-https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Popstar.rs" tvg-name="Pop Star" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DipjEUe.png" group-title="Music",Pop Star
-https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Jeka.rs" tvg-name="Jeka" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OqvIB2x.png" group-title="Music",Jeka
-https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ZZTV.hr" tvg-name="ZZ TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/rQ8f1KP.png" group-title="Music",ZZ TV
-https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-name="WORLD WIDE MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Hr0b9Sk.png" group-title="Music",WORLD WIDE MUZZIK
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tiktak.rs" tvg-name="Tik Tak" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/v5V6YA9.png" group-title="Music",Tik Tak
-https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik.rs" tvg-name="MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",MUZZIK
-https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Sense.rs" tvg-name="Sense" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/W0RJilv.png" group-title="Music",Sense
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-name="Muzzik Mix" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wEgj06b.png" group-title="Music",MUZZIK MIX
-https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Flashback.rs" tvg-name="Flashback" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OJ6Bs8s.png" group-title="Music",Flashback
-https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LTxyGog.png" group-title="Music",ELECTRO
-https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TDIradio.rs" tvg-name="TDI Radio" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="Music",TDI Radio
-https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
-
-#EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/s2nYXyD.png" group-title="Music",Radio Lola
-https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-
-#EXTINF:-1 tvg-id="KarolinaTV.rs" tvg-name="Karolina TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Q6D1zyf.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Karolina TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-
-#EXTINF:-1 tvg-id="hitfm.rs" tvg-name="Radio HIT FM" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/8Vbl5Ma.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio HIT FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/master.m3u8
-
-#EXTINF:-1 tvg-id="radiostv.rs" tvg-name="Radio S TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/FXg5hEd.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio S TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="extrafm.hr" tvg-name="Extra FM" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/clA0iWS.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Extra FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
-
-#EXTINF:-1 tvg-id="bravoTV.hr" tvg-name="bravo! TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/qC0s2Yo.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
-
 #EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/F4Tdc8z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
@@ -436,22 +359,6 @@ https://jmp2.uk/sam-DE2600003TR.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/n24.m3u8
 
-#EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-name="Deep House District" tvg-logo="https://i.imgur.com/t6h2QUX.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Deep House District
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/gnA6f7M.png" group-title="Music",DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/PShwwuR.png" group-title="Music",DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-
-#EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Community",Krone TV
-https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8
-
 #EXTINF:-1 tvg-id="WeltderWunder.de" tvg-name="Welt der Wunder" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/X82LPvP.png" group-title="Community",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
@@ -467,6 +374,99 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redbulltv.at" tvg-name="Red Bull TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/sTZc4Dd.png" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zhKxthr.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",IDJTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
+
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",CMC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="Jugoton" tvg-name="Jugoton" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/NoDaRlq.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Jugoton TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.cmctv.hr:49998/jugoton/live.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
+http://74.208.199.212:8081/TopTV/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Rock&Roll.rs" tvg-name="Rock&Roll" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/hVeC5aW.png" group-title="Music",Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Moba.rs" tvg-name="Moba" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/plIMSEj.png" group-title="Music",Moba
+https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Popstar.rs" tvg-name="Pop Star" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DipjEUe.png" group-title="Music",Pop Star
+https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Jeka.rs" tvg-name="Jeka" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OqvIB2x.png" group-title="Music",Jeka
+https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ZZTV.hr" tvg-name="ZZ TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/rQ8f1KP.png" group-title="Music",ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-name="WORLD WIDE MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Hr0b9Sk.png" group-title="Music",WORLD WIDE MUZZIK
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tiktak.rs" tvg-name="Tik Tak" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/v5V6YA9.png" group-title="Music",Tik Tak
+https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik.rs" tvg-name="MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Sense.rs" tvg-name="Sense" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/W0RJilv.png" group-title="Music",Sense
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-name="Muzzik Mix" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wEgj06b.png" group-title="Music",MUZZIK MIX
+https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Flashback.rs" tvg-name="Flashback" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OJ6Bs8s.png" group-title="Music",Flashback
+https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LTxyGog.png" group-title="Music",ELECTRO
+https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TDIradio.rs" tvg-name="TDI Radio" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="Music",TDI Radio
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
+
+#EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/s2nYXyD.png" group-title="Music",Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+
+#EXTINF:-1 tvg-id="KarolinaTV.rs" tvg-name="Karolina TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Q6D1zyf.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Karolina TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+
+#EXTINF:-1 tvg-id="hitfm.rs" tvg-name="Radio HIT FM" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/8Vbl5Ma.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio HIT FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/master.m3u8
+
+#EXTINF:-1 tvg-id="radiostv.rs" tvg-name="Radio S TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/FXg5hEd.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio S TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="extrafm.hr" tvg-name="Extra FM" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/clA0iWS.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Extra FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+
+#EXTINF:-1 tvg-id="bravoTV.hr" tvg-name="bravo! TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/qC0s2Yo.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+
+#EXTINF:-1 tvg-id="Kronehittv.at" tvg-name="Kronehit TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-name="Deep House District" tvg-logo="https://i.imgur.com/t6h2QUX.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Deep House District
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/gnA6f7M.png" group-title="Music",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/PShwwuR.png" group-title="Music",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Community",Krone TV
+https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="NaxiRadio" tvg-name="Naxi Radio" group-title="RS" tvg-logo="https://i.imgur.com/Kp9lf5u.png",Naxi Radio
 http://naxi128.streaming.rs:9150/
