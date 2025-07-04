@@ -15,10 +15,6 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 
-#EXTINF:-1 tvg-id="happytv.rs" tvg-name="Happy TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/H8ahEwS.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Happy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="Blic TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Blic TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
@@ -147,9 +143,6 @@ https://stream.pikanal.rs/pikanal/pgm.m3u8
 
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/re0Ha7C.png" group-title="Entertainment",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-
-#EXTINF:-1 tvg-id="SuperTV.ba" tvg-name="Super TV Media" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/itKMJhs.png" group-title="General",Super TV Media
-https://mirtv.club/live/mirtv/index.m3u8
 
 #EXTINF:-1 tvg-id="rtvpulsbrcko.ba" tvg-name="RTV Puls Brcko" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/jLfdjKP.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Puls Brcko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
