@@ -282,13 +282,16 @@ https://webtvstream.bhtelecom.ba/rtl_de.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/sat1.m3u8
 
-#EXTINF:-1 tvg-id="RT.de" tvg-name="RT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xoxVfVE.png" grouptitle="General",RT DE
+#EXTINF:-1 tvg-id="RT.de" tvg-name="RT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/xoxVfVE.png" grouptitle="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/w4hjRV0.png" grouptitle="General",Euronews
+#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/w4hjRV0.png" grouptitle="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Euronews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://jmp2.uk/sam-DE2600003TR.m3u8
 
-#EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Community",Krone TV
+#EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Krone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8
 
 #EXTINF:-1 tvg-id="WeltderWunder.de" tvg-name="Welt der Wunder" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/X82LPvP.png" group-title="Community",Welt der Wunder
