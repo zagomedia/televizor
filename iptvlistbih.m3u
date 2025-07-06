@@ -581,6 +581,9 @@ http://naxidigital-rnb128.streaming.rs:8120/
 #EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" tvg-logo="https://i.imgur.com/tjtHrvd.png" group-title="BiH",Radio BN
 http://stream.rtvbn.com:8522/.mp3
 
+#EXTINF:-1 radio="true" tvg-id="ARadio" tvg-name="A Radio" group-title="BiH" tvg-logo="https://i.imgur.com/J28rVvS.png",A Radio
+https://aradiostream.atvbl.com/live
+
 #EXTINF:-1 radio="true" tvg-id="RadioLaktasi" tvg-name="Radio Laktasi" group-title="BiH" tvg-logo="https://i.imgur.com/a98lWqF.png",Radio Laktasi
 https://radio.laktasiturizam.org/live
 
