@@ -159,6 +159,10 @@ https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.rtvze.ba/live/123/123.m3u8
 
+#EXTINF:-1 tvg-id="Minitv.hr" tvg-name="Mini TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/TMQnWxj.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Mini TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00d
+
 #EXTINF:-1 tvg-id="tropiktv.ba" tvg-name="Tropik TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/9kVyHir.png" group-title="General",Tropik TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
