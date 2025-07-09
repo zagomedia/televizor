@@ -4,6 +4,34 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rtvbn.tv:8080/live/index.m3u8
 
+#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00k
+
+#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/7MPRvLI.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00i
+
+#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ae5GtSY.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00j
+
+#EXTINF:-1 tvg-id="ArenaSportPremium1.rs" tvg-name="Arena Sport Premium 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00g
+
+#EXTINF:-1 tvg-id="ArenaSportPremium2.rs" tvg-name="Arena Sport Premium 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00l
+
+#EXTINF:-1 tvg-id="ArenaSportPremium3.rs" tvg-name="Arena Sport Premium 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00h
+
+#EXTINF:-1 tvg-id="ArenaEsport.rs" tvg-name="Arena Esport" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wQPpdAS.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Esport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a00s
+
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL (HR)" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/5RdPcQ3.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (HR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
