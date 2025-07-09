@@ -253,6 +253,10 @@ https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/yWk5KbM.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",H2 History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://91.132.74.5:8000/play/a007
+
 #EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/F4Tdc8z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
