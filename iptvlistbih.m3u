@@ -770,3 +770,9 @@ http://streaming.tdiradio.com:8000/top40
 
 #EXTINF:-1 radio="true" tvg-id="tdiradioyudance" tvg-name="TDI Radio Yu Dance" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Yu Dance
 http://streaming.tdiradio.com:8000/yudance
+
+#EXTINF:-1 radio="true" tvg-id="naxibankerradionis" tvg-name="Naxi BANKER Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Radio Nis
+https://banker96-naxinacional.streaming.rs:8542/
+
+#EXTINF:-1 radio="true" tvg-id="naxibankercaferadionis" tvg-name="Naxi BANKER Cafe Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Cafe Radio Nis
+https://bankercafe-naxinacional.streaming.rs:8617/
