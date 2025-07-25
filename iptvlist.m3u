@@ -278,6 +278,10 @@ https://de1.adriatelekom.com/AdriaFishing-www/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://de1.adriatelekom.com/AdriaTravel-www/index.m3u8
 
+#EXTINF:-1 tvg-id="AdriaYachting4K.hr" tvg-name="Adria Yachting 4K" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/JIbDtrI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Yachting 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://de1.adriatelekom.com/AdriaYachting4K-www/index.m3u8
+
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/yWk5KbM.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",H2 History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://91.132.74.5:8000/play/a007
