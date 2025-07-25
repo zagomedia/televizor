@@ -677,14 +677,8 @@ http://streaming.tdiradio.com:8000/tdiradiobezreklama
 #EXTINF:-1 radio="true" tvg-id="tdiradiochillout" tvg-name="TDI Radio Chill Out" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Chill Out
 http://streaming.tdiradio.com:8000/chillout
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiodomacica" tvg-name="TDI Radio Domacica" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Domacica
-http://streaming.tdiradio.com:8000/domacica
-
 #EXTINF:-1 radio="true" tvg-id="tdiradiolove" tvg-name="TDI Radio Love" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Love
 http://streaming.tdiradio.com:8000/love
-
-#EXTINF:-1 radio="true" tvg-id="tdiradiopoprnbhits" tvg-name="TDI Radio Pop RnB Hits" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Pop RnB Hits
-http://streaming.tdiradio.com:8000/poprnbhits
 
 #EXTINF:-1 radio="true" tvg-id="tdiradiotop40" tvg-name="TDI Radio Top 40" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Top 40
 http://streaming.tdiradio.com:8000/top40
