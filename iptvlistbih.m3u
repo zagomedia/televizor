@@ -776,3 +776,6 @@ https://banker96-naxinacional.streaming.rs:8542/
 
 #EXTINF:-1 radio="true" tvg-id="naxibankercaferadionis" tvg-name="Naxi BANKER Cafe Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Cafe Radio Nis
 https://bankercafe-naxinacional.streaming.rs:8617/
+
+#EXTINF:-1 radio="true" tvg-id="radiokafanasabac" tvg-name="Radio Kafana Sabac" group-title="RS" tvg-logo="https://i.imgur.com/RvDdfpi.jpeg",Radio Kafana Sabac
+http://stream1.srvnetplus.com:8013
