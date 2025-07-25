@@ -703,3 +703,6 @@ http://stream1.srvnetplus.com:8013
 
 #EXTINF:-1 radio="true" tvg-id="radiosljivovicakraljevo" tvg-name="Radio Sljivovica Kraljevo" group-title="RS" tvg-logo="https://i.imgur.com/IQeXhnM.png",Radio Sljivovica Kraljevo
 https://stream.iradio.pro/proxy/radiosljivovica
+
+#EXTINF:-1 radio="true" tvg-id="radiosumadinac" tvg-name="Radio Sumadinac" group-title="RS" tvg-logo="https://i.imgur.com/2xkUuz0.png",Radio Sumadinac
+https://media.srb-streaming.com/stream/radio-sumadinac-narodna
