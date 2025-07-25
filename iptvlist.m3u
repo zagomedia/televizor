@@ -581,6 +581,9 @@ http://94.130.11.28:9000/stream/1/
 #EXTINF:-1 radio="true" tvg-id="NesRadio" tvg-name="Nes Radio" group-title="BiH" tvg-logo="https://i.imgur.com/xEydNYS.png",Nes Radio
 http://188.40.62.20:8070/
 
+#EXTINF:-1 radio="true" tvg-id="KrajiskiRadioBeska" tvg-name="Krajiski Radio Beska" group-title="RS" tvg-logo="https://i.imgur.com/nI3BLR6.png",Krajiski Radio Beska
+https://micorsk.radioca.st/stream
+
 #EXTINF:-1 radio="true" tvg-id="KrajiskiRadioDubica" tvg-name="Krajiski Radio Dubica" group-title="BiH" tvg-logo="https://i.imgur.com/Iq4HkZx.png",Krajiski Radio Dubica
 http://shnpdecct1.dihostnet.com:8039
 
