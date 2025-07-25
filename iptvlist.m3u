@@ -266,6 +266,14 @@ https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 
+#EXTINF:-1 tvg-id="AdriaHunting.hr" tvg-name="Adria Hunting" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/vOp6hVx.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Hunting
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://de1.adriatelekom.com/AdriaHunting-www/index.m3u8
+
+#EXTINF:-1 tvg-id="AdriaFishing.hr" tvg-name="Adria Fishing" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/cKZ4AEU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Fishing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://de1.adriatelekom.com/AdriaFishing-www/index.m3u8
+
 #EXTINF:-1 tvg-id="AdriaTravel.hr" tvg-name="Adria Travel" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/QQueH0a.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://de1.adriatelekom.com/AdriaTravel-www/index.m3u8
