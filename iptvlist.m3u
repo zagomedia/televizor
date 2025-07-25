@@ -596,6 +596,9 @@ https://edge9.pink.rs/pinkstream
 #EXTINF:-1 radio="true" tvg-id="coolradio" tvg-name="OK Radio" group-title="RS" tvg-logo="https://i.imgur.com/eokVqtp.png",Cool Radio
 http://live.coolradio.rs:80/cool192
 
+#EXTINF:-1 radio="true" tvg-id="mojradio" tvg-name="Moj Radio" group-title="RS" tvg-logo="https://i.imgur.com/EE8p6vv.png",Moj Radio
+https://eu4.fastcast4u.com/proxy/svidakov
+
 #EXTINF:-1 radio="true" tvg-id="RadioNostalgija1052" tvg-name="Radio Nostalgija 105.2" group-title="RS" tvg-logo="https://i.imgur.com/OR4AXKN.png",Radio Nostalgija 105.2
 http://nostalgie128.streaming.rs:9250/
 
