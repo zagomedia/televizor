@@ -635,7 +635,7 @@ https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radiobeograd2" tvg-name="Radio Beograd 2" group-title="RS" tvg-logo="https://i.imgur.com/c3HIeL5.png",Radio Beograd 2
 https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="radiobeograd2" tvg-name="Radio Beograd 3" group-title="RS" tvg-logo="https://i.imgur.com/mLxAS77.png",Radio Beograd 3
+#EXTINF:-1 radio="true" tvg-id="radiobeograd3" tvg-name="Radio Beograd 3" group-title="RS" tvg-logo="https://i.imgur.com/mLxAS77.png",Radio Beograd 3
 https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="radiobeograd202" tvg-name="Radio Beograd 202" group-title="RS" tvg-logo="https://i.imgur.com/INJJEt5.png",Radio Beograd 202
