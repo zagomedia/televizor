@@ -254,6 +254,10 @@ https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
 
+#EXTINF:-1 tvg-id="AdriaHumor.hr" tvg-name="Adria Humor" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/o9faQAq.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Humor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://de1.adriatelekom.com/AdriaHumor-www/index.m3u8
+
 #EXTINF:-1 tvg-id="24kitchen.tv" tvg-name="24 Kitchen" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Rt0tb8f.png" group-title="Lifestyle",24 Kitchen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://webtvstream.bhtelecom.ba/24_kitchen.m3u8
