@@ -266,6 +266,10 @@ https://de1.adriatelekom.com/AdriaKitchen-www/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 
+#EXTINF:-1 tvg-id="AdriaNature.hr" tvg-name="Adria Nature" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/EW5SKoK.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://de1.adriatelekom.com/AdriaNature-www/index.m3u8
+
 #EXTINF:-1 tvg-id="natgeowild" tvg-name="NAT GEO Wild" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/siSUvTM.png" group-title="Entertainment",NAT GEO Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
