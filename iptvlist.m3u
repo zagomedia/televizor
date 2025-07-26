@@ -254,7 +254,7 @@ https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8
 
-#EXTINF:-1 tvg-id="AdriaHumor.hr" tvg-name="Adria Humor" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/o9faQAq.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Humor
+#EXTINF:-1 tvg-id="AdriaHumor.hr" tvg-name="Adria Humor" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/o9faQAq.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Humor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://de1.adriatelekom.com/AdriaHumor-www/index.m3u8
 
@@ -270,7 +270,7 @@ https://de1.adriatelekom.com/AdriaKitchen-www/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 
-#EXTINF:-1 tvg-id="AdriaNature.hr" tvg-name="Adria Nature" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/EW5SKoK.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Nature
+#EXTINF:-1 tvg-id="AdriaNature.hr" tvg-name="Adria Nature" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/EW5SKoK.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://de1.adriatelekom.com/AdriaNature-www/index.m3u8
 
