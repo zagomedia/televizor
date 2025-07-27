@@ -128,10 +128,6 @@ https://rtvmir.info/MIR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtvcityub.rs" tvg-name="RTV City Ub" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/9KIQmOE.png" group-title="Entertainment",RTV City Ub
 http://109.72.57.12/hls/tvcityub.m3u8
 
-#EXTINF:-1 tvg-id="rtvokkovacica.rs" tvg-name="RTV Ok Kovacica" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/lIy0yRf.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Ok Kovacica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cloud.odysee.live/content/05f1218bcf140926a2563f2487197db5c29576b8/master.m3u8
-
 #EXTINF:-1 tvg-id="KTV.rs" tvg-name="KTV Zrenjanin" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XqJ4OVr.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",KTV Zrenjanin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ktvuzivo.rs/hls/0/stream.m3u8
