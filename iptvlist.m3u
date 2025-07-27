@@ -284,18 +284,22 @@ https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 
 #EXTINF:-1 tvg-id="AdriaHunting.hr" tvg-name="Adria Hunting" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/vOp6hVx.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Hunting
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaHunting-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaFishing.hr" tvg-name="Adria Fishing" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/cKZ4AEU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Fishing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaFishing-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaTravel.hr" tvg-name="Adria Travel" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/QQueH0a.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaTravel-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaYachting4K.hr" tvg-name="Adria Yachting 4K" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/JIbDtrI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Yachting 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaYachting4K-www/index.m3u8
 
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/yWk5KbM.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",H2 History
@@ -340,6 +344,7 @@ http://91.132.74.5:8000/play/a00h
 
 #EXTINF:-1 tvg-id="Adriaesports.hr" tvg-name="Adria eSports" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Q7aDIRY.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria eSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaESports-www/index.m3u8
 
 #EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/F4Tdc8z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
@@ -441,54 +446,67 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 
 #EXTINF:-1 tvg-id="AdriaTrubaci.hr" tvg-name="Adria Trubaci" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZLfRNlN.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Trubaci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaTrubaci-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaNarodna.hr" tvg-name="Adria Narodna" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/BbwWbKZ.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Narodna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaNarodna-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaFolk.hr" tvg-name="Adria Folk" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/uUlrmpT.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Folk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaFolk-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaEXYURock.hr" tvg-name="Adria EXYU Rock" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/rsynaLO.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria EXYU Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaEXYURock-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaHits1.hr" tvg-name="Adria Hits 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/gIlXtXi.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Hits 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaHits1-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaHits2.hr" tvg-name="Adria Hits 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZFV6reH.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Hits 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaHits2-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaCroHits.hr" tvg-name="Adria Cro Hits" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/rsynaLO.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Cro Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaCROHits-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaHits4K.hr" tvg-name="Adria Hits 4K" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/oFA0k1F.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Hits 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaHits4K-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaCubanismo.hr" tvg-name="Adria Cubanismo" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/YWRgrUZ.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Cubanismo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaCubanismo-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaUrban.hr" tvg-name="Adria Urban" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/kvjxhtS.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Urban
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaUrban-www/index.m3u8
 
 #EXTINF:-1 tvg-id="Adria90s.hr" tvg-name="Adria 90s" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/7IaWamK.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria 90s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/Adria90s-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaNostalgy.hr" tvg-name="Adria Nostalgy" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/aOOnImM.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Nostalgy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaNostalgy-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaBigBand.hr" tvg-name="Adria Big Band" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/mw8oDtv.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Big Band
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaBigBand-www/index.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
