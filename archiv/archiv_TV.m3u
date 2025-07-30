@@ -2,11 +2,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/k1live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="toktv.rs" tvg-name="Tok TV" tvg-country="BA" tvg-language="SRP" tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Tok TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://toktv.ba/
-https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
-
 #EXTINF:-1 tvg-id="N1.si" tvg-name="N1 SLO" tvg-country="SLO" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 SLO
 https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream?i=NSKLtZXTzL2_sSsxrE6H0Q&a=pWgWfvqQjQC8uX8Gxgd_w0ilCIjF-oJr6W8ltXACBCAOee5BguFK5_Gv1eRw3NoMfemownNvJqTEFzrR9tJH6B1xlJdJQDOWcjuf6fr8aef0QQ9E93QVzcpcRK_ApqoHeETubkOAKkzTA7sTk0g_NKKkvdckoitDrCsZTu-ga_zOv14RElOEBtEbauKx0D0V8nCs_GsP3aI--s78Q2QuR6o-F1YQCv5BSTgnik385Azx33bIbQHEF5OAqu4m3zGN&sp=n1info&u=n1info&session=ca0f28bd-55fb-3489-12ce-3c50e40d146a&player=m3u8
 
