@@ -21,17 +21,9 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 #EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
 https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="superstartv.rs" tvg-name="Superstar TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Uqt6nEX.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Superstar TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00n
-
 #EXTINF:-1 tvg-id="NovaS.rs" tvg-name="Nova S" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mHJAqqS.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=H9FAErjFl1QBwEedJgdWqQ&a=RyqZAfXpLzotsDGgYgnw78siAfqVm4mgb4ZDkxyXwzzt9ZIfmBixU3E6rmniY-ysjiI49j9MkTtSplU1H3uIvUN59ftih6Cd5rBan_nrKRLFTJsFvNKr2bxcKkIuF6WvTcM5bAg55G_i1B-7devbnvS0li1Y2RUfksV_hUYJJwvflJJxMwUZTnJhRds0tehuNOdzPWSJz9qclkdFr4FiegiOAlwIWAkfzybqEpeMe34&sp=novas&u=novas&session=206c0697-4b8e-2322-2a08-718e206505df&player=m3u8
-
-#EXTINF:-1 tvg-id="NovaBH" tvg-name="Nova BH" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/eJKP502.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova BH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a005
 
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -184,10 +176,6 @@ https://tv.rtvpulsbrcko.ba:8001/live/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.rtvze.ba/live/123/123.m3u8
 
-#EXTINF:-1 tvg-id="Minitv.hr" tvg-name="Mini TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/TMQnWxj.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Mini TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00d
-
 #EXTINF:-1 tvg-id="tropiktv.ba" tvg-name="Tropik TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/9kVyHir.png" group-title="General",Tropik TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
@@ -315,10 +303,6 @@ https://de1.adriatelekom.com/AdriaTravel-www/index.m3u8
 #EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaYachting4K-www/index.m3u8
 
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/yWk5KbM.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",H2 History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a007
-
 #EXTINF:-1 tvg-id="FilmboxExtra" tvg-name="Filmbox Extra" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/acDNdY4.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
@@ -330,30 +314,6 @@ https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
 #EXTINF:-1 tvg-id="FilmboxStars" tvg-name="Filmbox Stars" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/q4LoI6x.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Stars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
-
-#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00k
-
-#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/7MPRvLI.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00i
-
-#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ae5GtSY.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00j
-
-#EXTINF:-1 tvg-id="ArenaSportPremium1.rs" tvg-name="Arena Sport Premium 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zfLzVqV.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00g
-
-#EXTINF:-1 tvg-id="ArenaSportPremium2.rs" tvg-name="Arena Sport Premium 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zTCwdf9.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00l
-
-#EXTINF:-1 tvg-id="ArenaSportPremium3.rs" tvg-name="Arena Sport Premium 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/aK3SNFW.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://91.132.74.5:8000/play/a00h
 
 #EXTINF:-1 tvg-id="Adriaesports.hr" tvg-name="Adria eSports" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Q7aDIRY.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria eSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
