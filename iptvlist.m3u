@@ -184,11 +184,6 @@ https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/baby_tv.m3u8
 
-#EXTINF:-1 tvg-id="AdriaKids.hr" tvg-name="Adria Kids" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/MPJbCMA.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://adriatelekom.com
-https://de1.adriatelekom.com/AdriaKids-www/index.m3u8
-
 #EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/uy5qiIg.png" group-title="General",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
