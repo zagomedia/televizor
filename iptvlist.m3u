@@ -278,11 +278,6 @@ https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 #EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaTravel-www/index.m3u8
 
-#EXTINF:-1 tvg-id="AdriaYachting4K.hr" tvg-name="Adria Yachting 4K" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/JIbDtrI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Yachting 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://adriatelekom.com
-https://de1.adriatelekom.com/AdriaYachting4K-www/index.m3u8
-
 #EXTINF:-1 tvg-id="FilmboxExtra" tvg-name="Filmbox Extra" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/acDNdY4.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
@@ -431,11 +426,6 @@ https://de1.adriatelekom.com/AdriaHits2-www/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaCROHits-www/index.m3u8
-
-#EXTINF:-1 tvg-id="AdriaHits4K.hr" tvg-name="Adria Hits 4K" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/oFA0k1F.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Hits 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://adriatelekom.com
-https://de1.adriatelekom.com/AdriaHits4K-www/index.m3u8
 
 #EXTINF:-1 tvg-id="AdriaCubanismo.hr" tvg-name="Adria Cubanismo" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/YWRgrUZ.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria Cubanismo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
