@@ -635,8 +635,8 @@ https://radio.laktasiturizam.org/live
 #EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
 https://nl1.streamingpulse.com/ssl/RadioGradiska
 
-#EXTINF:-1 radio="true" tvg-id="radiosarajevo" tvg-name="Radio Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/BRxT1Cb.jpeg",Radio Sarajevo
-https://securestreams5.autopo.st:1853/
+#EXTINF:-1 radio="true" tvg-id="antenasarajevo" tvg-name="Antena Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/BU5Nzpt.png",Antena Sarajevo
+http://116.203.7.166:9020/
 
 #EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
 http://51.254.61.148:11111
