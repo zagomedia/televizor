@@ -208,7 +208,7 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="euronews.rs" tvg-name="Euronews Serbia" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/smhVgxX.png" group-title="News",Euronews Serbia
 #EXTVLCOPT:http-referrer=https://www.euronews.rs/tv-uzivo
-https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758576227/ei/A2rRaJjWJOj56dsPrOOowAE/ip/62.46.231.79/id/CQ3KsEbsYHs.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/ATw7iSV0HhODC266KzSMz-ZwuUsRmnOyuzikpniv6Nrq9BrJBjNTaUNr8GmusqLiLJQUQR_304kHfqPu/spc/hcYD5Xk2Pr-tCMp2jsl8Fahl-QEWpZTrXW36VLAOWulKeXyK93pummy8yM8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOrCI9U36Cx-Tk2KXZ3ZivrWAqo_UyrK1M0eIGxI2bKBAiBdULVGORGJKok8Y73ZLqWFCJjBNxuAD_UX-WSvHXr_ow%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="informer.rs" tvg-name="Informer TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XWkorIV.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Informer TV
 #EXTVLCOPT:http-referrer=https://informer.rs/
