@@ -175,9 +175,6 @@ https://webtvstream.bhtelecom.ba/baby_tv.m3u8
 #EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/uy5qiIg.png" group-title="General",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Lvpa4kZ.png" group-title="General",Trend TV
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/MRpGnpa.png" group-title="General",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
