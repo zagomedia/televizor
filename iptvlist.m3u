@@ -710,7 +710,7 @@ https://media.srb-streaming.com/stream/radio-sumadinac-narodna
 #EXTINF:-1 radio="true" tvg-id="radiostarapazova" tvg-name="Radio Stara Pazova" group-title="RS" tvg-logo="https://i.imgur.com/9pmQvw3.png",Radio Stara Pazova
 http://95.140.123.22:8000/
 
-#EXTINF:-1 radio="true" tvg-id="radiostarapazova" tvg-name="Radio Stara Pazova" group-title="RS" tvg-logo="https://i.imgur.com/gXydmAw.jpeg",Radio Mir Leposavic
+#EXTINF:-1 radio="true" tvg-id="RadioMirLeposavic" tvg-name="Radio Mir Leposavic" group-title="RS" tvg-logo="https://i.imgur.com/gXydmAw.jpeg",Radio Mir Leposavic
 https://stream.iradio.pro/proxy/radiomir?mp=/stream&1753629939754
 
 #EXTINF:-1 radio="true" tvg-id="radiopulsgrocka" tvg-name="Radio Puls Grocka" group-title="RS" tvg-logo="https://i.imgur.com/HHEtPCJ.png",Radio Puls Grocka
