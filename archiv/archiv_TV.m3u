@@ -96,6 +96,9 @@ http://91.132.74.5:8000/play/a00h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/servus.m3u8
 
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/Lvpa4kZ.png" group-title="General",Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://85.187.13.40:18000/ProSieben
