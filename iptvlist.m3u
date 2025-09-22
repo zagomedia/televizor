@@ -399,7 +399,8 @@ https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Muzzik.rs" tvg-name="MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",MUZZIK
 https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Sense.rs" tvg-name="Sense" tvg-country="RS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/W0RJilv.png" group-title="Music",Sense
+#EXTINF:-1 tvg-id="FlashbackAdria.rs" tvg-name="Flashback Adria" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/IBUBpOi.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Flashback Adria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-name="Muzzik Mix" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wEgj06b.png" group-title="Music",MUZZIK MIX
@@ -419,7 +420,7 @@ https://muzzik-live.morescreens.com/mts-10/576p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muzzik-live.morescreens.com/mts-11/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Rivera.rs" tvg-name="Rivera" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/f7O9lQt.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Rivera
+#EXTINF:-1 tvg-id="Riviera.rs" tvg-name="Riviera" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/f7O9lQt.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Riviera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muzzik-live.morescreens.com/mts-14/576p/chunklist.m3u8
 
