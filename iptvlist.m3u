@@ -411,6 +411,18 @@ https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LTxyGog.png" group-title="Music",ELECTRO
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="X-Muzzik.rs" tvg-name="X-MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/62f26Gg.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",X-MUZZIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://muzzik-live.morescreens.com/mts-10/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Sonidozz.rs" tvg-name="SONIDOZZ" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/eZLekLq.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SONIDOZZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://muzzik-live.morescreens.com/mts-11/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Rivera.rs" tvg-name="Rivera" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/f7O9lQt.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Rivera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://muzzik-live.morescreens.com/mts-14/576p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="TDIradio.rs" tvg-name="TDI Radio" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="Music",TDI Radio
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
 
