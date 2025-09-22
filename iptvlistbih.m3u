@@ -746,15 +746,6 @@ http://domacica.bigportal.ba:8100/domacica
 #EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradiobezreklama
 
-#EXTINF:-1 radio="true" tvg-id="tdiradiolove" tvg-name="TDI Radio Love" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Love
-http://streaming.tdiradio.com:8000/love
-
-#EXTINF:-1 radio="true" tvg-id="tdiradiotop40" tvg-name="TDI Radio Top 40" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Top 40
-http://streaming.tdiradio.com:8000/top40
-
-#EXTINF:-1 radio="true" tvg-id="tdiradioyudance" tvg-name="TDI Radio Yu Dance" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio Yu Dance
-http://streaming.tdiradio.com:8000/yudance
-
 #EXTINF:-1 radio="true" tvg-id="naxibankerradionis" tvg-name="Naxi BANKER Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Radio Nis
 https://banker96-naxinacional.streaming.rs:8542/
 
