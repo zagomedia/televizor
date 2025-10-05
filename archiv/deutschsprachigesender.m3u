@@ -20,6 +20,18 @@ https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://test02.mdn.ors.at/orf/orfk/qxa/manifest.m3u8
 
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/B82f5Xd.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",3Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31282/index.m3u8
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ct32esa.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ServusTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
+
 
 #EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/cqgr7HK.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
