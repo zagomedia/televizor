@@ -204,7 +204,7 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MNE.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/8pTSXvZ.png" group-title="General",TVCG MNE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8
+https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/rtcg.m3u8
 
 #EXTINF:-1 tvg-id="BHRT" tvg-name="BHRT" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/Gg8NPvl.png" group-title="General",BHRT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
