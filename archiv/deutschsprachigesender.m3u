@@ -158,6 +158,7 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31432/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6062/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31368/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 http://176.10.117.68:6060/rtl/index.m3u8
 https://izle.canlitvapp.com/rtl/index.m3u8
 https://webtvstream.bhtelecom.ba/rtl_de.m3u8
@@ -170,12 +171,14 @@ http://176.10.117.68:6060/rtl2/index.m3u8
 https://izle.canlitvapp.com/rtl2/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6065/index.m3u8
 https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 
 
 #EXTINF:-1 tvg-id="RTLSuper.de" tvg-name="RTLSuper" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bUG1iJV.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Super RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 http://176.10.117.68:6060/superrtl/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 
 
 #EXTINF:-1 tvg-id="RTLcrime.de" tvg-name="RTL Crime(DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/BQktCxC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Crime(DE)
@@ -194,6 +197,8 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31370/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6064/index.m3u8
 https://strm.hdtvizlecanli.com/live/nitro.m3u8
 http://176.10.117.68:6060/nitro/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+
 
 
 #EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/0Bvgwuy.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
