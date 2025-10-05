@@ -1,71 +1,79 @@
-#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1
+#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LKIiRiB.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena1/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/7MPRvLI.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2
+#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/a5TlLuu.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena2/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ae5GtSY.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3
+#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Xlqab86.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena3/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport4.rs" tvg-name="Arena Sport 4" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jFCPp9w.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 4
+#EXTINF:-1 tvg-id="Arenasport4.rs" tvg-name="Arena Sport 4" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/0UzKTE0.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena4/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name="Arena Sport 5" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ogSt7i4.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 5
+#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name="Arena Sport 5" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/dMy3LnV.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena5/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport6.rs" tvg-name="Arena Sport 6" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 6
+#EXTINF:-1 tvg-id="Arenasport6.rs" tvg-name="Arena Sport 6" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/x7Zd5qk.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena6/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport7.rs" tvg-name="Arena Sport 7" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/7MPRvLI.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 7
+#EXTINF:-1 tvg-id="Arenasport7.rs" tvg-name="Arena Sport 7" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Z3wtujB.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena7/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport8.rs" tvg-name="Arena Sport 8" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ae5GtSY.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 8
+#EXTINF:-1 tvg-id="Arenasport8.rs" tvg-name="Arena Sport 8" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/z5aXHuw.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena8/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport9.rs" tvg-name="Arena Sport 9" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jFCPp9w.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 9
+#EXTINF:-1 tvg-id="Arenasport9.rs" tvg-name="Arena Sport 9" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iP5KfUb.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena9/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport10.rs" tvg-name="Arena Sport 10" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ogSt7i4.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 10
+#EXTINF:-1 tvg-id="Arenasport10.rs" tvg-name="Arena Sport 10" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/3YQo5FB.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Arena10/index.m3u8
 
-#EXTINF:-1 tvg-id="ArenaSportPremium1.rs" tvg-name="Arena Sport Premium 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zfLzVqV.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 1
+#EXTINF:-1 tvg-id="ArenaSportPremium1.rs" tvg-name="Arena Sport Premium 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ghTyLsV.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://91.132.74.5:8000/play/a00g
 
-#EXTINF:-1 tvg-id="ArenaSportPremium2.rs" tvg-name="Arena Sport Premium 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zTCwdf9.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 2
+#EXTINF:-1 tvg-id="ArenaSportPremium2.rs" tvg-name="Arena Sport Premium 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mqL0wJv.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://91.132.74.5:8000/play/a00l
 
-#EXTINF:-1 tvg-id="ArenaSportPremium3.rs" tvg-name="Arena Sport Premium 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/aK3SNFW.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 3
+#EXTINF:-1 tvg-id="ArenaSportPremium3.rs" tvg-name="Arena Sport Premium 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Rr1pvbe.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://91.132.74.5:8000/play/a00h
 
-#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/MkCDXfU.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1 Reserve
+#EXTINF:-1 tvg-id="MaxSport1.hr" tvg-name="Max Sport 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/TxXuKW0.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Max Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/MaxSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport2.hr" tvg-name="Max Sport 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/fWqar9H.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Max Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/MaxSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LKIiRiB.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://78.108.251.7/Arena_Sport_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/7MPRvLI.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2 Reserve
+#EXTINF:-1 tvg-id="Arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/a5TlLuu.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://78.108.251.7/Arena_Sport_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ae5GtSY.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3 Reserve
+#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Xlqab86.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://78.108.251.7/Arena_Sport_3/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport4.rs" tvg-name="Arena Sport 4" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jFCPp9w.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 4 Reserve
+#EXTINF:-1 tvg-id="Arenasport4.rs" tvg-name="Arena Sport 4" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/0UzKTE0.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://78.108.251.7/Arena_Sport_4/index.m3u8
 
-#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name="Arena Sport 5" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/ogSt7i4.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 5 Reserve
+#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name="Arena Sport 5" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/dMy3LnV.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://78.108.251.7/Arena_Sport_5/index.m3u8
