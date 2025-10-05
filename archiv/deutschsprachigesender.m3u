@@ -147,6 +147,8 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31431/index.m3u8
 http://185.166.252.230/Vox/index.m3u8
 https://strm.hdtvizlecanli.com/live/vox.m3u8
 http://176.10.117.68:6060/vox/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+
 
 
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ol5KlEp.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOXup
