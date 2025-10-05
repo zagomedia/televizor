@@ -37,6 +37,8 @@ https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31359/index.m3u8
+https://webtvstream.bhtelecom.ba/prosieben.m3u8
+
 
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bqLZNvM.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Maxx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
