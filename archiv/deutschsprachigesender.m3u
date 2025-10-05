@@ -57,6 +57,7 @@ https://strm.hdtvizlecanli.com/live/zdf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31443/index.m3u8
 https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
+http://176.10.117.68:6060/zdfneo/index.m3u8
 
 
 #EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/HbHkKV5.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ZDFinfo
@@ -65,10 +66,18 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/17042/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31442/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="ard.de" tvg-name="ARD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/NaAQt4g.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ARD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+http://23.88.66.93/ARD/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/5l6aMpx.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31380/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6060/index.m3u8
+http://176.10.117.68:6060/sat1/index.m3u8
 http://185.166.252.230/Sat1/index.m3u8
 https://webtvstream.bhtelecom.ba/sat1.m3u8
 
@@ -88,6 +97,7 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31381/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31329/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6067/index.m3u8
+http://176.10.117.68:6060/kabel1/index.m3u8
 https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 
 
@@ -112,6 +122,7 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6061/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31431/index.m3u8
 http://185.166.252.230/Vox/index.m3u8
 https://strm.hdtvizlecanli.com/live/vox.m3u8
+http://176.10.117.68:6060/vox/index.m3u8
 
 
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ol5KlEp.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOXup
@@ -123,6 +134,7 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31432/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6062/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31368/index.m3u8
+http://176.10.117.68:6060/rtl/index.m3u8
 https://izle.canlitvapp.com/rtl/index.m3u8
 https://webtvstream.bhtelecom.ba/rtl_de.m3u8
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
@@ -130,6 +142,7 @@ https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL 2 (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://176.10.117.68:6060/rtl2/index.m3u8
 https://izle.canlitvapp.com/rtl2/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6065/index.m3u8
 https://strm.hdtvizlecanli.com/live/rtl2.m3u8
@@ -138,6 +151,7 @@ https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de" tvg-name="RTLSuper" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bUG1iJV.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Super RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+http://176.10.117.68:6060/superrtl/index.m3u8
 
 
 #EXTINF:-1 tvg-id="RTLcrime.de" tvg-name="RTL Crime(DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/BQktCxC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Crime(DE)
@@ -155,6 +169,7 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31370/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6064/index.m3u8
 https://strm.hdtvizlecanli.com/live/nitro.m3u8
+http://176.10.117.68:6060/nitro/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/0Bvgwuy.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sixx
@@ -162,6 +177,7 @@ https://strm.hdtvizlecanli.com/live/nitro.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/15170/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31388/index.m3u8
 https://strm.hdtvizlecanli.com/live/six.m3u8
+http://176.10.117.68:6060/sixx/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben
@@ -170,6 +186,7 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31359/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6057/index.m3u8
 https://webtvstream.bhtelecom.ba/prosieben.m3u8
 https://strm.hdtvizlecanli.com/live/pro7.m3u8
+http://176.10.117.68:6060/pro7/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bqLZNvM.png" group-title="Community" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Maxx
