@@ -83,6 +83,27 @@ https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31381/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Kabeleins.de" tvg-name="Kabel Eins" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/8tWAJa1.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31329/index.m3u8
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6067/index.m3u8
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+
+
+
+#EXTINF:-1 tvg-id="KabeleinsDoku.de" tvg-name="Kabel Eins Doku" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/P3qK3tz.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins Doku
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31331/index.m3u8
+https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
+
+
+
+#EXTINF:-1 tvg-id="KabeleinsClassics.de" tvg-name="Kabel Eins Classics" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Cl3Xfst.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kabel Eins Classics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31330/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qo3fGyX.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6061/index.m3u8
