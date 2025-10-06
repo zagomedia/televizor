@@ -1,7 +1,42 @@
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/9ANpvq4.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_1/index.m3u8
+http://webtvstream.bhtelecom.ba/hrt1.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/jKaYnEl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_2/index.m3u8
+http://webtvstream.bhtelecom.ba/hrt2.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/BVKrtOe.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_3/index.m3u8
+http://webtvstream.bhtelecom.ba/hrt3.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/hBFQX68.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HRT_4/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HRTint.hr" tvg-name="HRT Int." tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/r8PdVca.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT Int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hrt5/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL (HR)" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/5RdPcQ3.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (HR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 http://185.166.252.230/Rtl/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="RTL2.hr" tvg-name="RTL 2 (HR)" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/a7nBbBq.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL 2 (HR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
