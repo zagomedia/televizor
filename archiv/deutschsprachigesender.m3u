@@ -269,3 +269,10 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/dmax.m3u8
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
+
+
+
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/p7UWVkT.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://strm.hdtvizlecanli.com/live/disney.m3u8
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
