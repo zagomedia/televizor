@@ -61,6 +61,7 @@ https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
 http://23.88.66.93/HRT_1/index.m3u8
 http://webtvstream.bhtelecom.ba/hrt1.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+http://185.166.252.230/Hrt1/index.m3u8
 
 
 
@@ -69,6 +70,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 http://23.88.66.93/HRT_2/index.m3u8
 http://webtvstream.bhtelecom.ba/hrt2.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+http://185.166.252.230/Hrt2/index.m3u8
 
 
 
@@ -77,6 +79,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 http://23.88.66.93/HRT_3/index.m3u8
 http://webtvstream.bhtelecom.ba/hrt3.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+http://185.166.252.230/Hrt3/index.m3u8
 
 
 
@@ -84,6 +87,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://23.88.66.93/HRT_4/index.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+http://185.166.252.230/Hrt4/index.m3u8
 
 
 
@@ -105,7 +109,7 @@ http://185.166.252.230/Rtl/index.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 http://23.88.66.93/RTL_2/index.m3u8
 http://5.57.74.130:8000/play/a00o/index.m3u8
-
+http://185.166.252.230/Rtl2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bn2.tv" tvg-name="BN 2" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/5aUSnz1.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BN 2
