@@ -3,6 +3,15 @@
 http://185.166.252.230/NovaTV/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="NovaS.rs" tvg-name="Nova S" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mHJAqqS.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=H9FAErjFl1QBwEedJgdWqQ&a=RyqZAfXpLzotsDGgYgnw78siAfqVm4mgb4ZDkxyXwzzt9ZIfmBixU3E6rmniY-ysjiI49j9MkTtSplU1H3uIvUN59ftih6Cd5rBan_nrKRLFTJsFvNKr2bxcKkIuF6WvTcM5bAg55G_i1B-7devbnvS0li1Y2RUfksV_hUYJJwvflJJxMwUZTnJhRds0tehuNOdzPWSJz9qclkdFr4FiegiOAlwIWAkfzybqEpeMe34&sp=novas&u=novas&session=206c0697-4b8e-2322-2a08-718e206505df&player=m3u8
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="OTV.hr" tvg-name="OTV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/foY6e6v.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/OTV/index.m3u8
