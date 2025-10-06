@@ -11,6 +11,8 @@ https://viamotion.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 http://185.166.252.230/Orf2/index.m3u8
 https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
 https://viamotion.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+http://176.10.117.68:6060/orf2/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="orfsportplus.at" tvg-name="ORF Sport+" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ji28o4f.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF Sport+
@@ -37,6 +39,7 @@ http://176.10.117.68:6060/srf1/index.m3u8
 #EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 http://176.10.117.68:6060/srf2/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SRFinfo.ch" tvg-name="SRF info" tvg-country="CH" tvg-language="DEU" tvg-logo="https://i.imgur.com/X7WEpYq.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SRF info
