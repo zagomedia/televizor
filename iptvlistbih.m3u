@@ -228,6 +228,9 @@ https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo
 #EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 HR" tvg-country="HR" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 HR
 https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
 
+#EXTINF:-1 tvg-id="N1.si" tvg-name="N1 SLO" tvg-country="SLO" tvg-logo="https://i.imgur.com/P8DmZ11.png" group-title="News",N1 SLO
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream?i=NSKLtZXTzL2_sSsxrE6H0Q&a=pWgWfvqQjQC8uX8Gxgd_w0ilCIjF-oJr6W8ltXACBCAOee5BguFK5_Gv1eRw3NoMfemownNvJqTEFzrR9tJH6B1xlJdJQDOWcjuf6fr8aef0QQ9E93QVzcpcRK_ApqoHeETubkOAKkzTA7sTk0g_NKKkvdckoitDrCsZTu-ga_zOv14RElOEBtEbauKx0D0V8nCs_GsP3aI--s78Q2QuR6o-F1YQCv5BSTgnik385Azx33bIbQHEF5OAqu4m3zGN&sp=n1info&u=n1info&session=ca0f28bd-55fb-3489-12ce-3c50e40d146a&player=m3u8
+
 #EXTINF:-1 tvg-id="starchannel.tv" tvg-name="STAR Channel" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/XHv8xaT.png" group-title="Entertainment",STAR Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
