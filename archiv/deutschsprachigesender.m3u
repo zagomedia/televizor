@@ -173,6 +173,8 @@ http://176.10.117.68:6060/rtl/index.m3u8
 https://izle.canlitvapp.com/rtl/index.m3u8
 https://webtvstream.bhtelecom.ba/rtl_de.m3u8
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
+http://185.130.218.254:25007/RTL/mpegts
+
 
 
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/WvoqFu5.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL 2 (DE)
@@ -182,6 +184,8 @@ https://izle.canlitvapp.com/rtl2/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/6065/index.m3u8
 https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+http://185.130.218.254:25007/RTL2/mpegts
+
 
 
 #EXTINF:-1 tvg-id="RTLSuper.de" tvg-name="RTLSuper" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bUG1iJV.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Super RTL
