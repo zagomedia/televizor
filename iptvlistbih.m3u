@@ -460,10 +460,6 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.cmctv.hr:49998/kit/live.m3u8
 
-#EXTINF:-1 tvg-id="AdriaEXYURock.hr" tvg-name="Adria EXYU Rock" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/rsynaLO.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria EXYU Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://de1.adriatelekom.com/AdriaEXYURock-www/index.m3u8
-
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
