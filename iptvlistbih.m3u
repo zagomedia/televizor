@@ -678,7 +678,7 @@ https://nl1.streamingpulse.com/ssl/RadioGradiska
 https://cast2.asurahosting.com/proxy/balkanhi/stream
 
 #EXTINF:-1 radio="true" tvg-id="antenasarajevo" tvg-name="Antena Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/BU5Nzpt.png",Antena Sarajevo
-http://116.203.7.166:9020/
+https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
 
 #EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
 http://51.254.61.148:11111
