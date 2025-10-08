@@ -202,17 +202,20 @@ https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://euw33.playlist.ttvnw.net/v1/playlist/CrAGsdILvy65bQWWQHTgsCNc0KS-9xTJJwh41BpP2tPP3Ej_EuLkGfWsctA0jxXvUAOsd6BrRXSogrWtO6lbaN0TypXcQOh-0-fjrmRchxmS4guP-xvK2an0LWXr4vkfoC0DLc_03QOlsCi9iM7owSH2eI5SWWJKqUoQhkdByxJK7b8JBVNIhIBepRx4CwyPle9ehOMYNfoNDl3hO0dCQb8fyC9lGOGPwIbdJPkfDHZhohS7NN71EdbDzqpoN_U3y_8UY8jKMWdjtfA3lMW0ThdvNT-7FFbm4AcRMXQk-aTcHiHPALMsmdn6STmk8xv3Q6jD_ohY3r4vV3tvqaeUM1twBexztREQS8tDWUdpayd7808yMsWDaA3cvL88o5DacuQNl8zlLIyKLKRbqwbDdPbx0AdE12dzPskOutjk6dh1a99s1o41rRN9WPxjLShDOaC47K9UtSliAX_x8xWVL29oE2pFxLPl1lOkaqGRB5eTuEpTlz3diVQ7GnaRmKRBhf26rBnuYIyDpXJGiKaNlD881fwQDiD6h9N0PvNTWTw3iydtNA_OqLP8EHPF3_SzEU9U2Jg6KJsVdjrCw2Qm1RV85OoCIkT9lNMcEnu10otzpsUVsePdSKtzxTVRiXa4j9r2oa2dMGFfjTdeewTcItlCZqH06fQmHZRJGf_U7varSec2n3W-sVHyf8wXLOkedAPBVcUGtqi3Jb05XPQwmmY_3VrqJQwowKhF2pBxWHjN9MLWQeZi52Vj5bYuF5xuHUCTLeAFLuLcWqSZIMOlbqZ-eAVdvJyJxfTm7qnsZCYKHJ1vDerB7WXfACD1lpejDSDOAFibc2ts5aDbykbWDyUU5Is0fwZv89qq_PCEqHlWEWSfAPCBnG9Oxc0vq_eFXVquofknlgnCpmrbd6psyoTRkiMk5474x-qSPLGK8DAdKzxhexZJi80GdeZS94N9w09JdlU_aVSLn--Yswwd7yCM-JsF904siQVqT0MmAPDgvwaYUu5gADgXYafcft7xs4JGmo6Bq9bMEfS7kq6pd-yIMhobNWqvxOjxjlKGw9WEp6OPRnpXrmDAOCnbg9IcteRiGgwOaegtTlqObWmqaowgASoJZXUtd2VzdC0yMLYN.m3u8
 
-#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/gnKC37w.png" group-title="General",RTCG 1
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/sSRejfW.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/Edeq2HD.png" group-title="General",RTCG 2
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/WlOhup6.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/EPLADFg.png" group-title="General",RTCG 3
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/Qt4qlFf.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MNE.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/8pTSXvZ.png" group-title="General",TVCG MNE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="MNE.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/YIowC4z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TVCG MNE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/rtcg.m3u8
 
 #EXTINF:-1 tvg-id="BHRT" tvg-name="BHRT" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/Gg8NPvl.png" group-title="General",BHRT
