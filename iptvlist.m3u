@@ -320,7 +320,7 @@ https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webtvstream.bhtelecom.ba/prosieben.m3u8
+http://176.10.117.68:6060/pro7/index.m3u8
 
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Nrl5ZFk.png" group-title="Entertainment",RTL (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
