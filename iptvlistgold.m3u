@@ -665,3 +665,267 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/PShwwuR.png" group-title="Music",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="NaxiRadio" tvg-name="Naxi Radio" group-title="RS" tvg-logo="https://i.imgur.com/Kp9lf5u.png",Naxi Radio
+http://naxi128.streaming.rs:9150/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiCafeRadio" tvg-name="Naxi Cafe Radio" group-title="RS" tvg-logo="https://i.imgur.com/9SpAZus.png",Naxi Cafe Radio
+http://naxidigital-cafe128.streaming.rs:8020/
+
+#EXTINF:-1 radio="true" tvg-id="Naxi80eRadio" tvg-name="Naxi 80e Radio" group-title="RS" tvg-logo="https://i.imgur.com/AbcP8f1.png",Naxi 80e Radio
+http://naxidigital-80s128.streaming.rs:8040/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiDanceRadio" tvg-name="Naxi Dance Radio" group-title="RS" tvg-logo="https://i.imgur.com/22VHtKR.png",Naxi Dance Radio
+http://naxidigital-dance128.streaming.rs:8110/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiLoveRadio" tvg-name="Naxi Love Radio" group-title="RS" tvg-logo="https://i.imgur.com/LLYf8y9.png",Naxi Love Radio
+http://naxidigital-love128.streaming.rs:8100/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiEvergreenRadio" tvg-name="Naxi Evergreen Radio" group-title="RS" tvg-logo="https://i.imgur.com/OoyMYqN.png",Naxi Evergreen Radio
+http://naxidigital-evergreen128.streaming.rs:8010/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiEX-YURockRadio" tvg-name="Naxi EX-YU Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/Ga5rdZo.png",Naxi EX-YU Rock Radio
+http://naxidigital-exyurock128.streaming.rs:8400/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiRockRadio" tvg-name="Naxi Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/EOlQZxU.png",Naxi Rock Radio
+http://naxidigital-rock128.streaming.rs:8180/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiMixRadio" tvg-name="Naxi Mix Radio" group-title="RS" tvg-logo="https://i.imgur.com/A8vec1R.png",Naxi Mix Radio
+http://naxidigital-mix128.streaming.rs:8220/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiBoemRadio" tvg-name="Naxi Boem Radio" group-title="RS" tvg-logo="https://i.imgur.com/mgeGpYg.png",Naxi Boem Radio
+http://naxidigital-boem128.streaming.rs:8160/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiFreshRadio" tvg-name="Naxi Fresh Radio" group-title="RS" tvg-logo="https://i.imgur.com/p3srWHs.png",Naxi Fresh Radio
+http://naxidigital-fresh128.streaming.rs:8210/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiLatinoRadio" tvg-name="Naxi Latino Radio" group-title="RS" tvg-logo="https://i.imgur.com/l89IZt4.png",Naxi Latino Radio
+http://naxidigital-latino128.streaming.rs:8230/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiLoungeRadio" tvg-name="Naxi Lounge Radio" group-title="RS" tvg-logo="https://i.imgur.com/KE4SRX0.png",Naxi Lounge Radio
+http://naxidigital-lounge128.streaming.rs:8250/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiHouseRadio" tvg-name="Naxi House Radio" group-title="RS" tvg-logo="https://i.imgur.com/zN1ID48.png",Naxi House Radio
+http://naxidigital-house128.streaming.rs:8000/
+
+#EXTINF:-1 radio="true" tvg-id="Naxi90eRadio" tvg-name="Naxi 90e Radio" group-title="RS" tvg-logo="https://i.imgur.com/k5zrDSE.png",Naxi 90e Radio
+http://naxidigital-90s128.streaming.rs:8280/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiFitnessRadio" tvg-name="Naxi Fitness Radio" group-title="RS" tvg-logo="https://i.imgur.com/uQ8Oy9k.png",Naxi Fitness Radio
+http://naxidigital-fitness128.streaming.rs:8290/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiEx-YuRadio" tvg-name="Naxi EX-YU Radio" group-title="RS" tvg-logo="https://i.imgur.com/NF5ZfoL.png",Naxi EX-YU Radio
+http://naxidigital-exyu128.streaming.rs:8240/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiChillRadio" tvg-name="Naxi Chill Radio" group-title="RS" tvg-logo="https://i.imgur.com/fbbqRMn.png",Naxi Chill Radio
+http://naxidigital-chill128.streaming.rs:8410/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiSlagerRadio" tvg-name="Naxi Slager Radio" group-title="RS" tvg-logo="https://i.imgur.com/f5kDIRU.png",Naxi Slager Radio
+http://naxidigital-slager128.streaming.rs:8370/
+
+#EXTINF:-1 radio="true" tvg-id="Naxi70eRadio" tvg-name="Naxi 70e Radio" group-title="RS" tvg-logo="https://i.imgur.com/FdCtvTY.png",Naxi 70e Radio
+http://naxidigital-70s128.streaming.rs:8380/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiGoldRadio" tvg-name="Naxi Gold Radio" group-title="RS" tvg-logo="https://i.imgur.com/LqAfGIJ.png",Naxi Gold Radio
+http://naxidigital-gold128.streaming.rs:8060/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiFunkRadio" tvg-name="Naxi Funk Radio" group-title="RS" tvg-logo="https://i.imgur.com/rq1ZCxw.png",Naxi Funk Radio
+http://naxidigital-funk128.streaming.rs:8360/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiReggaeRadio" tvg-name="Naxi Reggae Radio" group-title="RS" tvg-logo="https://i.imgur.com/v9RYyv3.png",Naxi Reggae Radio
+http://naxidigital-reggae128.streaming.rs:8420/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiDiscoRadio" tvg-name="Naxi Disco Radio" group-title="RS" tvg-logo="https://i.imgur.com/KDpuiAy.png",Naxi Disco Radio
+http://naxidigital-disco128.streaming.rs:8350/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiAdoreRadio" tvg-name="Naxi Adore Radio" group-title="RS" tvg-logo="https://i.imgur.com/gLwKIDj.png",Naxi Adore Radio
+http://naxidigital-adore128.streaming.rs:8330/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiMillenniumRadio" tvg-name="Naxi Millennium Radio" group-title="RS" tvg-logo="https://i.imgur.com/mjtMNPj.png",Naxi Millennium Radio
+http://naxidigital-millennium128.streaming.rs:8340/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiBluesRockRadio" tvg-name="Naxi Blues Rock Radio" group-title="RS" tvg-logo="https://i.imgur.com/mObcFin.png",Naxi Blues Rock Radio
+http://naxidigital-blues128.streaming.rs:8310/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiChillwaveRadio" tvg-name="Naxi Chillwave Radio" group-title="RS" tvg-logo="https://i.imgur.com/0jJIhCm.png",Naxi Chillwave Radio
+http://naxidigital-chillwave128.streaming.rs:8320/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiClubbingRadio" tvg-name="Naxi Clubbing Radio" group-title="RS" tvg-logo="https://i.imgur.com/haRZ7RI.png",Naxi Clubbing Radio
+http://naxidigital-gold128.streaming.rs:8090/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiJazzRadio" tvg-name="Naxi Jazz Radio" group-title="RS" tvg-logo="https://i.imgur.com/Rny4kvL.png",Naxi Jazz Radio
+http://naxidigital-jazz128.streaming.rs:8170/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiClassicRadio" tvg-name="Naxi Classic Radio" group-title="RS" tvg-logo="https://i.imgur.com/AQWOqH0.png",Naxi Classic Radio
+http://naxidigital-classic128.streaming.rs:8030/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiInstrumentalRadio" tvg-name="Naxi Instrumental Radio" group-title="RS" tvg-logo="https://i.imgur.com/tIX5Spq.png",Naxi Instrumental Radio
+http://naxidigital-instrumental128.streaming.rs:8430/
+
+#EXTINF:-1 radio="true" tvg-id="NaxiRnBRadio" tvg-name="Naxi RnB Radio" group-title="RS" tvg-logo="https://i.imgur.com/7LxANzn.png",Naxi RnB Radio
+http://naxidigital-rnb128.streaming.rs:8120/
+
+#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" group-title="BiH" tvg-logo="https://i.imgur.com/tjtHrvd.png",Radio BN
+http://stream.rtvbn.com:8522/.mp3
+
+#EXTINF:-1 radio="true" tvg-id="ARadio" tvg-name="A Radio" group-title="BiH" tvg-logo="https://i.imgur.com/J28rVvS.png",A Radio
+https://aradiostream.atvbl.com/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioLaktasi" tvg-name="Radio Laktasi" group-title="BiH" tvg-logo="https://i.imgur.com/a98lWqF.png",Radio Laktasi
+https://radio.laktasiturizam.org/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
+https://nl1.streamingpulse.com/ssl/RadioGradiska
+
+#EXTINF:-1 radio="true" tvg-id="balkanhitradiosarajevo" tvg-name="Balkan Hit Radio Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/QUNsOJJ.png",Balkan Hit Radio Sarajevo
+https://cast2.asurahosting.com/proxy/balkanhi/stream
+
+#EXTINF:-1 radio="true" tvg-id="antenasarajevo" tvg-name="Antena Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/BU5Nzpt.png",Antena Sarajevo
+https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
+
+#EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
+http://51.254.61.148:11111
+
+#EXTINF:-1 radio="true" tvg-id="BobarRadio" tvg-name="Bobar Radio" group-title="BiH" tvg-logo="https://i.imgur.com/mhBsbmW.png",Bobar Radio
+http://live.radiobobar.com/
+
+#EXTINF:-1 radio="true" tvg-id="StudioB2" tvg-name="Studio B2" group-title="BiH" tvg-logo="https://i.imgur.com/orStyg9.png",Bobar Studio B2
+http://94.130.11.28:9000/stream/1/
+
+#EXTINF:-1 radio="true" tvg-id="NesRadio" tvg-name="Nes Radio" group-title="BiH" tvg-logo="https://i.imgur.com/xEydNYS.png",Nes Radio
+http://188.40.62.20:8070/
+
+#EXTINF:-1 radio="true" tvg-id="KrajiskiRadioBeska" tvg-name="Krajiski Radio Beska" group-title="RS" tvg-logo="https://i.imgur.com/nI3BLR6.png",Krajiski Radio Beska
+https://micorsk.radioca.st/stream
+
+#EXTINF:-1 radio="true" tvg-id="KrajiskiRadioDubica" tvg-name="Krajiski Radio Dubica" group-title="BiH" tvg-logo="https://i.imgur.com/Iq4HkZx.png",Krajiski Radio Dubica
+http://shnpdecct1.dihostnet.com:8039
+
+#EXTINF:-1 radio="true" tvg-id="PakaoRadio" tvg-name="Pakao Radio" group-title="BiH" tvg-logo="https://i.imgur.com/iHvVu8o.png",Pakao Radio
+https://securestream.pakaoradio.net/live
+
+#EXTINF:-1 radio="true" tvg-id="bumbumradio" tvg-name="Bum Bum Radio" group-title="RS" tvg-logo="https://i.imgur.com/gdc1WLE.png",Bum Bum Radio
+http://bumbum-stream.netlogic.rs:8000
+
+#EXTINF:-1 radio="true" tvg-id="PinkRadio" tvg-name="Pink Radio" group-title="RS" tvg-logo="https://i.imgur.com/GaXQ4NE.png",Pink Radio
+https://edge9.pink.rs/pinkstream
+
+#EXTINF:-1 radio="true" tvg-id="coolradio" tvg-name="OK Radio" group-title="RS" tvg-logo="https://i.imgur.com/eokVqtp.png",Cool Radio
+http://live.coolradio.rs:80/cool192
+
+#EXTINF:-1 radio="true" tvg-id="mojradio" tvg-name="Moj Radio" group-title="RS" tvg-logo="https://i.imgur.com/EE8p6vv.png",Moj Radio
+https://eu4.fastcast4u.com/proxy/svidakov
+
+#EXTINF:-1 radio="true" tvg-id="RadioNostalgija1052" tvg-name="Radio Nostalgija 105.2" group-title="RS" tvg-logo="https://i.imgur.com/OR4AXKN.png",Radio Nostalgija 105.2
+http://nostalgie128.streaming.rs:9250/
+
+#EXTINF:-1 radio="true" tvg-id="TopFMBelgrade1068" tvg-name="Top FM Belgrade 106.8" group-title="RS" tvg-logo="https://i.imgur.com/XCmXo3A.png",Top FM Belgrade 106.8
+http://topfm128.streaming.rs:9280/
+
+#EXTINF:-1 radio="true" tvg-id="RadioTri" tvg-name="Radio Tri Beograd" group-title="RS" tvg-logo="https://i.imgur.com/AX3Gw0l.png",Radio Tri Beograd
+http://radiotri-128.streaming.rs:9300/
+
+#EXTINF:-1 radio="true" tvg-id="RadioRitamSrca" tvg-name="Radio Ritam Srca" group-title="RS" tvg-logo="https://i.imgur.com/IncZbZg.png",Radio Ritam Srca
+https://s4.radio.co/s0f65dad2d/listen
+
+#EXTINF:-1 radio="true" tvg-id="RadioRitamSrca" tvg-name="Radio Ritam Srca Rock & Pop" group-title="RS" tvg-logo="https://i.imgur.com/IncZbZg.png",Radio Ritam Srca Rock & Pop
+https://s2.radio.co/s80eb57671/listen
+
+#EXTINF:-1 radio="true" tvg-id="krunaradio" tvg-name="Kruna Radio" group-title="RS" tvg-logo="https://i.imgur.com/FFUQbLv.png",Kruna Radio
+https://kruna-bobanex.radioca.st/stream?type=http&nocache=170
+
+#EXTINF:-1 radio="true" tvg-id="okradio" tvg-name="OK Radio" group-title="RS" tvg-logo="https://i.imgur.com/C0FhUtj.png",OK Radio
+https://sslstream.okradio.net/?type=http\u0026nocache=8804
+
+#EXTINF:-1 radio="true" tvg-id="redradio" tvg-name="Red Radio" group-title="RS" tvg-logo="https://i.imgur.com/jIWUOpy.png",Red Radio
+https://stream.redradio.rs/
+
+#EXTINF:-1 radio="true" tvg-id="Playradio" tvg-name="Play Radio" group-title="RS" tvg-logo="https://i.imgur.com/mpgIRIM.png",Play Radio
+http://stream.b92.net:7999/radio-b92.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiolola" tvg-name="Radio Lola" group-title="RS" tvg-logo="https://i.imgur.com/s2nYXyD.png",Radio Lola
+https://streaming.karolina.rs/radiolola.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiohitfmbeograd" tvg-name="Radio Hit FM Beograd" group-title="RS" tvg-logo="https://i.imgur.com/8Vbl5Ma.png",Radio Hit FM Beograd
+https://streaming.hitfm.rs/hit.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiojat" tvg-name="Radio JAT" group-title="RS" tvg-logo="https://i.imgur.com/uab0pBd.png",Radio JAT
+https://streaming.tdiradio.com/radiojat.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd1" tvg-name="Radio Beograd 1" group-title="RS" tvg-logo="https://i.imgur.com/NLX3cRA.png",Radio Beograd 1
+https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd2" tvg-name="Radio Beograd 2" group-title="RS" tvg-logo="https://i.imgur.com/c3HIeL5.png",Radio Beograd 2
+https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd3" tvg-name="Radio Beograd 3" group-title="RS" tvg-logo="https://i.imgur.com/mLxAS77.png",Radio Beograd 3
+https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiobeograd202" tvg-name="Radio Beograd 202" group-title="RS" tvg-logo="https://i.imgur.com/INJJEt5.png",Radio Beograd 202
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S1
+https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S2
+https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S3
+https://539745e629986.streamlock.net/asmedia/pingvin/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioS" tvg-name="Radio S" group-title="RS" tvg-logo="https://i.imgur.com/SrWXQLM.png",Radio S4
+https://65aa8689be25a.streamlock.net/asmedia/gradski/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig1" tvg-name="Radio Big1" group-title="BiH" tvg-logo="https://i.imgur.com/p6kAcVT.png",Radio Big1
+http://big1.bigportal.ba:8100/big1
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig2" tvg-name="Radio Big2" group-title="BiH" tvg-logo="https://i.imgur.com/mdv57jo.png",Radio Big2
+http://big2.bigportal.ba:8100/big2
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig3" tvg-name="Radio Big3" group-title="BiH" tvg-logo="https://i.imgur.com/8wkO8eg.png",Radio Big3
+http://big3.bigportal.ba:8100/big3
+
+#EXTINF:-1 radio="true" tvg-id="RadioBig4" tvg-name="Radio Big4" group-title="BiH" tvg-logo="https://i.imgur.com/KnCbTd9.png",Radio Big4
+http://domacica.bigportal.ba:8100/domacica
+
+#EXTINF:-1 radio="true" tvg-id="tdiradio" tvg-name="TDI Radio" group-title="RS" tvg-logo="https://i.imgur.com/HT6pWAc.png",TDI Radio
+http://streaming.tdiradio.com:8000/tdiradiobezreklama
+
+#EXTINF:-1 radio="true" tvg-id="naxibankerradionis" tvg-name="Naxi BANKER Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Radio Nis
+https://banker96-naxinacional.streaming.rs:8542/
+
+#EXTINF:-1 radio="true" tvg-id="naxibankercaferadionis" tvg-name="Naxi BANKER Cafe Radio Nis" group-title="RS" tvg-logo="https://i.imgur.com/858KM3e.png",Naxi BANKER Cafe Radio Nis
+https://bankercafe-naxinacional.streaming.rs:8617/
+
+#EXTINF:-1 radio="true" tvg-id="radiokafanasabac" tvg-name="Radio Kafana Sabac" group-title="RS" tvg-logo="https://i.imgur.com/RvDdfpi.jpeg",Radio Kafana Sabac
+http://stream1.srvnetplus.com:8013
+
+#EXTINF:-1 radio="true" tvg-id="radiosljivovicakraljevo" tvg-name="Radio Sljivovica Kraljevo" group-title="RS" tvg-logo="https://i.imgur.com/IQeXhnM.png",Radio Sljivovica Kraljevo
+https://stream.iradio.pro/proxy/radiosljivovica
+
+#EXTINF:-1 radio="true" tvg-id="radiosumadinac" tvg-name="Radio Sumadinac" group-title="RS" tvg-logo="https://i.imgur.com/2xkUuz0.png",Radio Sumadinac
+https://media.srb-streaming.com/stream/radio-sumadinac-narodna
+
+#EXTINF:-1 radio="true" tvg-id="radiostarapazova" tvg-name="Radio Stara Pazova" group-title="RS" tvg-logo="https://i.imgur.com/9pmQvw3.png",Radio Stara Pazova
+http://95.140.123.22:8000/
+
+#EXTINF:-1 radio="true" tvg-id="RadioMirLeposavic" tvg-name="Radio Mir Leposavic" group-title="RS" tvg-logo="https://i.imgur.com/gXydmAw.jpeg",Radio Mir Leposavic
+https://stream.iradio.pro/proxy/radiomir?mp=/stream&1753629939754
+
+#EXTINF:-1 radio="true" tvg-id="radiopulsgrocka" tvg-name="Radio Puls Grocka" group-title="RS" tvg-logo="https://i.imgur.com/HHEtPCJ.png",Radio Puls Grocka
+https://cmr-hosting.com/8312/stream
+
+#EXTINF:-1 radio="true" tvg-id="resavskiradio" tvg-name="Resavski Radio" group-title="RS" tvg-logo="https://i.imgur.com/5n4Octj.png",Resavski Radio
+https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
+
+#EXTINF:-1 radio="true" tvg-id="radiomorava" tvg-name="Radio Morava" group-title="RS" tvg-logo="https://i.imgur.com/M0IY7PT.png",Radio Morava
+https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
+
+#EXTINF:-1 radio="true" tvg-id="pallasradiokikinda" tvg-name="Pallas Radio Kikinda" group-title="RS" tvg-logo="https://i.imgur.com/9iz2Y9V.png",Pallas Radio Kikinda
+https://eu9.fastcast4u.com/proxy/svidakov2
+
+#EXTINF:-1 radio="true" tvg-id="radiopingvin" tvg-name="Radio Pingvin" group-title="RS" tvg-logo="https://i.imgur.com/18Rd9YL.png",Radio Pingvin
+http://uzivo.radiopingvin.com/domaci1
+
+#EXTINF:-1 radio="true" tvg-id="Otvoreni radio" tvg-name="Otvoreni radio" group-title="HR" tvg-logo="https://i.imgur.com/xN3w2VA.png",Otvoreni radio
+http://stream.otvoreni.hr/otvoreni
