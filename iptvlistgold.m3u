@@ -148,6 +148,10 @@ https://live.tv-m.net/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://toktv.ba/
 https://elara.netcomm.rs/toktv/index.fmp4.m3u8?token=toktv
 
+#EXTINF:-1 tvg-id="hayat.ba" tvg-name="Hayat" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/eVcg9iK.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Hayat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://23.88.66.93/HAYAT/index.m3u8
+
 #EXTINF:-1 tvg-id="OBN.ba" tvg-name="OBN" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/HH0P7t0.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",OBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://23.88.66.93/OBN/index.m3u8
