@@ -184,6 +184,7 @@ http://109.72.57.12/hls/tvcityub.m3u8
 
 #EXTINF:-1 tvg-id="tvgmplus.rs" tvg-name="TV GM Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/HF4Y55l.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV GM Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
 https://6069699a9e3f3.streamlock.net/gmpluscable/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KTV.rs" tvg-name="KTV Zrenjanin" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/XqJ4OVr.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",KTV Zrenjanin
