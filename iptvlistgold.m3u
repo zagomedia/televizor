@@ -742,7 +742,7 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 
-#EXTINF:-1 tvg-id="AutoMotorSport" tvg-name="Auto Motor Sport (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Auto Motor Sport (DE)
+#EXTINF:-1 tvg-id="AutoMotorSport" tvg-name="Auto Motor Sport (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/6M1cS7x.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Auto Motor Sport (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/AutoMotorSport/index.m3u8
 
