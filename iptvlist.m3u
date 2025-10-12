@@ -216,7 +216,7 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/rtcg.m3u8
 
-#EXTINF:-1 tvg-id="BHRT" tvg-name="BHRT" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/Gg8NPvl.png" group-title="General",BHRT
+#EXTINF:-1 tvg-id="BHRT" tvg-name="BHRT" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/kMM3OYY.png" group-title="General",BHRT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
 
