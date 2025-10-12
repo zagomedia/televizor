@@ -211,9 +211,6 @@ https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 
-#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQCcO1S.png" group-title="Sports",SOS Kanal Plus
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Z1" tvg-name="Z1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/mFGwWH2.png" group-title="General",Z1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-referrer=https://player.castr.com/
@@ -274,10 +271,6 @@ https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="rtnk.me" tvg-name="RT Niksic" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/8kTMTsS.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Niksic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tv.rtv-niksic.me/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="tvkcn3.net" tvg-name="K::CN 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5cQGAMx.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://78.128.125.60:9981/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="RTBalkan.rs" tvg-name="RT Balkan" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vpkQJZh.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Balkan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -564,10 +557,6 @@ http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://5.57.74.130:8000/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-id="tvkcn2.net" tvg-name="K::CN 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1DGj9t6.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://5.57.74.130:8000/play/a03r/index.m3u8
-
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/1AgOvn4.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",CMC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.cmctv.hr:49998/cmc/live.m3u8
@@ -579,6 +568,14 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-name="Klape i Tambure TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/hJ4WBbb.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Klape i Tambure TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.cmctv.hr:49998/kit/live.m3u8
+
+#EXTINF:-1 tvg-id="tvkcn2.net" tvg-name="K::CN 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1DGj9t6.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://5.57.74.130:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-id="tvkcn3.net" tvg-name="K::CN 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5cQGAMx.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://78.128.125.60:9981/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
@@ -669,6 +666,9 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="Dancetv.nl" tvg-name="Dance TV" tvg-logo="https://i.imgur.com/xezJNaj.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Dance TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQCcO1S.png" group-title="Sports",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/gnA6f7M.png" group-title="Music",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
