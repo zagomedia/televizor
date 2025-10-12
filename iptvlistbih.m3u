@@ -829,3 +829,30 @@ http://uzivo.radiopingvin.com/domaci1
 
 #EXTINF:-1 radio="true" tvg-id="Otvoreni radio" tvg-name="Otvoreni radio" group-title="HR" tvg-logo="https://i.imgur.com/xN3w2VA.png",Otvoreni radio
 http://stream.otvoreni.hr/otvoreni
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosava1" tvg-name="Radio Kosava 1" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava 1
+https://main.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosava2" tvg-name="Radio Kosava 2" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava 2
+https://kosava2.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosavaRock" tvg-name="Radio Kosava Rock" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava Rock
+https://rock.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosavafolk1" tvg-name="Radio Kosava folk 1" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava folk 1
+https://folk1.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosavafolk2" tvg-name="Radio Kosava folk 2" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava folk 2
+https://folk2.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosavafolk3" tvg-name="Radio Kosava folk 3" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava folk 3
+https://folk3.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosavaclubbing" tvg-name="Radio Kosava clubbing" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava clubbing
+https://clubbing.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosavacity" tvg-name="Radio Kosava city" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava city
+https://city.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioKosavacafe" tvg-name="Radio Kosava cafe" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava cafe
+https://cafe.radiokosava.rs/live
