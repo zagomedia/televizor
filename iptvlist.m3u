@@ -752,6 +752,9 @@ https://eu9.fastcast4u.com/proxy/svidakov2
 #EXTINF:-1 radio="true" tvg-id="radiopingvin" tvg-name="Radio Pingvin" group-title="RS" tvg-logo="https://i.imgur.com/18Rd9YL.png",Radio Pingvin
 http://uzivo.radiopingvin.com/domaci1
 
+#EXTINF:-1 radio="true" tvg-id="radiovrnjackabanja" tvg-name="Radio Vrnjacka Banja" group-title="RS" tvg-logo="https://i.imgur.com/IBCVMnt.png",Radio Vrnjacka Banja
+https://live.rtvvrnjackabanja.com/rvb.mp3
+
 #EXTINF:-1 radio="true" tvg-id="Otvoreni radio" tvg-name="Otvoreni radio" group-title="HR" tvg-logo="https://i.imgur.com/xN3w2VA.png",Otvoreni radio
 http://stream.otvoreni.hr/otvoreni
 
