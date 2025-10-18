@@ -837,6 +837,9 @@ https://live.rtvvrnjackabanja.com/rvb.mp3
 #EXTINF:-1 radio="true" tvg-id="Otvoreni radio" tvg-name="Otvoreni radio" group-title="HR" tvg-logo="https://i.imgur.com/xN3w2VA.png",Otvoreni radio
 http://stream.otvoreni.hr/otvoreni
 
+#EXTINF:-1 radio="true" tvg-id="Radio Porto Montenegro" tvg-name="Otvoreni radio" group-title="ME" tvg-logo="https://i.imgur.com/e5DB0nv.png",Radio Porto Montenegro
+https://malta1491.startdedicated.de:8443/main
+
 #EXTINF:-1 radio="true" tvg-id="RadioKosava1" tvg-name="Radio Kosava 1" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava 1
 https://main.radiokosava.rs/live
 
