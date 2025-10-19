@@ -252,7 +252,8 @@ https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1316212998.m3u8
 
-#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/4qOQwjs.png" group-title="General",TV Pi Kanal
+#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/4qOQwjs.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Pi Kanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
 #EXTINF:-1 tvg-id="TVNovaPula.hr" tvg-name="TV Nova Pula" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/re0Ha7C.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Nova Pula
@@ -279,7 +280,8 @@ https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/baby_tv.m3u8
 
-#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/MRpGnpa.png" group-title="General",Libertas TV
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/MRpGnpa.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Libertas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.luci.xyz/hls/LTV.m3u8
 
 #EXTINF:-1 tvg-id="rtnk.me" tvg-name="RT Niksic" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/8kTMTsS.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Niksic
