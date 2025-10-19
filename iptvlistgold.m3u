@@ -48,7 +48,7 @@ https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
 
-#EXTINF:-1 tvg-id="FTV" tvg-name="FTV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/ai9ITy6.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",FTV
+#EXTINF:-1 tvg-id="FTV.ba" tvg-name="FTV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/ai9ITy6.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",FTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/FTV/index.m3u8
 
