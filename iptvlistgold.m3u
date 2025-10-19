@@ -102,7 +102,7 @@ https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playl
 #EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
 https://677c038a28f30.streamlock.net/minacordmedia-secure/k1studio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="B92" tvg-name="B92" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DW8XPo7.png"; grouptitle="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",B92
+#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DW8XPo7.png"; grouptitle="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",B92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.81.240.65:15000/udp/233.233.233.28:12000
 
