@@ -344,6 +344,10 @@ https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 
+#EXTINF:-1 tvg-id="LoviRibolov.hr" tvg-name="Lov i ribolov" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/mp5YKse.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Lov i ribolov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/LoviRibolov/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO1.hr" tvg-name="HBO 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/LZjY9VC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://185.166.252.230/Hbo1/index.m3u8
