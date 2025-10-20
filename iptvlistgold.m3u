@@ -322,6 +322,7 @@ https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8
 #EXTINF:-1 tvg-id="starmovies.tv" tvg-name="STAR Movies" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/F5Ikuik.png" group-title="Entertainment",STAR Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
+http://185.166.252.230/StarMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="starcrime.tv" tvg-name="STAR Crime" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/OsYCEcj.png" group-title="Entertainment",STAR Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -342,6 +343,30 @@ https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 #EXTINF:-1 tvg-id="natgeowild" tvg-name="NAT GEO Wild" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/siSUvTM.png" group-title="Entertainment",NAT GEO Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
+
+#EXTINF:-1 tvg-id="HBO1.hr" tvg-name="HBO 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/LZjY9VC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hbo1/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.hr" tvg-name="HBO 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/AlYNf3i.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hbo2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO3.hr" tvg-name="HBO 3" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/JweuULM.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HBO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Hbo3/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax1.hr" tvg-name="Cinemax 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/1d9rKpj.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Cinemax1/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax2.hr" tvg-name="Cinemax 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/dDOKeXs.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Cinemax 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/Cinemax2/index.m3u8
+
+#EXTINF:-1 tvg-id="M1Gold.hr" tvg-name="M1 Gold" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/ZCvwMez.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",M1 Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://185.166.252.230/M1Gold/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmboxExtra" tvg-name="Filmbox Extra" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/acDNdY4.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Filmbox Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
