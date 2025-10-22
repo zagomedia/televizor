@@ -130,7 +130,7 @@ https://live.rtvvrnjackabanja.com/rvb/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 
-#EXTINF:-1 tvg-id="RTKragujevac.rs" tvg-name="RT Kragujevac" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DHIDSLA.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Kragujevac
+#EXTINF:-1 tvg-id="rtvkragujevac.rs" tvg-name="RTV Kragujevac" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/2RVKuz8.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Kragujevac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
 
