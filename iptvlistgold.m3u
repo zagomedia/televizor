@@ -959,9 +959,6 @@ http://51.254.61.148:11111
 #EXTINF:-1 radio="true" tvg-id="BobarRadio" tvg-name="Bobar Radio" group-title="BiH" tvg-logo="https://i.imgur.com/mhBsbmW.png",Bobar Radio
 http://live.radiobobar.com/
 
-#EXTINF:-1 radio="true" tvg-id="StudioB2" tvg-name="Studio B2" group-title="BiH" tvg-logo="https://i.imgur.com/orStyg9.png",Bobar Studio B2
-http://94.130.11.28:9000/stream/1/
-
 #EXTINF:-1 radio="true" tvg-id="NesRadio" tvg-name="Nes Radio" group-title="BiH" tvg-logo="https://i.imgur.com/xEydNYS.png",Nes Radio
 http://188.40.62.20:8070/
 
