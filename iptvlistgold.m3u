@@ -696,7 +696,7 @@ https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="flashbackadria.rs" tvg-name="Flashback Adria" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/IBUBpOi.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Flashback Adria
+#EXTINF:-1 tvg-id="myuzzik.rs" tvg-name="MYUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/NqDzTEk.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MYUZZIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 
