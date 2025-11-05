@@ -947,8 +947,8 @@ https://radio.laktasiturizam.org/live
 #EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
 https://nl1.streamingpulse.com/ssl/RadioGradiska
 
-#EXTINF:-1 radio="true" tvg-id="balkanhitradiosarajevo" tvg-name="Balkan Hit Radio Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/QUNsOJJ.png",Balkan Hit Radio Sarajevo
-https://cast2.asurahosting.com/proxy/balkanhi/stream
+#EXTINF:-1 radio="true" tvg-id="radiocarsijasarajevo" tvg-name="Radio Carsija Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/rTPvq7b.png",Radio Carsija Sarajevo
+https://cast2.name.ba/proxy/nedim/
 
 #EXTINF:-1 radio="true" tvg-id="antenasarajevo" tvg-name="Antena Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/BU5Nzpt.png",Antena Sarajevo
 https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
