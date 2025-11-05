@@ -710,7 +710,7 @@ http://shnpdecct1.dihostnet.com:8039
 https://securestream.pakaoradio.net/live
 
 #EXTINF:-1 radio="true" tvg-id="bumbumradio" tvg-name="Bum Bum Radio" group-title="RS" tvg-logo="https://i.imgur.com/gdc1WLE.png",Bum Bum Radio
-http://bumbum-stream.netlogic.rs:8000
+https://bumbum.nlnet.rs:8443/bumbum
 
 #EXTINF:-1 radio="true" tvg-id="PinkRadio" tvg-name="Pink Radio" group-title="RS" tvg-logo="https://i.imgur.com/GaXQ4NE.png",Pink Radio
 https://edge9.pink.rs/pinkstream
