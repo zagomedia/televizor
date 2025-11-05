@@ -784,3 +784,12 @@ https://city.radiokosava.rs/live
 
 #EXTINF:-1 radio="true" tvg-id="RadioKosavacafe" tvg-name="Radio Kosava cafe" group-title="RS" tvg-logo="https://i.imgur.com/UVUjkte.png",Radio Kosava cafe
 https://cafe.radiokosava.rs/live
+
+#EXTINF:-1 radio="true" tvg-id="RadioDzunglaDoboj-ProgramI" tvg-name="Radio Dzungla Doboj - Program I" group-title="BiH" tvg-logo="https://i.imgur.com/JBJptpD.png",Radio Dzungla Doboj - Program I
+https://cast2.name.ba/proxy/dzungla/stream
+
+#EXTINF:-1 radio="true" tvg-id="RadioDzunglaDoboj-ProgramII" tvg-name="Radio Dzungla Doboj - Program II" group-title="BiH" tvg-logo="https://i.imgur.com/JBJptpD.png",Radio Dzungla Doboj - Program II
+https://cast2.name.ba/proxy/dzungla2/stream
+
+#EXTINF:-1 radio="true" tvg-id="RadioDzunglaDoboj-ProgramIII" tvg-name="Radio Dzungla Doboj - Program III" group-title="BiH" tvg-logo="https://i.imgur.com/JBJptpD.png",Radio Dzungla Doboj - Program III
+https://cast2.name.ba/proxy/dzungla3/stream
