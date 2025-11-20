@@ -880,3 +880,15 @@ https://cast2.name.ba/proxy/dzungla2/stream
 
 #EXTINF:-1 radio="true" tvg-id="RadioDzunglaDobojProgramIII" tvg-name="Radio Dzungla Doboj Program III" group-title="BiH" tvg-logo="https://i.imgur.com/JBJptpD.png",Radio Dzungla Doboj Program III
 https://cast2.name.ba/proxy/dzungla3/stream
+
+#EXTINF:-1 radio="true" tvg-id="RadioCrneGore" tvg-name="Radio Crne Gore" group-title="ME" tvg-logo="https://i.imgur.com/4YMyLOM.png",Radio Crne Gore
+https://rtcgradio-live.morescreens.com/RTCG_1_010/audio/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RadioCrneGore2R98" tvg-name="Radio Crne Gore 2 R98" group-title="ME" tvg-logo="https://i.imgur.com/vlWyJ2G.png",Radio Crne Gore 2 R98
+https://rtcgradio-live.morescreens.com/RTCG_1_011/audio/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RCGYug" tvg-name="RCG Yug" group-title="ME" tvg-logo="https://i.imgur.com/uS6tfuz.png",RCG Yug
+https://rtcgradio-live.morescreens.com/RTCG_2_004/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="RCGMillenium" tvg-name="RCG Millenium" group-title="ME" tvg-logo="https://i.imgur.com/bXHWalX.png",RCG Millenium
+https://rtcgradio-live.morescreens.com/RTCG_2_002/chunklist.m3u8
