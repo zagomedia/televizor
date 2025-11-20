@@ -101,6 +101,7 @@ https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/
 https://677c038a28f30.streamlock.net/minacordmedia-secure/k1studio/playlist.m3u8
+https://edge-rs-04.maksnet.tv/minacordmedia-secure/k1studio/chunklist_w283196704.m3u8
 
 #EXTINF:-1 tvg-id="b92.rs" tvg-name="B92" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DW8XPo7.png"; grouptitle="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",B92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
