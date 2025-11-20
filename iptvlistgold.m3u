@@ -671,6 +671,10 @@ http://5.57.74.130:8000/play/a03r/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://78.128.125.60:9981/play/a00m/index.m3u8
 
+#EXTINF:-1 tvg-id="vibetv.rs" tvg-name="Vibe TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kXDN9Es.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Vibe TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://77.46.147.128:1935/vibetv/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="toptv.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Top TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
