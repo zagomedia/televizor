@@ -158,10 +158,6 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/677e935dd52df6c26274f169/live_07439d80cdd311ef8af99bfde92b2456/index.m3u8
 
-#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="TV Zapad" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/WSqWPQp.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"",TV Zapad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-id="TVJadran.hr" tvg-name="TV Jadran" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/2ov2o6a.png" group-title="General",TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 
