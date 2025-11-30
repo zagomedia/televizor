@@ -406,56 +406,6 @@ http://77.46.147.128:1935/vibetv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Rock&Roll.rs" tvg-name="Rock&Roll" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/hVeC5aW.png" group-title="Music",Rock&Roll
-https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Restart.rs" tvg-name="Restart" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/jCrecq2.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Restart
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Popstar.rs" tvg-name="Pop Star" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/DipjEUe.png" group-title="Music",Pop Star
-https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Jeka.rs" tvg-name="Jeka" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OqvIB2x.png" group-title="Music",Jeka
-https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ZZTV.hr" tvg-name="ZZ TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/rQ8f1KP.png" group-title="Music",ZZ TV
-https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-name="WORLD WIDE MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Hr0b9Sk.png" group-title="Music",WORLD WIDE MUZZIK
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tiktak.rs" tvg-name="Tik Tak" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/v5V6YA9.png" group-title="Music",Tik Tak
-https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Muzzik.rs" tvg-name="MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",MUZZIK
-https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="myuzzik.rs" tvg-name="MYUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/NqDzTEk.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MYUZZIK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Muzzikmix.rs" tvg-name="Muzzik Mix" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/wEgj06b.png" group-title="Music",MUZZIK MIX
-https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Flashback.rs" tvg-name="Flashback" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OJ6Bs8s.png" group-title="Music",Flashback
-https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LTxyGog.png" group-title="Music",ELECTRO
-https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="X-Muzzik.rs" tvg-name="X-MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/62f26Gg.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",X-MUZZIK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://muzzik-live.morescreens.com/mts-10/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Sonidozz.rs" tvg-name="SONIDOZZ" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/eZLekLq.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SONIDOZZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://muzzik-live.morescreens.com/mts-11/576p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Riviera.rs" tvg-name="Riviera" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/f7O9lQt.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Riviera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://muzzik-live.morescreens.com/mts-14/576p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="TDIradio.rs" tvg-name="TDI Radio" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="Music",TDI Radio
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
 
