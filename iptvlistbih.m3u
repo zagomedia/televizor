@@ -524,7 +524,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Community",Krone TV
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8
-
 #EXTINF:-1 radio="true" tvg-id="NaxiRadio" tvg-name="Naxi Radio" group-title="RS" tvg-logo="https://i.imgur.com/Kp9lf5u.png",Naxi Radio
 http://naxi128.streaming.rs:9150/
 
