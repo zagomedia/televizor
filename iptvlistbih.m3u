@@ -799,3 +799,6 @@ https://rtcgradio-live.morescreens.com/RTCG_2_004/chunklist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="RCGMillenium" tvg-name="RCG Millenium" group-title="ME" tvg-logo="https://i.imgur.com/bXHWalX.png",RCG Millenium
 https://rtcgradio-live.morescreens.com/RTCG_2_002/chunklist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="radiozrenjanin" tvg-name="Radio Zrenjanin" group-title="RS" tvg-logo="https://i.imgur.com/KfCLZwI.png",Radio Zrenjanin
+https://radio.dukahosting.com:7031/
