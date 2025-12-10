@@ -728,5 +728,44 @@ https://rtcgradio-live.morescreens.com/RTCG_2_002/chunklist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radiozrenjanin" tvg-name="Radio Zrenjanin" group-title="RS" tvg-logo="https://i.imgur.com/9GX6lPu.png",Radio Zrenjanin
 https://radio.dukahosting.com:7031/
 
-#EXTINF:-1 radio="true" tvg-id="Hrvatski radio Klasik" tvg-name="Hrvatski radio Klasik" group-title="HR" tvg-logo="",Hrvatski radio Klasik
+#EXTINF:-1 radio="true" tvg-id="HRRadioKlasik" tvg-name="HRT Radio Klasik" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Klasik
 https://28553.live.streamtheworld.com/HR_CLASSICSAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRPop" tvg-name="HRT Radio Pop" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Pop
+https://25453.live.streamtheworld.com/HR_POPAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRPrviprogram" tvg-name="HRT Radio Prvi program" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Prvi program
+https://23543.live.streamtheworld.com/PROGRAM1AAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRDrugiprogram" tvg-name="HRT Radio Drugi program" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Drugi program
+https://21633.live.streamtheworld.com/PROGRAM2AAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRTreciprogram" tvg-name="HRT Radio Treci program" group-title="HR"tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Treci program
+https://27863.live.streamtheworld.com/PROGRAM3AAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRSljeme" tvg-name="HRT Radio Sljeme" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Sljeme
+https://25693.live.streamtheworld.com/SLJEMEAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HROsijek" tvg-name="HRT Radio Osijek" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Osijek
+https://22733.live.streamtheworld.com/OSIJEKAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRPula" tvg-name="HRT Radio Pula" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Pula
+https://28503.live.streamtheworld.com/PULAAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRRijeka" tvg-name="HRT Radio Rijeka" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Rijeka
+https://22733.live.streamtheworld.com/RIJEKAAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRZadar" tvg-name="HRT Radio Zadar" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Zadar
+https://27863.live.streamtheworld.com/ZADARAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRKnin" tvg-name="HRT Radio Knin" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Knin
+https://25683.live.streamtheworld.com/KNINAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRSplit" tvg-name="HRT Radio Split" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Split
+https://27873.live.streamtheworld.com/SPLITAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRDubrovnik" tvg-name="HR Dubrovnik" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Dubrovnik
+https://25683.live.streamtheworld.com/DUBROVNIKAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="HRGlasHrvatske" tvg-name="HR Glas Hrvatske" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Glas Hrvatske
+https://28033.live.streamtheworld.com/VOICEOFCROATIAAAC.aac
