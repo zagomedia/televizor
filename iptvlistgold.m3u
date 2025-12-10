@@ -895,6 +895,9 @@ https://cast2.name.ba/proxy/nedim/
 #EXTINF:-1 radio="true" tvg-id="antenasarajevo" tvg-name="Antena Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/BU5Nzpt.png",Antena Sarajevo
 https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
 
+#EXTINF:-1 radio="true" tvg-id="radiostarigrad Sarajevo" tvg-name="Radio Stari Grad Sarajevo" group-title="BiH" tvg-logo="https://i.imgur.com/alfpbm7.png",Radio Stari Grad Sarajevo
+https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3
+
 #EXTINF:-1 radio="true" tvg-id="RadioKozara" tvg-name="Radio Kozara" group-title="BiH" tvg-logo="https://i.imgur.com/a9aNFcu.png",Radio Kozara
 http://51.254.61.148:11111
 
@@ -1098,3 +1101,9 @@ https://25683.live.streamtheworld.com/DUBROVNIKAAC.aac
 
 #EXTINF:-1 radio="true" tvg-id="HRGlasHrvatske" tvg-name="HR Glas Hrvatske" group-title="HR" tvg-logo="https://i.imgur.com/Up3jGL8.png",HRT Radio Glas Hrvatske
 https://28033.live.streamtheworld.com/VOICEOFCROATIAAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="RadioMax993FM" tvg-name="Radio Max 99.3 MHz FM" group-title="HR" tvg-logo="https://i.imgur.com/tVhlXfO.png",Radio Max 99.3 MHz FM
+https://a7.asurahosting.com:7600/radio.mp3
+
+#EXTINF:-1 radio="true" tvg-id="RadioDalmacija" tvg-name="Radio Dalmacija" group-title="HR" tvg-logo="https://i.imgur.com/erZSdKG.png",Radio Dalmacija
+http://shoutcast.pondi.hr:8000/
