@@ -311,6 +311,10 @@ https://webtvstream.bhtelecom.ba/national_geographic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8
 
+#EXTINF:-1 tvg-id="soskanalplus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQCcO1S.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SOS Kanal Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MaxSport1.hr" tvg-name="Max Sport 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/TxXuKW0.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Max Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://23.88.66.93/MAXSPORT_1/index.m3u8
@@ -427,16 +431,6 @@ https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/BQktCxC.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Crime (DE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/15178/index.m3u8
-
-#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/jIcqgaE.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL Passion (DE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31369/index.m3u8
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31370/index.m3u8
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/7230/index.m3u8
-
 #EXTINF:-1 tvg-id="nitro.de" tvg-name="Nitro" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/eCS1luz.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nitro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
@@ -505,10 +499,6 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="welt.de" tvg-name="WELT" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qGPpN2y.png" group-title="Dokumentation" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",WELT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://welt.personalstream.tv/v1/master.m3u8
-
 #EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="Deutsche Welle" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/U7P0eB8.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Deutsche Welle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
@@ -529,21 +519,9 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="bildtv.de" tvg-name="Bild TV" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/LvsDQhG.png" group-title="Dokumentationen" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Bild TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bild.personalstream.tv/v1/master.m3u8
-
-#EXTINF:-1 tvg-id="autobildtv.de" tvg-name="Auto Bild TV" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/80bGJmx.png" group-title="Sport" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Auto Bild TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
-
 #EXTINF:-1 tvg-id="idjtv.rs" tvg-name="IDJTV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zhKxthr.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",IDJTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
-
-#EXTINF:-1 tvg-id="dmsat.rs" tvg-name="DM Sat" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/IAwMtIk.jpeg" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DM Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://78.108.251.7/DMSat/index.m3u8
 
 #EXTINF:-1 tvg-id="tvdugaplus.com" tvg-name="TV Duga plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/KpFmlSI.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Duga plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -564,18 +542,6 @@ https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 tvg-id="klapeitamburetv.hr" tvg-name="Klape i Tambure TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/hJ4WBbb.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Klape i Tambure TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.cmctv.hr:49998/kit/live.m3u8
-
-#EXTINF:-1 tvg-id="tvkcn2.net" tvg-name="K::CN 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1DGj9t6.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://5.57.74.130:8000/play/a03r/index.m3u8
-
-#EXTINF:-1 tvg-id="tvkcn3.net" tvg-name="K::CN 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5cQGAMx.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",K::CN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://78.128.125.60:9981/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="vibetv.rs" tvg-name="Vibe TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kXDN9Es.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Vibe TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://77.46.147.128:1935/vibetv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="toptv.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Top TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -628,70 +594,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="deluxemusicrap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/PShwwuR.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DELUXE MUSIC RAP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-
-#EXTINF:-1 tvg-id="soskanalplus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQCcO1S.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SOS Kanal Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="Arena Sport 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LKIiRiB.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://78.108.251.7/Arena_Sport_1/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="Arena Sport 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/a5TlLuu.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://78.108.251.7/Arena_Sport_2/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="Arena Sport 3" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Xlqab86.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://78.108.251.7/Arena_Sport_3/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="Arena Sport 4" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/0UzKTE0.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://78.108.251.7/Arena_Sport_4/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="Arena Sport 5" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/dMy3LnV.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://78.108.251.7/Arena_Sport_5/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport6.rs" tvg-name="Arena Sport 6" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/x7Zd5qk.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Arena6/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="Arena Sport 7" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Z3wtujB.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Arena7/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="Arena Sport 8" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/z5aXHuw.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Arena8/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport9.rs" tvg-name="Arena Sport 9" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/iP5KfUb.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Arena9/index.m3u8
-
-#EXTINF:-1 tvg-id="arenasport10.rs" tvg-name="Arena Sport 10" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/3YQo5FB.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arena Sport 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/Arena10/index.m3u8
-
-#EXTINF:-1 tvg-id="maxsport1.hr" tvg-name="Max Sport 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/TxXuKW0.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Max Sport 1 (HR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/MaxSport1/index.m3u8
-
-#EXTINF:-1 tvg-id="maxsport2.hr" tvg-name="Max Sport 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/fWqar9H.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Max Sport 2 (HR)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/MaxSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/qxMNUW0.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Eurosport1 (DE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-
-#EXTINF:-1 tvg-id="sport1" tvg-name="Sport 1 (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/X7q1ziT.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sport1 (DE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
-
-#EXTINF:-1 tvg-id="automotorsport" tvg-name="Auto Motor Sport (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/6M1cS7x.png" group-title="Sports" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Auto Motor Sport (DE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://185.166.252.230/AutoMotorSport/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="NaxiRadio" tvg-name="Naxi Radio" group-title="RS" tvg-logo="https://i.imgur.com/Kp9lf5u.png",Naxi Radio
 http://naxi128.streaming.rs:9150/
