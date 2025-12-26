@@ -293,7 +293,7 @@ https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo
 
 #EXTINF:-1 tvg-id="n1.hr" tvg-name="N1 HR" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/nJnPsae.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",N1 HR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://n1-bg-ku-h3-2.umn.cdn.united.cloud/stream?i=aRzPw9q4KOPF3ThIvzGpkw&a=FawmVICC5jAMy4yIZjCx1bXic34dmWE5LAemcTBv8qK8i-LFIKA_aMY0Gohd70oLuekRDzLr_mEE4GR6EGCrpceW-TM6WCZZdBRvsbeSHy2z0vhWTDUxNsJ3Dck7yMSsdunsu-FH90XHNEhFWTaUelFggiS8shWwkNaI1jx9ASgoKFN5sbNPqWAsrRggqFUV6_GF4pnXHSKq1VeiqEcpiWC-q8u6KimXqpJmCyAmqcpJEnxYHmGpSr25C1Qot-x4&sp=n1info&u=n1info&session=e9b84f0e-2361-6872-e9ef-f2936943ee74&player=m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14935&extension=ts
 
 #EXTINF:-1 tvg-id="starchannel.tv" tvg-name="STAR Channel" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/XHv8xaT.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
