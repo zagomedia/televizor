@@ -114,6 +114,10 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14931&extensi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14930&extension=ts
 
+#EXTINF:-1 tvg-id="domatv.hr" tvg-name="Doma TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/wvQInqG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Doma TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14942&extension=ts
+
 #EXTINF:-1 tvg-id="novas.rs" tvg-name="Nova S" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mHJAqqS.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=H9FAErjFl1QBwEedJgdWqQ&a=RyqZAfXpLzotsDGgYgnw78siAfqVm4mgb4ZDkxyXwzzt9ZIfmBixU3E6rmniY-ysjiI49j9MkTtSplU1H3uIvUN59ftih6Cd5rBan_nrKRLFTJsFvNKr2bxcKkIuF6WvTcM5bAg55G_i1B-7devbnvS0li1Y2RUfksV_hUYJJwvflJJxMwUZTnJhRds0tehuNOdzPWSJz9qclkdFr4FiegiOAlwIWAkfzybqEpeMe34&sp=novas&u=novas&session=206c0697-4b8e-2322-2a08-718e206505df&player=m3u8
@@ -122,7 +126,7 @@ https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=H9FAErjFl1QBwEedJgdWqQ&a=Ryq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dyndns.iptvposokuca.info:82/live?cId=78&uId=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
 
-#EXTINF:-1 tvg-id="novas.me" tvg-name="Nova M" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/VXNk18u.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova M
+#EXTINF:-1 tvg-id="novam.me" tvg-name="Nova M" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/VXNk18u.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33012&extension=ts
 
