@@ -15,13 +15,13 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30614&extensi
 http://23.88.66.93/RTS_3/index.m3u8
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30613&extension=ts
 
-#EXTINF:-1 tvg-id="rtsdrama.rs" tvg-name="RTS Drama" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/E68koH9.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30612&extension=ts
-
 #EXTINF:-1 tvg-id="rtssvet.rs" tvg-name="RTS Svet" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/FrIkIG3.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS Svet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+
+#EXTINF:-1 tvg-id="rtsdrama.rs" tvg-name="RTS Drama" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/E68koH9.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30612&extension=ts
 
 #EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/9ANpvq4.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -166,9 +166,14 @@ https://edge8.pink.rs/redtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge8.pink.rs/pinktv/index.m3u8
 
+#EXTINF:-1 tvg-id="pinkbh.rs" tvg-name="Pink BH" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/KbSNYGq.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink BH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30662&extension=ts
+
 #EXTINF:-1 tvg-id="pinkplus.rs" tvg-name="Pink Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/1O6LEcO.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/pink_plus.m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30639&extension=ts
 
 #EXTINF:-1 tvg-id="narodnatv.rs" tvg-name="Narodna TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/xnFgCxd.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Narodna TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
