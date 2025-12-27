@@ -58,15 +58,19 @@ https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
 
 #EXTINF:-1 tvg-id="tvcg1.me" tvg-name="RTCG 1" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/sSRejfW.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/RTCG_1/index.m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33016&extension=ts
 
 #EXTINF:-1 tvg-id="tvcg2.me" tvg-name="RTCG 2" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/WlOhup6.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://23.88.66.93/RTCG_2/index.m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33017&extension=ts
+
+#EXTINF:-1 tvg-id="tvcg3.me" tvg-name="RTCG 3" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/Qt4qlFf.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTCG 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33014&extension=ts
 
 #EXTINF:-1 tvg-id="mne.me" tvg-name="TVCG MNE" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/YIowC4z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",TVCG MNE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33018&extension=ts
 
 #EXTINF:-1 tvg-id="rtvhb.ba" tvg-name="RTV Herceg-Bosne" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/uy5qiIg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV Herceg-Bosne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
