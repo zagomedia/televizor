@@ -122,6 +122,10 @@ https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=H9FAErjFl1QBwEedJgdWqQ&a=Ryq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dyndns.iptvposokuca.info:82/live?cId=78&uId=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
 
+#EXTINF:-1 tvg-id="novas.me" tvg-name="Nova M" tvg-country="ME" tvg-language="CNR" tvg-logo="https://i.imgur.com/mHJAqqS.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33012&extension=ts
+
 #EXTINF:-1 tvg-id="prva.rs" tvg-name="Prva (RS)" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Ipbx6UQ.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Prva (RS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://46.240.143.86:8065/prva
