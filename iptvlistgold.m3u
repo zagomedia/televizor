@@ -486,9 +486,7 @@ http://176.10.117.68:6060/pro7/index.m3u8
 
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/bqLZNvM.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Maxx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://strm.hdtvizlecanli.com/live/pro7max.m3u8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/15174/index.m3u8
-http://global4k.info:8080/play/live.php?mac=A0:BB:3E:00:14:A5&stream=95563&extension=ts
+http://euroroyals.com:8080/play/live.php?mac=00:1A:79:00:20:77&stream=2323&extension=ts
 
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/ZACoQ1C.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Fun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
