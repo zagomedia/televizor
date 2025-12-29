@@ -488,10 +488,11 @@ http://176.10.117.68:6060/pro7/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://strm.hdtvizlecanli.com/live/pro7max.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/15174/index.m3u8
+http://global4k.info:8080/play/live.php?mac=A0:BB:3E:00:14:A5&stream=95563&extension=ts
 
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/ZACoQ1C.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben Fun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31360/index.m3u8
+http://euroroyals.com:8080/play/live.php?mac=00:1A:79:00:20:77&stream=3520&extension=ts
 
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/5l6aMpx.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Sat.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -543,7 +544,7 @@ https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 
 #EXTINF:-1 tvg-id="voxup.de" tvg-name="VOXup" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Ol5KlEp.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",VOXup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/31432/index.m3u8
+http://global4k.info:8080/play/live.php?mac=A0:BB:3E:00:14:A5&stream=95573&extension=ts
 
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL (DE)" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/Nrl5ZFk.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTL (DE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
