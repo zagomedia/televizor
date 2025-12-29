@@ -427,7 +427,7 @@ https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 
 #EXTINF:-1 tvg-id="atv.at" tvg-name="ATV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/cqgr7HK.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/15176/index.m3u8
+http://euroroyals.com:8080/play/live.php?mac=00:1A:79:00:20:77&stream=2332&extension=ts
 
 #EXTINF:-1 tvg-id="atv2.at" tvg-name="ATV2" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/wqt3WDG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ATV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -517,7 +517,7 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychan
 
 #EXTINF:-1 tvg-id="arte.de" tvg-name="Arte DE" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/mADdd4k.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Arte DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NLEGXDQYDUCYB4/15171/index.m3u8
+http://euroroyals.com:8080/play/live.php?mac=00:1A:79:00:20:77&stream=2302&extension=ts
 
 #EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/cXCw02c.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
