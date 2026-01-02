@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Puls4.at" tvg-name="Puls 4" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Puls 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1284&extension=ts
-
 #EXTINF:-1 tvg-id="rts1.rs" tvg-name="RTS 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Jw5wuQf.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://51.83.135.95/RTS1/index.m3u8
@@ -20,14 +15,6 @@ http://51.83.135.95/RTS3/index.m3u8
 #EXTINF:-1 tvg-id="rtssvet.rs" tvg-name="RTS Svet" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/FrIkIG3.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS Svet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
-
-#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="RTV 1" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/qEDqvKG.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="RTV 2" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/5oJ9SHY.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/9ANpvq4.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -440,6 +427,10 @@ http://euroroyals.com:8080/play/live.php?mac=00:1A:79:00:20:77&stream=2332&exten
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://viamotionhsi.netplus.ch/
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+
+#EXTINF:-1 tvg-id="Puls24.at" tvg-name="Puls 24" tvg-country="AT" tvg-language="DEU" tvg-logo="" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Puls 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:A8:28:BD&stream=1284&extension=ts
 
 #EXTINF:-1 tvg-id="prosieben.de" tvg-name="ProSieben" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/72cqcuv.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ProSieben
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
