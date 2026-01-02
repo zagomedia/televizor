@@ -31,22 +31,27 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/9ANpvq4.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14940&extension=ts
 
 #EXTINF:-1 tvg-id="hrt2.hr" tvg-name="HRT 2" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/jKaYnEl.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14939&extension=ts
 
 #EXTINF:-1 tvg-id="hrt3.hr" tvg-name="HRT 3" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/BVKrtOe.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14938&extension=ts
 
 #EXTINF:-1 tvg-id="hrt4.hr" tvg-name="HRT 4" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/hBFQX68.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14937&extension=ts
 
 #EXTINF:-1 tvg-id="hrtint.hr" tvg-name="HRT Int." tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/r8PdVca.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT Int.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33169&extension=ts
 
 #EXTINF:-1 tvg-id="rtrs.ba" tvg-name="RTRS" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/JI8R8is.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS
@@ -153,6 +158,7 @@ https://edge8.pink.rs/pinktv/index.m3u8
 
 #EXTINF:-1 tvg-id="pinkbh.rs" tvg-name="Pink BH" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/KbSNYGq.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Pink BH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=30662&extension=ts
 
 #EXTINF:-1 tvg-id="narodnatv.rs" tvg-name="Narodna TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/xnFgCxd.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Narodna TV
