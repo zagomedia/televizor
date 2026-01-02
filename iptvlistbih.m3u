@@ -313,7 +313,7 @@ https://best-str.umn.cdn.united.cloud/stream?i=Vn9q8W7mVOG4y6Ui1eK2vA&a=Th9Xz0Yo
 
 #EXTINF:-1 tvg-id="n1.hr" tvg-name="N1 HR" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/nJnPsae.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",N1 HR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14935&extension=ts
+https://n1-bg-ku-h3-1.umn.cdn.united.cloud/stream/fragment/ts/live/?session=272acbca-e260-f5fa-4b26-25559861c240&offset=556853&pointeroffset=53&fragmentlength=4800
 
 #EXTINF:-1 tvg-id="starchannel.tv" tvg-name="STAR Channel" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/XHv8xaT.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",STAR Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
